@@ -1,0 +1,75 @@
+AccId: ORI10010149
+Organism: Halorhabdus utahensis DSM 12940 chromosome
+RefSeq: NC_013158
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Halorhabdus.
+ChromSize: 3116795 nt
+ChromGC: 0.629
+OriCLen: 1022 nt
+OriCAT: 0.5049
+OriCIdx: 1595322..1596343 nt
+Cdc6Idx: 1025792..1026919, 1053027..1054232, 1593546..1595321, 1735301..1736320, 1894137..1895147 nt
+Extremes: 1535967 nt (minimum), 2951687 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CACCCTCCCCCACCCCTTCGTTTCGAGTGGAACGTTCCACTTGAAACGAAGGGGTGGGGGGT
+Sequence: gtggttttcatcccccttctttcaggtggagattcgcccgcagatccgagatagcggccgaaaacggcctgtagaaccgatatggcggatttcgagatggcgatcttggtgcagttgaaccacaagaaccggtgggtgaaaggctattaaaaatttcggttcagatcgtgcccagtcgatgatgatggattcggagaggtgatcatgtccggtgaatcagtttgcagaggtccaagcaccgtccggattggagtggtctggtttccggattggagggagcctggttttacaggcttcgatgcgaattcccggagcttgcccccgagacgatccacacatctgcatgaagtctggagaggtttgtcattgagtgctattgtcaaagacaccctcccccaccccttcgtttcgagtggaacagtccaaacacccggggaggggggttcagcaaccgggtaaggacaatctagaaaagtcgggttttattagagagtacatataacagtaaccgtaatgggaaccaattctctcattgaataaatttaaagtgtctagtagatattagtactagatctacctagaacaaaagtactagtttccactagaggttctgtatggcactctcatctccattgacgatggttctcagtcggtactaatcggtgttagttggtccttcctgagacgatccgctgatatactgtcgaacggtttcggcgatcagtttggcctcacccgatgctttgccgttctgctctacagtgtaagataccgaatcatccaatatgcatcacgactgcagtagaaacgatcccgtgcattccggagactgatagtctattatatactggtctataccagtctgatgtcatggtttcgttatatctacccatcgccaatatcgaatcgccaccgagtcggtctgcgtgtggattttcgctcgttcggacgatctgtaccggtcagcgcatggtccacccggtggttcacggtgttccacttgaaacgaaggggtggggggt
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+28  392 P 28  992 -1 3.42e-10 cccccaccccttcgtttc[ga]agtggaaca
+12  241 F 12  263  0 1.75e-02 tccggattggag
+13  156 P 13  948 -1 1.71e-01 cggt[ta]cagatcgt
+13  219 R 13  350 -1 1.71e-01 gtttg[cg]agaggtc
+13  247 R 13  348 -1 1.71e-01 ttggag[ta]ggtctg
+13  320 F 13  678 -1 1.71e-01 cc[ct]gagacgatcc
+10  672 R 10  672  0 2.80e-01 gtccttcctg
+12    5 R 12   10 -1 6.30e-01 tttc[at]tccccct
+12   24 P 12  902 -1 6.30e-01 ggtgg[ac]gattcg
+12   66 P 12  282 -1 6.30e-01 gcctgta[ga]aacc
+12  348 R 12  351 -1 6.30e-01 gt[ct]tggagaggt
+12  390 R 12  393 -1 6.30e-01 ct[ct]ccccacccc
+12  390 C 12 1007 -1 6.30e-01 ct[ct]ccccacccc
+12  432 F 12 1010 -1 6.30e-01 gggg[at]ggggggt
+9  146 R  9  146  0 1.12e+00 ttaaaaatt
+9  215 F  9  719  0 1.12e+00 atcagtttg
+9  253 R  9  253  0 1.12e+00 tggtctggt
+9  360 C  9  500  0 1.12e+00 ttgtcattg
+9  388 C  9  433  0 1.12e+00 ccctccccc
+9  411 P  9  992  0 1.12e+00 agtggaaca
+9  432 R  9  432  0 1.12e+00 ggggagggg
+9  538 R  9  538  0 1.12e+00 aaatttaaa
+9  829 R  9  829  0 1.12e+00 ctgatagtc
+9  885 R  9  885  0 1.12e+00 ctacccatc
+9 1010 R  9 1010  0 1.12e+00 ggggtgggg
+11   19 P 11  995 -1 2.31e+00 tttca[ga]gtgga
+11   70 F 11  801 -1 2.31e+00 gtagaa[ca]cgat
+11  189 R 11  351 -1 2.31e+00 tt[ct]ggagaggt
+11  229 F 11  420 -1 2.31e+00 gtccaa[ga]cacc
+11  492 P 11  878 -1 2.31e+00 gta[cg]atataac
+11  631 P 11  889 -1 2.31e+00 attg[ag]cgatgg
+11  911 P 11  911 -1 2.31e+00 accga[gc]tcggt
+11  974 P 11  974 -1 2.31e+00 ccacc[cg]ggtgg
+8    3 C  8  583  0 4.48e+00 gttttcat
+8   65 R  8  204  0 4.48e+00 ggcctgta
+8  115 P  8  981  0 4.48e+00 tgaaccac
+8  161 P  8  948  0 4.48e+00 cagatcgt
+8  192 F  8  352  0 4.48e+00 ggagaggt
+8  196 C  8  597  0 4.48e+00 aggtgatc
+8  199 R  8  588  0 4.48e+00 tgatcatg
+8  312 C  8  703  0 4.48e+00 agcttgcc
+8  329 P  8  926  0 4.48e+00 atccacac
+8  356 C  8  421  0 4.48e+00 aggtttgt
+8  374 C  8  498  0 4.48e+00 tattgtca
+8  388 P  8  432  0 4.48e+00 ccctcccc
+8  487 C  8  525  0 4.48e+00 agagagta
+8  537 P  8  537  0 4.48e+00 taaattta
+8  554 P  8  881  0 4.48e+00 gtagatat
+8  560 P  8  652  0 4.48e+00 attagtac
+8  562 P  8  562  0 4.48e+00 tagtacta

@@ -1,0 +1,75 @@
+AccId: ORI10010189
+Organism: Thermococcus sp. CL1 chromosome
+RefSeq: NC_018015
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Thermococci, Thermococcales, Thermococcaceae, Thermococcus.
+ChromSize: 1950313 nt
+ChromGC: 0.5582
+OriCLen: 279 nt
+OriCAT: 0.5448
+OriCIdx: 1020088..1020366 nt
+Cdc6Idx: 1020367..1021614 nt
+Extremes: 758533 nt (minimum), 1628592 nt (maximum)
+Note: 
+Sequence: tctggccctcttttctctggccatctcttctattttctggttggctttttacattcccctgttcaacaacgcatataaacccccgactccgagtatctatgctttcctctgcatccagtgcttcctttggaggcagtgtatagcgttcaatttggaacatggtatcttgacaaatatccagaattagcgcttaaaaatgttcatctggcgataatgtcctgcttaatttgcgctataatctggggtcgccctggatttccggtggaatgggtggtgctc
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+10   7 R 10   7  0 2.09e-02 ctcttttctc
+9  92 R  9  92  0 8.35e-02 gtatctatg
+11   0 F 11  15 -1 1.72e-01 tctggcc[ca]tct
+8  45 C  8 192  0 3.34e-01 tttttaca
+8 239 R  8 239  0 3.34e-01 ctggggtc
+10   8 R 10  28 -1 6.26e-01 tctttt[ca]tct
+10   9 F 10 101 -1 6.26e-01 cttt[tc]ctctg
+10 142 R 10 222 -1 6.26e-01 gcgtt[ct]aatt
+10 181 F 10 224 -1 6.26e-01 aatt[at]gcgct
+7  48 R  7  48  0 1.34e+00 ttacatt
+7  63 R  7  63  0 1.34e+00 caacaac
+7  73 R  7 170  0 1.34e+00 tataaac
+7 138 P  7 230  0 1.34e+00 tatagcg
+7 191 R  7 191  0 1.34e+00 taaaaat
+9   7 F  9  29 -1 2.25e+00 ct[ca]ttttct
+9  15 F  9 203 -1 2.25e+00 tctggc[cg]at
+9  59 P  9  59 -1 2.25e+00 tgtt[cg]aaca
+9  76 C  9 125 -1 2.25e+00 aaacc[ct]ccg
+9  85 P  9  85 -1 2.25e+00 actc[cg]gagt
+9 108 P  9 127 -1 2.25e+00 ctgc[ac]tcca
+9 112 P  9 247 -1 2.25e+00 atccag[tg]gc
+9 138 R  9 227 -1 2.25e+00 tat[ac]gcgtt
+9 139 R  9 204 -1 2.25e+00 atagcg[tg]tc
+6   0 F  6 203  0 5.34e+00 tctggc
+6  12 R  6  23  0 5.34e+00 ttctct
+6  17 P  6  17  0 5.34e+00 tggcca
+6  25 R  6  25  0 5.34e+00 tcttct
+6  27 R  6 162  0 5.34e+00 ttctat
+6  34 P  6 177  0 5.34e+00 ttctgg
+6  38 R  6  38  0 5.34e+00 ggttgg
+6  45 P  6 191  0 5.34e+00 ttttta
+6  51 P  6 263  0 5.34e+00 cattcc
+6  54 R  6  54  0 5.34e+00 tcccct
+6  59 F  6 197  0 5.34e+00 tgttca
+6  60 F  6 144  0 5.34e+00 gttcaa
+6  75 C  6 149  0 5.34e+00 taaacc
+6  92 F  6 161  0 5.34e+00 gtatct
+6  95 R  6 161  0 5.34e+00 tctatg
+6 102 R  6 122  0 5.34e+00 tttcct
+6 112 F  6 175  0 5.34e+00 atccag
+6 121 R  6 121  0 5.34e+00 ttcctt
+6 125 F  6 150  0 5.34e+00 tttgga
+6 148 F  6 224  0 5.34e+00 aatttg
+6 154 P  6 196  0 5.34e+00 gaacat
+6 158 R  6 158  0 5.34e+00 atggta
+6 172 R  6 232  0 5.34e+00 aatatc
+6 175 P  6 250  0 5.34e+00 atccag
+6 180 C  6 221  0 5.34e+00 gaatta
+6 184 P  6 229  0 5.34e+00 tagcgc
+6 185 P  6 185  0 5.34e+00 agcgct

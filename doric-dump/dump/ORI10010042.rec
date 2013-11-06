@@ -1,0 +1,75 @@
+AccId: ORI10010042
+Organism: Metallosphaera sedula DSM 5348
+RefSeq: NC_009440
+Topology: Circular
+Lineage: Archaea, Crenarchaeota, Thermoprotei, Sulfolobales, Sulfolobaceae, Metallosphaera.
+ChromSize: 2191517 nt
+ChromGC: 0.4623
+OriCLen: 396 nt
+OriCAT: 0.6667
+OriCIdx: 432754..433149 nt
+Cdc6Idx: 331..1521, 638445..639677, 1969173..1970426 nt
+Extremes: 27132 nt (minimum), 2054364 nt (maximum)
+Note: Note that the homologous sequence has been confirmed as oriC region using in vitro. Please refer to Robinson, N.P. and Bell, S.D. 2007 (Proc Natl Acad Sci U S A, 104, 5806-5811) for more detials.
+Sequence: gttttactttattattctactttataaatgtttatgactagaggattcgacttcgcgatttttcagagaattgttacaagttagttgaggaacaaccagagaatagtccagattggggatagtttgcgttgcatggtattagttaaggaattaattgaatatcaaatcaaactgacgtaatgtgataaagtgaaaactaaatcatatatatggactttgttgctccagcccttgtatttcccttaaccttcatgaatctagtattttctagtattttaggaatgcgctatacaagttcatatctgtttattatctctccgcaggaatcgtttgaattacgatgtaaccgaaattgtctaaaaggggaaggaatttggattgaaacaaagagtcaca
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+14 138 R 14 142 -1 6.90e-03 tta[ga]ttaaggaatt
+11 256 F 11 266  0 1.05e-02 tctagtatttt
+10 202 P 10 202  0 4.21e-02 catatatatg
+12  80 F 12 138 -1 9.46e-02 ttagtt[ga]aggaa
+12 213 C 12 379 -1 9.46e-02 actttgtt[gt]ctc
+9 186 R  9 186  0 1.68e-01 aaagtgaaa
+9 195 R  9 195  0 1.68e-01 actaaatca
+9 380 R  9 380  0 1.68e-01 gaaacaaag
+11   1 F 11  14 -1 3.47e-01 tt[tc]tactttat
+11   1 P 11 184 -1 3.47e-01 ttt[tc]actttat
+11  63 F 11  96 -1 3.47e-01 cagagaat[ta]gt
+8   7 F  8 305  0 6.73e-01 tttattat
+8   8 R  8   8  0 6.73e-01 ttattatt
+8  20 P  8  20  0 6.73e-01 tttataaa
+8  74 F  8 289  0 6.73e-01 tacaagtt
+8 142 R  8 366  0 6.73e-01 ttaaggaa
+8 144 F  8 366  0 6.73e-01 aaggaatt
+8 148 P  8 148  0 6.73e-01 aattaatt
+8 163 R  8 193  0 6.73e-01 aaatcaaa
+8 248 P  8 248  0 6.73e-01 ttcatgaa
+8 360 R  8 360  0 6.73e-01 aaggggaa
+10   6 R 10 306 -1 1.26e+00 ct[tc]tattatt
+10  85 R 10 382 -1 1.26e+00 tgag[ga]aacaa
+10 136 R 10 152 -1 1.26e+00 tat[ta]agttaa
+10 184 C 10 234 -1 1.26e+00 ataaag[tg]gaa
+10 207 P 10 292 -1 1.26e+00 atatg[ga]actt
+10 256 R 10 305 -1 1.26e+00 tcta[gt]tattt
+10 266 R 10 305 -1 1.26e+00 tcta[gt]tattt
+7   5 P  7 184  0 2.69e+00 actttat
+7  18 P  7 184  0 2.69e+00 actttat
+7  28 F  7 303  0 2.69e+00 tgtttat
+7  30 R  7 259  0 2.69e+00 tttatga
+7  30 R  7 269  0 2.69e+00 tttatga
+7  69 R  7  69  0 2.69e+00 attgtta
+7  77 R  7 376  0 2.69e+00 aagttag
+7 118 C  7 159  0 2.69e+00 atagttt
+7 119 C  7 165  0 2.69e+00 tagtttg
+7 120 R  7 327  0 2.69e+00 agtttgc
+7 123 R  7 123  0 2.69e+00 ttgcgtt
+7 141 P  7 240  0 2.69e+00 gttaagg
+7 166 R  7 166  0 2.69e+00 tcaaact
+7 203 R  7 203  0 2.69e+00 atatata
+7 203 C  7 204  0 2.69e+00 atatata
+7 204 R  7 204  0 2.69e+00 tatatat
+7 214 P  7 382  0 2.69e+00 ctttgtt
+7 230 P  7 288  0 2.69e+00 cttgtat
+7 237 R  7 237  0 2.69e+00 ttccctt
+7 300 R  7 352  0 2.69e+00 atctgtt
+9   1 C  9 186 -1 4.54e+00 ttt[tc]acttt
+9  13 F  9  44 -1 4.54e+00 attc[tg]actt

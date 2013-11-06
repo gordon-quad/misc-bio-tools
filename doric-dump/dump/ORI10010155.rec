@@ -1,0 +1,75 @@
+AccId: ORI10010155
+Organism: Haloterrigena turkmenica DSM 5511 chromosome
+RefSeq: NC_013743
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Haloterrigena.
+ChromSize: 3889038 nt
+ChromGC: 0.6583
+OriCLen: 699 nt
+OriCAT: 0.4821
+OriCIdx: 2627221..2627919 nt
+Cdc6Idx: 155..2011, 541500..542753, 731984..733006, 1211484..1212767, 1311468..1312688, 1918696..1919937, 2503283..2504566, 2627920..2629272, 3041166..3042383, 3241079..3242266, 3743469..3744599 nt
+Extremes: 3018269 nt (minimum), 326 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CACACACCGTTGTCGAAATGAAATTTCATTTCGATTACGGTGTGGGTTCATTTCGCTGGTGG
+Sequence: cgtcgacgcgaacggaacggctccgtcccgacctgttccgtcccggcccgttccgtccgagtcacgcgtcgctgttctcggatagcttcctcgagtcatggacacgtctcagagaaatctgtttgtctgtttcggtcgtctctcacactgtattcgaaatgaaatctctctattgagtagctagagaagagagtctagaagaggtaccctcacacaccgttgtcgaaatgaaattcggtggtcgaatccggatactggctccatattcggtatatgtgtcgaaatcactagttccaaacacggtttccgagatttcatttcgatcacggtcctcggttctcggccagcgagcactccgtttcgcggtttcatttcgattacggtgtgggaacggtccggtccggccgctcctccaactcgatggatcgacttcatttcgaaaacagtcccttcatttcgacaacggtcttgtttccgcttcatttcggtcacggtgtcttcatttcggcgacggtcggcatccgatcttcatttcgaaaacggtgccttcatttcgctggtggccgtctcactccgataccggcgatatctcggcttcatttcgactgcggactcttcacttcgaccacaccgtcttcatttcgactgtagccccttcatttcgaaaacggtattacagcgtagtgaacagtgcagata
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+18 526 F 18 654  0 2.00e-06 cttcatttcgaaaacggt
+20 447 F 20 652 -1 7.50e-06 cccttcatttcga[ca]aacggt
+17 215 P 17 450  0 8.00e-06 accgttgtcgaaatgaa
+18 214 P 18 527 -1 1.08e-04 caccgtt[gt]tcgaaatgaa
+18 312 F 18 366 -1 1.08e-04 tttcatttcgat[ct]acggt
+18 429 F 18 654 -1 1.08e-04 cttcatttcgaaaac[ag]gt
+18 429 F 18 526 -1 1.08e-04 cttcatttcgaaaac[ag]gt
+18 449 F 18 526 -1 1.08e-04 cttcatttcga[ca]aacggt
+15 153 P 15 308  0 1.28e-04 tcgaaatgaaatctc
+17 146 P 17 430 -1 4.08e-04 actgt[at]ttcgaaatgaa
+17 215 P 17 655 -1 4.08e-04 accgtt[gt]tcgaaatgaa
+17 313 F 17 478 -1 4.08e-04 ttcatttcg[ag]tcacggt
+17 490 F 17 539 -1 4.08e-04 acggtg[tc]cttcatttcg
+17 591 F 17 631 -1 4.08e-04 cg[gt]cttcatttcgactg
+15 149 P 15 366 -1 5.76e-03 gta[ta]tcgaaatgaaa
+15 425 F 15 590 -1 5.76e-03 tcg[ag]cttcatttcga
+15 429 F 15 449 -1 5.76e-03 cttcatttcga[ac]aac
+12 153 F 12 222  0 8.19e-03 tcgaaatgaaat
+12 222 P 12 311  0 8.19e-03 tcgaaatgaaat
+12 449 F 12 594  0 8.19e-03 cttcatttcgac
+12 449 F 12 634  0 8.19e-03 cttcatttcgac
+12 495 F 12 632  0 8.19e-03 gtcttcatttcg
+12 525 F 12 633  0 8.19e-03 tcttcatttcga
+14 149 P 14 527 -1 2.15e-02 gt[at]ttcgaaatgaa
+14 149 P 14 655 -1 2.15e-02 gt[at]ttcgaaatgaa
+14 152 P 14 427 -1 2.15e-02 ttcgaaatgaa[ag]tc
+14 218 P 14 430 -1 2.15e-02 gtt[gt]tcgaaatgaa
+14 363 F 14 591 -1 2.15e-02 cgg[tc]ttcatttcga
+14 426 F 14 631 -1 2.15e-02 cg[at]cttcatttcga
+14 445 F 14 542 -1 2.15e-02 gt[cg]ccttcatttcg
+14 473 F 14 590 -1 2.15e-02 tc[cg]gcttcatttcg
+11 117 R 11 117  0 3.28e-02 tctgtttgtct
+11 121 R 11 121  0 3.28e-02 tttgtctgttt
+11 153 P 11 366  0 3.28e-02 tcgaaatgaaa
+11 221 P 11 635  0 3.28e-02 gtcgaaatgaa
+11 221 P 11 595  0 3.28e-02 gtcgaaatgaa
+11 222 P 11 366  0 3.28e-02 tcgaaatgaaa
+11 429 F 11 594  0 3.28e-02 cttcatttcga
+11 477 F 11 497  0 3.28e-02 cttcatttcgg
+11 496 F 11 525  0 3.28e-02 tcttcatttcg
+11 526 F 11 594  0 3.28e-02 cttcatttcga
+11 545 F 11 653  0 3.28e-02 ccttcatttcg
+11 594 F 11 654  0 3.28e-02 cttcatttcga
+11 634 F 11 654  0 3.28e-02 cttcatttcga
+13 310 F 13 427 -1 7.99e-02 ga[tc]ttcatttcga
+13 474 F 13 651 -1 7.99e-02 cc[gc]cttcatttcg
+13 613 F 13 633 -1 7.99e-02 tcttca[ct]ttcgac
+10 153 P 10 635  0 1.31e-01 tcgaaatgaa
+10 153 P 10 595  0 1.31e-01 tcgaaatgaa
+10 153 P 10 450  0 1.31e-01 tcgaaatgaa

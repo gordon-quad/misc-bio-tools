@@ -1,0 +1,75 @@
+AccId: ORI10010005
+Organism: Methanothermobacter thermautotrophicus str. Delta H
+RefSeq: NC_000916
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Methanobacteria, Methanobacteriales, Methanobacteriaceae, Methanothermobacter.
+ChromSize: 1751377 nt
+ChromGC: 0.4954
+OriCLen: 347 nt
+OriCAT: 0.634
+OriCIdx: 1277833..1278179 nt
+Cdc6Idx: 1278180..1279328, 1464633..1465772 nt
+Extremes: 1311770 nt (minimum), 407958 nt (maximum)
+Note: Note that one replication origin has been identified based on the oligomer-skew analysis. The M. thermautotrophicus origin of replication is functional in vivo. Please refer to Lopez, P., et al. 1999 (Molecular microbiology, 32, 883-886) and Majernik, A.I. and Chong, J.P. 2008 (The Biochemical journal, 409, 511-518) for more details.
+Sequence: atctagccatgaatcagagaactggataaggaacagcaggattttttacacttgaaattcatccctcatgaattcccatcgaggatccagatggttacacttgaaatagatgtcccacatatattattatcgatcaacctgattttaataaaaacttttatctaatagttggaataagagaatttacacttgaaatctaccacaccctcaaatcagggaatggtagtacggggcgctgccagctgaaaaggtcatcctgatattgaatttcactgtatccagattttagggcctttactgaaatttgatgcagcagttttctctaaaaatttagttgaagtggtact
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+14  44 F 14 182  0 1.26e-04 tttacacttgaaat
+13  45 F 13  94  0 5.05e-04 ttacacttgaaat
+13  94 F 13 183  0 5.05e-04 ttacacttgaaat
+12 132 C 12 165 -1 7.27e-02 atcaacct[gt]att
+9  52 P  9 263  0 1.29e-01 tgaaattca
+9 121 R  9 121  0 1.29e-01 tattattat
+9 174 R  9 174  0 1.29e-01 taagagaat
+11  10 F 11 171 -1 2.66e-01 gaat[ca]agagaa
+11 142 P 11 142 -1 2.66e-01 tttta[at]taaaa
+8  40 R  8  40  0 5.17e-01 atttttta
+8  84 F  8 276  0 5.17e-01 atccagat
+8 103 C  8 156  0 5.17e-01 aaatagat
+8 137 P  8 209  0 5.17e-01 cctgattt
+8 281 R  8 281  0 5.17e-01 gattttag
+10  11 F 10 210 -1 9.69e-01 aatcag[ag]gaa
+10  20 R 10 244 -1 9.69e-01 actgga[ta]aag
+10  51 F 10 262 -1 9.69e-01 ttgaa[at]ttca
+10 133 F 10 251 -1 9.69e-01 tca[at]cctgat
+10 137 F 10 278 -1 9.69e-01 cc[ta]gatttta
+10 155 F 10 316 -1 9.69e-01 tttt[ac]tctaa
+10 175 C 10 318 -1 9.69e-01 aagaga[at]ttt
+10 196 R 10 199 -1 9.69e-01 ct[ac]ccacacc
+10 204 P 10 281 -1 9.69e-01 ccct[ca]aaatc
+7   7 F  7  66  0 2.07e+00 catgaat
+7  21 P  7 275  0 2.07e+00 ctggata
+7  38 R  7 283  0 2.07e+00 ggatttt
+7  39 C  7 322  0 2.07e+00 gattttt
+7  52 F  7 298  0 2.07e+00 tgaaatt
+7  55 P  7  67  0 2.07e+00 aattcat
+7  88 C  7 195  0 2.07e+00 agatggt
+7 112 R  7 201  0 2.07e+00 tcccaca
+7 140 R  7 282  0 2.07e+00 gatttta
+7 171 R  7 171  0 2.07e+00 gaataag
+7 265 P  7 298  0 2.07e+00 aatttca
+7 280 C  7 321  0 2.07e+00 agatttt
+7 323 R  7 323  0 2.07e+00 taaaaat
+9  15 P  9 313 -1 3.49e+00 aga[ga]aactg
+9  24 R  9  27 -1 3.49e+00 ga[tc]aaggaa
+9  52 P  9  52 -1 3.49e+00 tgaa[at]ttca
+9 104 P  9 116 -1 3.49e+00 aata[gt]atgt
+9 118 C  9 158 -1 3.49e+00 ata[tg]attat
+9 137 F  9 255 -1 3.49e+00 cctgat[ta]tt
+9 139 R  9 326 -1 3.49e+00 tgattt[ta]aa
+9 139 C  9 296 -1 3.49e+00 tga[tc]tttaa
+9 148 F  9 323 -1 3.49e+00 taaaaa[ct]tt
+9 150 P  9 150 -1 3.49e+00 aaaa[cg]tttt
+9 151 P  9 323 -1 3.49e+00 aaa[ct]tttta
+9 234 P  9 234 -1 3.49e+00 gctg[cg]cagc
+9 263 P  9 263 -1 3.49e+00 tgaa[ta]ttca
+6   6 C  6 341  0 8.27e+00 ccatga

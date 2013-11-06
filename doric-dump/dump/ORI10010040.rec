@@ -1,0 +1,69 @@
+AccId: ORI10010040
+Organism: Pyrobaculum calidifontis JCM 11548 chromosome
+RefSeq: NC_009073
+Topology: Circular
+Lineage: Archaea, Crenarchaeota, Thermoprotei, Thermoproteales, Thermoproteaceae, Pyrobaculum.
+ChromSize: 2009313 nt
+ChromGC: 0.5715
+OriCLen: 70 nt
+OriCAT: 0.6571
+OriCIdx: 309..378 nt
+Cdc6Idx: 379..1551 nt
+Extremes: 1457384 nt (minimum), 1974793 nt (maximum)
+Note: Note that the sequence has been confirmed as oriC region using in vitro studies. Please refer to Pelve, E.A., et al. 2012 (Molecular microbiology) for more details. The oriC has been confirmed by experiment.
+Sequence: taaaactttcagttttcagtggtcctcttaaactatagtagactgaaagtttttaagccggattgtccat
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+12  1 P 12 41  0 8.21e-05 aaaactttcagt
+8 31 P  8 31  0 2.10e-02 actatagt
+7  4 R  7  4  0 8.41e-02 actttca
+7  4 C  7 43  0 8.41e-02 actttca
+7  6 F  7 13  0 8.41e-02 tttcagt
+7 13 P  7 41  0 8.41e-02 tttcagt
+7 43 R  7 43  0 8.41e-02 tgaaagt
+6  1 P  6 10  0 3.36e-01 aaaact
+6 10 F  6 47  0 3.36e-01 agtttt
+6 26 P  6 51  0 3.36e-01 cttaaa
+8 52 R  8 56 -1 5.05e-01 tta[ag]gccg
+7  0 F  7 27 -1 1.77e+00 t[at]aaact
+7  1 C  7 49 -1 1.77e+00 aaaa[ca]tt
+7  2 F  7 45 -1 1.77e+00 aaa[cg]ttt
+7  2 P  7  2 -1 1.77e+00 aaa[cg]ttt
+7 12 F  7 50 -1 1.77e+00 tttt[ca]ag
+7 23 R  7 61 -1 1.77e+00 cct[cg]tta
+7 29 P  7 45 -1 1.77e+00 aaact[at]t
+7 45 P  7 45 -1 1.77e+00 aaa[gc]ttt
+7 46 R  7 49 -1 1.77e+00 aa[gt]tttt
+7 47 R  7 49 -1 1.77e+00 a[ga]ttttt
+7 54 P  7 57 -1 1.77e+00 aa[gt]ccgg
+6  0 P  6 49 -1 6.06e+00 taaaa[ca]
+6  1 C  6 12 -1 6.06e+00 aaaa[cg]t
+6  1 C  6 50 -1 6.06e+00 aaaa[ct]t
+6  3 R  6 13 -1 6.06e+00 [ag]acttt
+6  3 R  6 50 -1 6.06e+00 aa[ct]ttt
+6  6 F  6 51 -1 6.06e+00 ttt[ca]ag
+6  6 P  6 26 -1 6.06e+00 ttt[ca]ag
+6  8 R  6 38 -1 6.06e+00 tcag[ta]t
+6  9 P  6 29 -1 6.06e+00 [ct]agttt
+6 10 R  6 12 -1 6.06e+00 a[gc]tttt
+6 10 R  6 49 -1 6.06e+00 a[gt]tttt
+6 10 R  6 50 -1 6.06e+00 a[ga]tttt
+6 12 C  6 44 -1 6.06e+00 [tc]tttca
+6 13 P  6 26 -1 6.06e+00 ttt[ca]ag
+6 19 F  6 62 -1 6.06e+00 t[gt]gtcc
+6 22 C  6 36 -1 6.06e+00 tc[ca]tct
+6 25 F  6 50 -1 6.06e+00 t[ct]ttaa
+6 26 F  6 42 -1 6.06e+00 ct[tg]aaa
+6 28 F  6 38 -1 6.06e+00 ta[ag]act
+6 42 P  6 51 -1 6.06e+00 ct[gt]aaa
+6 45 C  6 50 -1 6.06e+00 aaa[ga]tt
+6 49 F  6 50 -1 6.06e+00 tttt[ta]a

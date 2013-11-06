@@ -1,0 +1,75 @@
+AccId: ORI10010187
+Organism: Methanocaldococcus infernus ME chromosome
+RefSeq: NC_014122
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Methanococci, Methanococcales, Methanocaldococcaceae, Methanocaldococcus.
+ChromSize: 1328194 nt
+ChromGC: 0.3362
+OriCLen: 887 nt
+OriCAT: 0.7238
+OriCIdx: 298548..299434 nt
+Cdc6Idx: 297324..298547 nt
+Extremes: 767387 nt (minimum), 18 nt (maximum)
+Note: 
+Sequence: cttaagctctcttttatcatatttatcttttccctcattctataatttccaacctttctggctaaggaaaggagagagttaaactcctcatttatatttcttattatattctcttccaatctaaatatcttcaagttaattaaaaagagggtttcatagtctattgatgacagatactcctttttactgatctcttctttgatcatctccaaggtttctattaaaagccttttagtttctaagaatttctcattaactttcctcctctttcttcctaataagaggagttcaacttccttttttagctcatttcctccaatttttaaagagagcataacaacatctcttatttcagcctcaatacttgttactatgtttgatgccaacctctcaatcttaaaatttatgacagttaataaataatagtcttcctcagacttaaaaggtttcttatcaatatagttctttagatattctaatatatcaattattttatttattttttccctctcactcctttttaacttcttactactctcaaataaaatatatttaatctcctttcttaagtcatgatcagcaactttcttagctacttcaaaaattttctttgagattggaattatatcctcttctaacatctttccctcttccaagtagttaattaaaaatttgataacagccttctcatccttccctttagcatatcttcttaagatttctaagattctaataaagtcttcagtaatctctaccttacttttctctaagatcataatagacactatttatagttttaaatttataaattaatattgagtataatttttatactttaatttggttaaagtttttatttagctattagtttttgtgaggggaaatta
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+17  19 F 17 493 -1 6.57e-04 tatttat[ct]ttttccctc
+13 133 F 13 658  0 3.30e-03 agttaattaaaaa
+13 490 R 13 490  0 3.30e-03 ttttatttatttt
+12  45 R 12  45  0 1.32e-02 tttccaaccttt
+12 799 P 12 799  0 1.32e-02 aatttataaatt
+14 102 F 14 621 -1 3.46e-02 attatat[tc]ctcttc
+11 175 F 11 512  0 5.28e-02 actccttttta
+11 413 R 11 413  0 5.28e-02 taataaataat
+13   1 P 13 324 -1 1.29e-01 tta[at]gctctcttt
+13  76 P 13 281 -1 1.29e-01 agtt[ag]aactcctc
+13 213 R 13 600 -1 1.29e-01 gtttct[at]ttaaaa
+13 221 P 13 221 -1 1.29e-01 taaaag[cg]ctttta
+13 309 R 13 551 -1 1.29e-01 tttcctc[ct]aattt
+13 535 P 13 603 -1 1.29e-01 tctcaaa[tg]aaaat
+13 541 P 13 544 -1 1.29e-01 at[at]aaatatattt
+13 661 R 13 801 -1 1.29e-01 taattaaa[at]attt
+13 663 C 13 822 -1 1.29e-01 attaaaaat[ta]tga
+10 317 C 10 664  0 2.11e-01 aatttttaaa
+10 410 C 10 483  0 2.11e-01 agttaataaa
+10 487 R 10 487  0 2.11e-01 ttattttatt
+10 488 P 10 539  0 2.11e-01 tattttattt
+10 494 R 10 850  0 2.11e-01 atttattttt
+10 719 C 10 723  0 2.11e-01 ttctaagatt
+12 113 P 12 610 -1 4.75e-01 ttccaatct[ac]aa
+12 239 C 12 318 -1 4.75e-01 taa[ga]aatttctc
+12 292 R 12 498 -1 4.75e-01 ct[tc]cctttttta
+12 314 P 12 664 -1 4.75e-01 tc[ca]aatttttaa
+12 482 C 12 657 -1 4.75e-01 atcaatta[ta]ttt
+12 487 C 12 540 -1 4.75e-01 ttattttat[ta]ta
+9   5 P  9 324  0 8.44e-01 gctctcttt
+9  18 R  9 784  0 8.44e-01 atatttatc
+9  27 F  9 501  0 8.44e-01 ttttccctc
+9  64 R  9  64  0 8.44e-01 aggaaagga
+9  66 P  9 556  0 8.44e-01 gaaaggaga
+9  90 R  9  90  0 8.44e-01 tttatattt
+9 110 F  9 647  0 8.44e-01 ctcttccaa
+9 210 F  9 442  0 8.44e-01 aaggtttct
+9 235 F  9 718  0 8.44e-01 tttctaaga
+9 317 R  9 317  0 8.44e-01 aatttttaa
+9 346 C  9 731  0 8.44e-01 ttatttcag
+9 414 C  9 492  0 8.44e-01 aataaataa
+9 414 P  9 492  0 8.44e-01 aataaataa
+9 472 F  9 726  0 8.44e-01 attctaata
+9 490 F  9 851  0 8.44e-01 ttttattta
+9 502 F  9 642  0 8.44e-01 tttccctct
+9 548 C  9 803  0 8.44e-01 atatttaat
+9 596 C  9 847  0 8.44e-01 ttcaaaaat
+9 664 R  9 664  0 8.44e-01 ttaaaaatt
+9 795 R  9 795  0 8.44e-01 tttaaattt
+11   9 F 11 195 -1 1.74e+00 tcttt[tg]atcat

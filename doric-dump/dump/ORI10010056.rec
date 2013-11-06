@@ -1,0 +1,75 @@
+AccId: ORI10010056
+Organism: Candidatus Korarchaeum cryptofilum OPF8
+RefSeq: NC_010482
+Topology: Circular
+Lineage: Archaea; Korarchaeota; Candidatus Korarchaeum.
+ChromSize: 1590757 nt
+ChromGC: 0.49
+OriCLen: 249 nt
+OriCAT: 0.5984
+OriCIdx: 1378666..1378914 nt
+Cdc6Idx: 1014024..1015163, 1016339..1017487, 1378915..1380105 nt
+Extremes: 522865 nt (minimum), 1582021 nt (maximum)
+Note: 
+Sequence: tatggagttgaagatgtgttatttcaactccgagcctcacttaatggagttgatggagctgaaatatgagggtctctctcccggctcggagttgatggagctgaaatatatcacatactcattatcatatgtttcctcacaatgaatgtgatataatactttcataatacttcattttaaaaaggcatcaagtttaaaggtggagttgatgtctatcatattcaggtctgggcggaggggaagccgtgg
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+22  45 F 22  87  0 9.91e-10 ggagttgatggagctgaaatat
+17 152 R 17 152  0 1.02e-06 ataatactttcataata
+13  23 P 13  82  0 2.60e-04 tcaactccgagcc
+13  26 R 13  26  0 2.60e-04 actccgagcctca
+12 160 R 12 160  0 1.04e-03 ttcataatactt
+11  44 F 11 200  0 4.16e-03 tggagttgatg
+10   1 F 10  43  0 1.66e-02 atggagttga
+10  29 C 10  82  0 1.66e-02 ccgagcctca
+10  87 F 10 201  0 1.66e-02 ggagttgatg
+10 106 P 10 145  0 1.66e-02 tatatcacat
+12  19 P 12  54 -1 3.74e-02 tatttca[ag]ctcc
+12  19 P 12  96 -1 3.74e-02 tatttca[ag]ctcc
+9   2 F  9 200  0 6.65e-02 tggagttga
+9   3 P  9  22  0 6.65e-02 ggagttgaa
+9 152 F  9 163  0 6.65e-02 ataatactt
+11   1 F 11  94 -1 1.37e-01 atggag[tc]tgaa
+11   1 F 11  52 -1 1.37e-01 atggag[tc]tgaa
+11 142 P 11 213 -1 1.37e-01 tgaat[ga]tgata
+8   3 F  8  87  0 2.66e-01 ggagttga
+8  23 P  8 201  0 2.66e-01 tcaactcc
+8  23 P  8  45  0 2.66e-01 tcaactcc
+8 122 F  8 213  0 2.66e-01 tatcatat
+8 167 R  8 167  0 2.66e-01 tacttcat
+8 174 P  8 174  0 2.66e-01 ttttaaaa
+10  43 F 10  94 -1 4.99e-01 atggag[tc]tga
+10  43 F 10  52 -1 4.99e-01 atggag[tc]tga
+7  62 P  7 215  0 1.06e+00 aatatga
+7  72 R  7  72  0 1.06e+00 tctctct
+7  73 R  7  73  0 1.06e+00 ctctctc
+7  82 R  7  82  0 1.06e+00 ggctcgg
+7 115 R  7 115  0 1.06e+00 tactcat
+7 197 R  7 197  0 1.06e+00 aggtgga
+7 224 R  7 224  0 1.06e+00 ggtctgg
+9   2 R  9 203 -1 1.80e+00 tg[gt]agttga
+9  13 F  9 145 -1 1.80e+00 atgtg[ta]tat
+9  13 P  9 107 -1 1.80e+00 atgtg[ta]tat
+9  15 C  9 137 -1 1.80e+00 gtgtta[tc]tt
+9  20 R  9 187 -1 1.80e+00 attt[cg]aact
+9  44 R  9 203 -1 1.80e+00 tg[gt]agttga
+9  53 F  9 200 -1 1.80e+00 tggag[ct]tga
+9  60 R  9 190 -1 1.80e+00 gaaat[at]tga
+9  95 F  9 200 -1 1.80e+00 tggag[ct]tga
+9 102 P  9 126 -1 1.80e+00 gaaa[tc]atat
+9 174 P  9 174 -1 1.80e+00 tttt[at]aaaa
+9 182 P  9 205 -1 1.80e+00 ag[ga]catcaa
+9 200 R  9 203 -1 1.80e+00 tg[gt]agttga
+9 232 R  9 235 -1 1.80e+00 cg[ga]agggga
+6   5 R  6   5  0 4.26e+00 agttga
+6   5 R  6  89  0 4.26e+00 agttga
+6   5 R  6  47  0 4.26e+00 agttga

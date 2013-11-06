@@ -1,0 +1,75 @@
+AccId: ORI10010159
+Organism: Natrialba magadii ATCC 43099 chromosome
+RefSeq: NC_013922
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Natrialba.
+ChromSize: 3751858 nt
+ChromGC: 0.6142
+OriCLen: 1064 nt
+OriCAT: 0.4878
+OriCIdx: 937027..938090 nt
+Cdc6Idx: 677..2026, 358048..359319, 935647..937026, 953732..955096, 1643635..1644705, 1962303..1964261, 2109607..2110737, 2374803..2376095, 2776884..2777906 nt
+Extremes: 2911063 nt (minimum), 1953749 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CCCACACCGGGTTTCAAATGACCCACACCGGATTTCAGATGCATCTGAAATCCGGTGTGGGGGCGT
+Sequence: acaccgcctttcaaatgaattcggtttagttctttctttctcaccgatcttcgaacgagagggactcgagtactcctctcgtgtcacacgagcggaatacggcaacctaactgttggatgtggtcgatacggcgagactgacaccgcatttcagatgaattggggccacagtgtggtgctggttccgctggtggctgttggagaggggagacccacaccgggtttcaaatgatttcgtgagtggatgaggtgggggtcggtggacagctgaggtggtgggactcgagttgtgacggcgaagacgggagacccacaccggatttcagatgtaattcccgagatggcccggtggtatggtggggagaaggagtgacgagctagtgctgtagaacaaggagtgtcgaaatagcgttgtagaacaaggtgtggtaaaataatgctgtagaacaaggggtgacgaaatagtgctgtgggagcacgagtagcagaacaggggaacggcctgatagaagaaggacctggacagaagctgttgacgagtggagaacagcgtgtcggttgccactgaaatcatctgaaacccggtgttccgagtgagtggatccacatctacaatgcttggacagtcatctggtgacatataaatcaaacactattccactctgtgaatttcggtatccctgtcattgtcgtctgttacttctttctactggactagtagtagtactagataacctgtatagtaatagttataataatgtttcaaatttgtcgacatcttaccgctcagatatccgcatttgagcgcccctgatgccaatattcggcatctgcgtccgactctaccacaatctccacctcacaccccaccccttaccccacccctcacgtccgctgcatttcatctgaaatccggtgtgggggcgtcagtattcgtcgttcgagtactcctcgtctcgaaacaaccctcacggcgaagatgacgccgtcattcagaaccctggctgtcgtgccgtctgcaaggagagatcggtaactctactcgagtacggttgtgcgtccgc
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+24  309 P 24  898 -1 8.14e-08 cccacaccggatttcagatg[ta]aat
+22  205 F 22  303 -1 1.19e-06 gggagacccacaccgg[ga]tttca
+22  214 P 22  566 -1 1.19e-06 acaccgggtttca[ag]atgatttc
+20  201 F 20  299 -1 1.74e-05 aga[gc]gggagacccacaccgg
+19  140 P 19  900 -1 6.60e-05 acaccg[cg]atttcagatgaa
+19  381 F 19  437 -1 6.60e-05 tgctgtagaacaagg[ag]gtg
+18  570 F 18  901 -1 2.50e-04 tcatctgaaa[ct]ccggtgt
+17  140 F 17  312 -1 9.45e-04 acaccg[cg]atttcagatg
+17  312 P 17  571 -1 9.45e-04 acaccgg[ag]tttcagatg
+16  211 P 16  906 -1 3.56e-03 cccacaccgg[ga]tttca
+16  384 F 16  412 -1 3.56e-03 tgtagaacaagg[at]gtg
+16  412 F 16  440 -1 3.56e-03 tgtagaacaagg[tg]gtg
+13   65 F 13  940  0 4.74e-03 tcgagtactcctc
+13  347 R 13  347  0 4.74e-03 ggtggtatggtgg
+15    8 F 15  222 -1 1.33e-02 tttcaaatga[at]ttcg
+15   77 P 15   77 -1 1.33e-02 ctcgtgt[cg]acacgag
+15  147 P 15  897 -1 1.33e-02 atttcagatgaa[ta]tg
+14  863 F 14  875 -1 4.98e-02 accccacccct[tc]ac
+11   30 R 11   30  0 7.59e-02 tctttctttct
+11   60 F 11  277  0 7.59e-02 gggactcgagt
+13    0 F 13  140 -1 1.85e-01 acaccgc[ca]tttca
+13    8 F 13  148 -1 1.85e-01 tttca[ag]atgaatt
+13  148 P 13  567 -1 1.85e-01 tttcagatga[at]tt
+13  860 R 13  876 -1 1.85e-01 cac[at]ccccacccc
+13  979 P 13  979 -1 1.85e-01 atgacg[cg]cgtcat
+10   63 F 10 1040  0 3.04e-01 actcgagtac
+10  147 F 10  319  0 3.04e-01 atttcagatg
+10  201 R 10  201  0 3.04e-01 agaggggaga
+10  236 F 10  593  0 3.04e-01 gtgagtggat
+10  292 F 10  970  0 3.04e-01 acggcgaaga
+10  597 P 10  597  0 3.04e-01 gtggatccac
+10 1039 P 10 1039  0 3.04e-01 tactcgagta
+12   25 F 12  696 -1 6.83e-01 tta[gc]ttctttct
+12  266 C 12  837 -1 6.83e-01 gctgag[ga]tggtg
+12  364 F 12  392 -1 6.83e-01 aaggagtg[at]cga
+12  364 F 12  448 -1 6.83e-01 aagg[ag]gtgacga
+12  397 F 12  453 -1 6.83e-01 gtg[ta]cgaaatag
+12  431 F 12  459 -1 6.83e-01 aaata[ag]tgctgt
+9   29 R  9   29  0 1.21e+00 ttctttctt
+9   63 P  9 1039  0 1.21e+00 actcgagta
+9   80 C  9  166  0 1.21e+00 gtgtcacac
+9  221 F  9  759  0 1.21e+00 gtttcaaat
+9  320 P  9  571  0 1.21e+00 tttcagatg
+9  341 R  9  341  0 1.21e+00 tggcccggt
+9  355 C  9  878  0 1.21e+00 ggtggggag
+9  378 F  9  462  0 1.21e+00 tagtgctgt
+9  382 C  9  772  0 1.21e+00 gctgtagaa
+9  438 C  9  772  0 1.21e+00 gctgtagaa
+9  473 R  9  473  0 1.21e+00 gagcacgag
+9  605 R  9  605  0 1.21e+00 acatctaca

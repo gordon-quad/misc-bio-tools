@@ -1,0 +1,75 @@
+AccId: ORI10010160
+Organism: Natrialba magadii ATCC 43099 chromosome
+RefSeq: NC_013922
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Natrialba.
+ChromSize: 3751858 nt
+ChromGC: 0.6142
+OriCLen: 1433 nt
+OriCAT: 0.5038
+OriCIdx: 1960870..1962302 nt
+Cdc6Idx: 677..2026, 358048..359319, 935647..937026, 953732..955096, 1643635..1644705, 1962303..1964261, 2109607..2110737, 2374803..2376095, 2776884..2777906 nt
+Extremes: 2911063 nt (minimum), 1953749 nt (maximum)
+Note: Note that one replication origin has been identifed based on the homologous sequence. For the large chromosome, the major replication origin was predicted to be at ca 1.9 Mb, located between Orc1 (Nmag_1930) on the forward strand and a three-gene operon on the reverse strand (Nmag_1927-1929). Please refer to Siddaramappa, S., et al. 2012 (BMC genomics, 13, 165) for more details.This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CACCCCCACCCCTTCGTTTCAACTGGAGATCTCCAGTTGAAACGAAGGGGTGGGGG
+Sequence: ctgtagggccctccagcaccgcggggtgcatctgcgcgtactactgactgaactcacttaagcctacgtcaaacgtgttgattttcagacgaaaaagcatagattcctgtcaggtctggtcgcatggttgagaagagagtgagtgttgtgagagcgagacggtatgaattagcttctggatggacgggttggcctatatataatccagaggcaatatagagacgaccgctgtgacgagctgaaataccatgggttcgatagagctagtatttctcatgggatactagatgtaagtaatcgatactagaacactctagacaaatcctaggtggtcagttttcgaatatgttggacgaatccgacggtgttcgaacacccccaccccttcgtttcaactggagaccagtgatggagtggggttggagagctggtgttgagcagcagtagcgggttctgtttcaactcgaacgggagtacagacgacaactcggaagaaaacgaaggatgcgagaagtctagtaatagatctccataagagggacagatctagtagcaactagcaataaaactaacttctctagtaaaaacatcaatctgctagtggtacggtccttatttctcacccatcattataaatcctctcgttctagaagtcaccctcccccacccctctctcgactctctccagttgaaacgaaggggtggggggcaccacccctttctcacacaagtttcctgactcattgttggcaagacacaatgatgatgattcacaccccttcgtatcatcccccacaccacgctgcataatctctcacctcaccatctcctctcaccatctcctctcaccaatcttctctcaccaatctactttcaccagtccaccttccaactttcccaaaaattcgaacttctgggatccgaacctccttgaatccgaacctcctggattgatcgacccgagtagcccacagaaatcacctccacatccacagtctgaggcaggcacgggtctaggatcggacggagctgggacaggcatgcccgattcacagcggatcgaatcacgcatagctggttgctgcacgagttgtagctgtcttctattttcttctatacgtgtgcgcgctagaccaacaagatagacacagtgacaagatagacacagtgaataccagtctatcctttcactgttggtccagtagttcagtgtcgcagttgctcacggattactcggttcggtgaaccactcaacgtccgtgaagtgaagggaagaatttaatatcaccgtcttcctctgtttcgtttgcatcaactggatccggaccgggtcgttaggactgtagactggccccgctggctcgcctacaccgctatatcctcgccctcgggttcggatctgcagtcgaaacaagggggtacgtgtacgacga
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+27  375 P 27  681  0 3.21e-11 cccccaccccttcgtttcaactggaga
+20  818 F 20  831  0 5.25e-07 ctcaccatctcctctcacca
+18 1136 F 18 1153  0 8.40e-06 acaagatagacacagtga
+18  837 F 18  851 -1 4.54e-04 atct[ct]ctctcaccaatct
+14  363 P 14  363  0 2.15e-03 ggtgttcgaacacc
+16  842 F 16  856 -1 6.45e-03 ctctcaccaatct[ta]ct
+16  918 F 16  934 -1 6.45e-03 atccgaacctcct[tg]ga
+15  379 F 15  773 -1 2.42e-02 caccccttcgt[ta]tca
+15  689 P 15  773 -1 2.42e-02 tga[at]acgaaggggtg
+12  140 R 12  140  0 3.44e-02 gagtgttgtgag
+14  824 F 14  851 -1 9.04e-02 atct[ct]ctctcacca
+11   88 R 11   88  0 1.38e-01 acgaaaaagca
+11  130 C 11  852  0 1.38e-01 agaagagagtg
+11  375 F 11  660  0 1.38e-01 cccccacccct
+11  660 P 11  697  0 1.38e-01 cccccacccct
+11  693 P 11  773  0 1.38e-01 acgaaggggtg
+13  663 F 13  711 -1 3.36e-01 ccacccct[ct]tctc
+10  917 P 10 1390  0 5.51e-01 gatccgaacc
+12    0 P 12    4 -1 1.24e+00 ctg[tg]agggccct
+12  376 R 12  658 -1 1.24e+00 ccccacccc[tc]tc
+12  388 F 12  455 -1 1.24e+00 gtttcaact[gc]ga
+12  427 C 12  478 -1 1.24e+00 ctg[gc]tgttgagc
+12  455 P 12  683 -1 1.24e+00 gtttcaact[cg]ga
+12  658 C 12  695 -1 1.24e+00 ct[ct]ccccacccc
+12 1028 R 12 1322 -1 1.24e+00 gctggg[ac]caggc
+9  150 R  9  150  0 2.20e+00 agagcgaga
+9  225 P  9 1049  0 2.20e+00 ccgctgtga
+9  226 R  9 1207  0 2.20e+00 cgctgtgac
+9  267 F  9  613  0 2.20e+00 tatttctca
+9  279 F  9  299  0 2.20e+00 gatactaga
+9  373 R  9  373  0 2.20e+00 cacccccac
+9  376 R  9  376  0 2.20e+00 ccccacccc
+9  376 C  9  698  0 2.20e+00 ccccacccc
+9  378 F  9  711  0 2.20e+00 ccacccctt
+9  383 P  9  495  0 2.20e+00 ccttcgttt
+9  391 F  9 1311  0 2.20e+00 tcaactgga
+9  431 R  9 1085  0 2.20e+00 tgttgagca
+9  495 F  9  691  0 2.20e+00 aaacgaagg
+9  661 R  9  661  0 2.20e+00 ccccacccc
+9  683 P  9 1311  0 2.20e+00 tccagttga
+9  696 P  9  711  0 2.20e+00 aaggggtgg
+9  698 R  9  698  0 2.20e+00 ggggtgggg
+9  810 F  9  855  0 2.20e+00 tctctcacc
+9  829 F  9  856  0 2.20e+00 ctctcacca
+9  934 P  9 1390  0 2.20e+00 atccgaacc
+9  978 R  9  978  0 2.20e+00 cacctccac
+9  998 R  9 1020  0 2.20e+00 gaggcaggc
+9 1147 R  9 1147  0 2.20e+00 acagtgaca
+9 1261 R  9 1261  0 2.20e+00 gaagtgaag
+9 1266 R  9 1266  0 2.20e+00 gaagggaag

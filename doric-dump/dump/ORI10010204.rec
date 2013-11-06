@@ -1,0 +1,75 @@
+AccId: ORI10010204
+Organism: Natronococcus occultus SP4
+RefSeq: NC_019974
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Natronococcus.
+ChromSize: 4013216 nt
+ChromGC: 0.6494
+OriCLen: 671 nt
+OriCAT: 0.5142
+OriCIdx: 264487..265157 nt
+Cdc6Idx: 1337..2980, 265158..266594, 892480..893673, 948166..949449, 1182498..1183712, 1675125..1676354, 2164571..2165758, 2563823..2565208, 2939115..2940335, 2961346..2962566, 3172594..3173937, 3453838..3455
+Extremes: 1283434 nt (minimum), 2929576 nt (maximum)
+Note: 
+Sequence: caccctccagtctatgatacacagaagatatgaatgatggtaataatacaataattgtggtgttagtatattatatatatatatatatatatatatatatatgtgtgtgtgtgtgtgtgtgtgtgggtgggtgtgtgtgcgtccgcctttgtgtgtgtttgtattagcatattaatgagttcctggagggggtgttacatgatttcggacgacgcggctccgctactggttgccgctaggggtggggttcacacacacctttttcgaagtgaaatccccctcgcaaggtctagggagtctaccctcacacccctttttcgaaatgaaatctttccgtagagcacggagacgccgattcagggcctggagagtcacagagacgcctgttgtgcgtatcacttctcgaattcatttcgatcgtgccggctcgagcaaccgattctgagtcgacactggttgctcaacggaaaatcgagcggttccccgctccctcttcgccggtttcatttcgataacggtgtgtgggtgctagagccaccgatttcatttcgacgatggtgccttcatttcgacgccggtaactcgcccgatttttcatctcgatgacggtgttctcatctcgacggtggtgcgctcacttcgataccggttccgaaccgtatcatttcgaa
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+52  71 F 52  73 -1 9.74e-25 tatatatatatatatatatatatatatat[ag]tgtgtgtgtgtgtgtgtgtgtg
+35  66 C 35  67 -1 1.13e-14 tata[ta]tatatatatatatatatatatatatatata
+31  71 R 31  71  0 2.75e-14 tatatatatatatatatatatatatatatat
+30  71 C 30  72  0 1.10e-13 tatatatatatatatatatatatatatata
+30  71 P 30  71  0 1.10e-13 tatatatatatatatatatatatatatata
+30  72 P 30  72  0 1.10e-13 atatatatatatatatatatatatatatat
+29  71 R 29  71  0 4.39e-13 tatatatatatatatatatatatatatat
+29  73 R 29  73  0 4.39e-13 tatatatatatatatatatatatatatat
+28  71 C 28  74  0 1.76e-12 tatatatatatatatatatatatatata
+28  71 P 28  71  0 1.76e-12 tatatatatatatatatatatatatata
+28  74 P 28  74  0 1.76e-12 atatatatatatatatatatatatatat
+27  71 F 27  75  0 7.03e-12 tatatatatatatatatatatatatat
+27  71 R 27  71  0 7.03e-12 tatatatatatatatatatatatatat
+27  75 R 27  75  0 7.03e-12 tatatatatatatatatatatatatat
+26  71 C 26  76  0 2.81e-11 tatatatatatatatatatatatata
+26  71 P 26  71  0 2.81e-11 tatatatatatatatatatatatata
+26  76 P 26  76  0 2.81e-11 atatatatatatatatatatatatat
+25  71 F 25  77  0 1.12e-10 tatatatatatatatatatatatat
+25  71 R 25  71  0 1.12e-10 tatatatatatatatatatatatat
+25  77 R 25  77  0 1.12e-10 tatatatatatatatatatatatat
+28 101 F 28 105 -1 1.48e-10 tgtgtgtgtgtgtgtgtgtg[tg]gtgggtg
+24  71 C 24  78  0 4.50e-10 tatatatatatatatatatatata
+24  71 P 24  71  0 4.50e-10 tatatatatatatatatatatata
+24  78 P 24  78  0 4.50e-10 atatatatatatatatatatatat
+23  71 F 23  79  0 1.80e-09 tatatatatatatatatatatat
+23  71 R 23  71  0 1.80e-09 tatatatatatatatatatatat
+23  79 R 23  79  0 1.80e-09 tatatatatatatatatatatat
+23 101 R 23 101  0 1.80e-09 tgtgtgtgtgtgtgtgtgtgtgt
+23 102 R 23 102  0 1.80e-09 gtgtgtgtgtgtgtgtgtgtgtg
+23 116 R 23 116  0 1.80e-09 gtgtgtgtgggtgggtgtgtgtg
+22  71 C 22  80  0 7.20e-09 tatatatatatatatatatata
+22  71 P 22  71  0 7.20e-09 tatatatatatatatatatata
+22  80 P 22  80  0 7.20e-09 atatatatatatatatatatat
+22 101 F 22 103  0 7.20e-09 tgtgtgtgtgtgtgtgtgtgtg
+21  71 F 21  81  0 2.88e-08 tatatatatatatatatatat
+21  71 R 21  71  0 2.88e-08 tatatatatatatatatatat
+21  81 R 21  81  0 2.88e-08 tatatatatatatatatatat
+21 101 R 21 101  0 2.88e-08 tgtgtgtgtgtgtgtgtgtgt
+21 104 R 21 104  0 2.88e-08 gtgtgtgtgtgtgtgtgtgtg
+20  71 C 20  82  0 1.15e-07 tatatatatatatatatata
+20  71 P 20  71  0 1.15e-07 tatatatatatatatatata
+20  82 P 20  82  0 1.15e-07 atatatatatatatatatat
+23 102 R 23 106 -1 1.24e-07 gtg[tg]gtgtgtgtgtgtgtgtgtg
+19  71 F 19  83  0 4.61e-07 tatatatatatatatatat
+19  71 R 19  71  0 4.61e-07 tatatatatatatatatat
+19  83 R 19  83  0 4.61e-07 tatatatatatatatatat
+19 101 R 19 101  0 4.61e-07 tgtgtgtgtgtgtgtgtgt
+22 101 F 22 107 -1 4.75e-07 tgtgtgtgtgtgtgtgtg[tg]gtg
+21 104 R 21 108 -1 1.81e-06 gtg[tg]gtgtgtgtgtgtgtgtg
+18  71 C 18  84  0 1.84e-06 tatatatatatatatata

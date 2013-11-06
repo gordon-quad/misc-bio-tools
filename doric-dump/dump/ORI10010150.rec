@@ -1,0 +1,75 @@
+AccId: ORI10010150
+Organism: Haloterrigena turkmenica DSM 5511 chromosome
+RefSeq: NC_013743
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Haloterrigena.
+ChromSize: 3889038 nt
+ChromGC: 0.6583
+OriCLen: 1405 nt
+OriCAT: 0.4619
+OriCIdx: 3887788..154 nt
+Cdc6Idx: 155..2011, 541500..542753, 731984..733006, 1211484..1212767, 1311468..1312688, 1918696..1919937, 2503283..2504566, 2627920..2629272, 3041166..3042383, 3241079..3242266, 3743469..3744599 nt
+Extremes: 3018269 nt (minimum), 326 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CCCCCCACCCCTTCGTTTCGGGTGGAGAGTTCCACCTGAAACGAAGGGGTGGGGGG
+Sequence: ctgtggggccctccagcaccgcggggtggtgcatctgcgcgtactacaaaccgaacccacttaagcctacgtcagacgtgtagactattcaacgaaacggagttatacggacagatggggagatcatactagcggaaccgataaacgtactagtaggatcgataaatggctacctcgaccgataaatagttgcctcgactgatcgatggctgcctcgagtcgaagcagggggtcgatcggagccgggactgtgactacggatcagtcggatggcgactcgagaaccgcgacggagcattgcatacagtgatagactgacacagcgaatacgcgtcagttatcgagtgtgtgttgatcggtaccagatatcacgatatgagggacgctatagatcggcatactagtgtgagttcaaacatcatactaggaacgtacgtagatccgatggaagccccccaccccttcgtttcgggtggagagtcgcgatcgtgggggtgggggagtggtattgttcgggtggaaagactctgtagcgaccccgagatcccgttcaaacggacagtacagaccgtcaaccggtgagtttcgggtcgaacgacgtctctagtaactcgagccgtctagagaggctgttctagtaggaactagcaactagaaccaacatctctagtaaaaatctagttttgctagtgctacggaccgagtttctggcccatggaaataaaggttcccgttctagagaccccccctccccccaccccctccttcgtagcgttccacctgaaacgaaggggtggggggctaggttgatctcacccttcgtatcctgttccatgttacctcgaatctcactccttcgatgtctgacaactcgtggcacactcgctctcgagaactactccgagtgctgaccgaaatttctcgcccctcacttactatcatacctcttatatttatcgctggtgtcctcgagcaacagcccatacccgactcgcttcgaggtcgagtgaccgaacaataattgcggttggagacgactactgagtgttcctgacctagtcgatcgcgtaggtgtcgatctcgcacacgcatcgcgagcgcgcgtaatgatcccttatcgacccgaaacggacgtctctcaccccgtcgtcatcggtctcgtgcctcgatggtcactggacctttcgaataggccgtcagacggccgataccgccgatcgtgccaaacccttgtggagggaagggaagaatttaataccgtggttttcctctgtttcgtttgcatcaactggactcggaccagggaggcgaacgagtgggagaccctattcgccccatctactgcgtgatattcctgctttcgggtccgaattccactcgaaacgagggggtatgtgtacgacgg
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+28  449 P 28  775 -1 6.47e-10 agccccccaccccttcgtttc[ga]ggtgga
+18  710 R 18  715 -1 4.36e-04 gccc[at]tggaaataaaggt
+15  976 R 15  976  0 5.17e-04 cagcccatacccgac
+13  490 C 13  751  0 8.27e-03 gggggtgggggag
+13  743 R 13  743  0 8.27e-03 cccccctcccccc
+15 1191 P 15 1191 -1 2.33e-02 ggccgtc[at]gacggcc
+12  582 P 12 1117  0 3.31e-02 gtttcgggtcga
+14  118 R 14  121 -1 8.69e-02 gg[ac]gatcatactag
+14  451 F 14  750 -1 8.69e-02 ccccccacccc[tc]tc
+14  457 P 14 1378 -1 8.69e-02 acccc[tc]tcgtttcg
+14  463 P 14 1372 -1 8.69e-02 tcgtttcg[ga]gtgga
+14  750 P 14  787 -1 8.69e-02 ccccccacccc[ct]tc
+11  490 R 11  490  0 1.32e-01 gggggtggggg
+11  490 P 11  751  0 1.32e-01 gggggtggggg
+11  751 R 11  751  0 1.32e-01 cccccaccccc
+13  165 F 13  205 -1 3.23e-01 atggct[ag]cctcga
+13  220 P 13  756 -1 3.23e-01 cgaag[cg]agggggt
+13  452 C 13  490 -1 3.23e-01 cccccacccc[tc]tc
+13  464 P 13 1117 -1 3.23e-01 cgtttcgggt[gc]ga
+13  467 F 13  511 -1 3.23e-01 ttcgggtgga[ga]ag
+13  490 R 13  787 -1 3.23e-01 gggggtgggg[ga]ag
+13  597 F 13  660 -1 3.23e-01 ac[ga]tctctagtaa
+13  782 F 13 1379 -1 3.23e-01 gaaacga[ag]ggggt
+13  999 P 13 1170 -1 3.23e-01 aggtc[gc]agtgacc
+10   41 R 10  412  0 5.29e-01 tactacaaac
+10  121 R 10  417  0 5.29e-01 gatcatacta
+10  122 F 10  417  0 5.29e-01 atcatactag
+10  452 R 10  752  0 5.29e-01 cccccacccc
+10  452 P 10  491  0 5.29e-01 cccccacccc
+10  491 F 10  790  0 5.29e-01 ggggtggggg
+10  506 P 10 1010  0 5.29e-01 tattgttcgg
+10  752 C 10  790  0 5.29e-01 ccccaccccc
+10 1236 R 10 1236  0 5.29e-01 agggaaggga
+12   90 P 12 1268 -1 1.19e+00 aacgaaac[ga]gag
+12  121 C 12  149 -1 1.19e+00 gatcat[ac]ctagc
+12  146 F 12  631 -1 1.19e+00 gt[at]ctagtagga
+12  149 R 12  800 -1 1.19e+00 ctagt[at]ggatcg
+12  465 F 12  582 -1 1.19e+00 gtttcgggt[gc]ga
+12  743 F 12  750 -1 1.19e+00 cccccc[ta]ccccc
+12  744 R 12  750 -1 1.19e+00 ccccc[ta]cccccc
+9   59 R  9 1365  0 2.12e+00 cttaagcct
+9   69 F  9 1194  0 2.12e+00 cgtcagacg
+9   92 F  9 1123  0 2.12e+00 cgaaacgga
+9  136 F  9  177  0 2.12e+00 accgataaa
+9  179 P  9  950  0 2.12e+00 cgataaata
+9  180 R  9  180  0 2.12e+00 gataaatag
+9  195 P  9  259  0 2.12e+00 cgactgatc
+9  208 C  9  287  0 2.12e+00 gctgcctcg
+9  213 P  9  273  0 2.12e+00 ctcgagtcg
+9  276 F  9  887  0 2.12e+00 ctcgagaac

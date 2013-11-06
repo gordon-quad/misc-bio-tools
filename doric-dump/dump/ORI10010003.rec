@@ -1,0 +1,75 @@
+AccId: ORI10010003
+Organism: Pyrococcus abyssi GE5
+RefSeq: NC_000868
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Thermococci, Thermococcales, Thermococcaceae, Pyrococcus.
+ChromSize: 1765118 nt
+ChromGC: 0.4471
+OriCLen: 799 nt
+OriCAT: 0.6558
+OriCIdx: 122701..123499 nt
+Cdc6Idx: 121402..122700 nt
+Extremes: 58629 nt (minimum), 1315677 nt (maximum)
+Note: Note that one replication origin has been identified by 2-D gel analysis. Please refer to Myllykallio, H., et al. 2000 (Science, 288, 2212-2215) and Matsunaga, F., et al. 2003 (Embo Rep, 4, 154-158) for more details. Note that two Mini-ORB sequences (tccacaggaaac, tccagtggaac) and two ORB sequences (gttccagtggaaatgaaaccctggggg, gttccactggaaatgaaactctggggg)were found in the oriC. The oriC has been confirmed by experiment.
+Sequence: gacctaaatttccagtggaaacataacacttttcgctaacatattttcattgtgcatgacataatgtgacatttaacacgactatttaagccaaaccgtagagagtctccattggaagcattggaaccagaggaaagcaacgtaataatctatggcccactttttatcctttgccttgacaagaacatgttaatgaagataatttcatctgaaatttattctcgagaatttccacaggaaacctccacaggacatgaacaaggatgtgcgttgaatctttacattttccagtggccataaccaatttccgatggaaggaaaatgaacatatatgttcattcagataagagcatttttacacaaataagtgcattaggttaacttaatttgtttaatattttgccaaagttaaacagaagtgaagtcccccagggtttcatttccactggaaccgggttgcgacaccgagaatattctattcttttttctgacaagacactctcccatattagttggaactcctatttaaatatttatctatgaacagttttataagtaaattgagaagcagagaagcaaatgttcacatatttatgcacaaaatagtacatcaactgaaaaaatgttcatttgcaaaagtaaaaatttttggcttttaattttacgtttgtaaaccaacgaagaattgcatgcctttctcaacccagttccactggaaatgaaactctggggggttctttagatggctatctgaatgctagcatataaatcgaaaatatacaagaaaatgtcaaaaaaa
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+20 320 P 20 320  0 1.63e-07 aatgaacatatatgttcatt
+20 425 P 20 713 -1 9.80e-06 cccccag[ga]gtttcatttcca
+19 433 P 19 706 -1 3.72e-05 gtttcatttcca[cg]tggaac
+13   7 P 13 707  0 2.68e-03 atttccagtggaa
+13 383 R 13 383  0 2.68e-03 taatttgtttaat
+12   9 P 12 439  0 1.07e-02 ttccagtggaaa
+12 217 P 12 217  0 1.07e-02 attctcgagaat
+14 233 R 14 240 -1 2.81e-02 acagga[ac]acctcca
+14 437 F 14 704 -1 2.81e-02 ca[tg]ttccactggaa
+13   7 F 13 438 -1 1.04e-01 atttcca[gc]tggaa
+13   8 P 13   8 -1 1.04e-01 tttcca[gc]tggaaa
+13   8 P 13 228 -1 1.04e-01 tttcc[at]gtggaaa
+13 227 F 13 438 -1 1.04e-01 atttccac[at]ggaa
+13 319 R 13 775 -1 1.04e-01 aaa[ta]gaacatata
+13 393 R 13 542 -1 1.04e-01 aatattttg[ca]caa
+13 446 P 13 699 -1 1.04e-01 tggaac[ct]gggttg
+13 547 C 13 619 -1 1.04e-01 tttta[tc]aagtaaa
+10   8 F 10 284  0 1.71e-01 tttccagtgg
+10 284 P 10 709  0 1.71e-01 tttccagtgg
+10 319 P 10 622  0 1.71e-01 aaatgaacat
+10 336 P 10 747  0 1.71e-01 cattcagata
+10 467 P 10 467  0 1.71e-01 agaatattct
+10 479 R 10 479  0 1.71e-01 tcttttttct
+10 522 P 10 522  0 1.71e-01 tatttaaata
+10 526 P 10 526  0 1.71e-01 taaatattta
+10 640 P 10 640  0 1.71e-01 aaaaattttt
+10 653 R 10 653  0 1.71e-01 ttttaatttt
+10 754 P 10 754  0 1.71e-01 atgctagcat
+12   9 F 12 707 -1 3.85e-01 ttcca[gc]tggaaa
+12  37 P 12 615 -1 3.85e-01 aacat[at]ttttca
+12 178 F 12 779 -1 3.85e-01 acaagaa[ca]atgt
+12 211 R 12 518 -1 3.85e-01 aaatttat[tc]ctc
+12 229 F 12 707 -1 3.85e-01 ttccac[at]ggaaa
+12 328 C 12 775 -1 3.85e-01 tatatgttc[at]tt
+12 539 P 12 618 -1 3.85e-01 atgaaca[gt]tttt
+9  89 R  9  89  0 6.85e-01 gccaaaccg
+9 178 R  9 178  0 6.85e-01 acaagaaca
+9 230 F  9 243  0 6.85e-01 tccacagga
+9 277 R  9 277  0 6.85e-01 tttacattt
+9 285 P  9 442  0 6.85e-01 ttccagtgg
+9 323 R  9 775  0 6.85e-01 gaacatata
+9 331 F  9 622  0 6.85e-01 atgttcatt
+9 350 R  9 350  0 6.85e-01 catttttac
+9 415 R  9 415  0 6.85e-01 gaagtgaag
+9 577 F  9 620  0 6.85e-01 aaatgttca
+11   6 R 11  65 -1 1.41e+00 aattt[ca]cagtg
+11  40 F 11 329 -1 1.41e+00 atat[tg]ttcatt
+11  40 P 11 320 -1 1.41e+00 atat[tg]ttcatt
+11  62 P 11  62 -1 1.41e+00 aatgt[gc]acatt
+11 109 F 11 118 -1 1.41e+00 cattggaa[gc]ca

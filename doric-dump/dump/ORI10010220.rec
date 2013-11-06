@@ -1,0 +1,75 @@
+AccId: ORI10010220
+Organism: Natrinema sp. J7-2 chromosome
+RefSeq: NC_018224
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Natrinema.
+ChromSize: 3697626 nt
+ChromGC: 0.6425
+OriCLen: 1110 nt
+OriCAT: 0.4063
+OriCIdx: 1278254..1279363 nt
+Cdc6Idx: 121226..122479, 435599..437383, 581272..582411, 667798..668808, 1279364..1280839, 1530626..1531792, 2211904..2213130, 2572300..2573529, 3152575..3153861 nt
+Extremes: 1163710 nt (minimum), 3672842 nt (maximum)
+Note: 
+Sequence: atccgacggcgactgccactgaatccgacggcgactgcccgcgactgccgaaatcgatgtcgaataccggagctgactggcatcgaacgtcgaaaccgactgccgaaccggccggttgatggaccgagcggcccacgggattcgattacgagtgccgagcgacgcagccactaaaacacccttggcttcgtctctcccccgttggctctgccctcccttgactgctcccggctccaccctcgactgttctcttccgtattgtacccacaccgggtttccggtgaaatccgatcggtcaccggagacacgaggctggggccgggacgggggcacacaccgtgtttccggtgaacagccttcggcggactccgattgaagtccggggagtcggcacaccggatttccggtgaatttaccgaccgcggcgtccatggaatatcgggaacacccgggcggatcaaagtggtgtgaactgctctcacccacaccgggtttccggtgaaacgacatcgagttgcggaccggtgtcgaacgggcggagaactcgagactcccgaccgtagctgacttagactgaccgattcagggctccaacggtgctggcttagaccgattcgggctgtacccgcgggtggatcggcggtcggctccgcgattagagaacgaacagaggcggactcgaggcgacatcgtgtgacaacgatagcgtggcaaagcgacggaaggcgacgacaaacgagatgcgaccgccgactgaactcgagtccgtactcggctctgtccactggtccgagcggccgccgccgctcgttcggacacacaccgtgtttccggtgaaaggactcggaaagggggccgttcgatcacgctgttttgcgctgtgccgattgtaccctaagccgaccacggattgccaaactatttcgagtctatagaaatatataaatagtatctatgagaaaaattcgccaagtgaatcggacttcttttctccagtgatcggagaaggcgagcgatgagatatcccgctcccgtcactggtttcggtcgttatcgcccgtcgataccagtcgtttctgcatggacagccacggataacggagtcccggc
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+24  262 F 24  480  0 1.23e-09 acccacaccgggtttccggtgaaa
+22  330 F 22  816  0 1.97e-08 cacacaccgtgtttccggtgaa
+21  265 F 21  818 -1 4.96e-06 cacaccg[gt]gtttccggtgaaa
+21  483 F 21  818 -1 4.96e-06 cacaccg[gt]gtttccggtgaaa
+20  265 F 20  391 -1 1.89e-05 cacaccgg[ga]tttccggtgaa
+20  265 F 20  332 -1 1.89e-05 cacaccg[gt]gtttccggtgaa
+20  332 F 20  483 -1 1.89e-05 cacaccg[tg]gtttccggtgaa
+20  391 F 20  483 -1 1.89e-05 cacaccgg[ag]tttccggtgaa
+17    0 F 17   22  0 2.02e-05 atccgacggcgactgcc
+17  491 F 17  826 -1 1.03e-03 gtttccggtgaaa[cg]gac
+13  273 F 13  826  0 5.16e-03 gtttccggtgaaa
+15  943 R 15  947 -1 1.45e-02 aaa[tg]agtatctatga
+12  105 P 12  105  0 2.07e-02 aaccggccggtt
+12  273 F 12  340  0 2.07e-02 gtttccggtgaa
+12  340 F 12  491  0 2.07e-02 gtttccggtgaa
+14  119 F 14  785 -1 5.42e-02 tgg[at]ccgagcggcc
+14  295 P 14  337 -1 5.42e-02 tcaccgga[ga]acacg
+14  295 P 14  823 -1 5.42e-02 tcaccgga[ga]acacg
+11   41 F 11   96  0 8.26e-02 cgactgccgaa
+11  274 F 11  400  0 8.26e-02 tttccggtgaa
+11  341 F 11  400  0 8.26e-02 tttccggtgaa
+11  400 F 11  492  0 8.26e-02 tttccggtgaa
+11  400 F 11  827  0 8.26e-02 tttccggtgaa
+11  935 R 11  935  0 8.26e-02 aaatatataaa
+13   65 F 13  556 -1 2.01e-01 accg[gt]agctgact
+10   76 C 10  555  0 3.30e-01 ctggcatcga
+10  123 F 10  789  0 3.30e-01 ccgagcggcc
+10  623 P 10  623  0 3.30e-01 acccgcgggt
+10  636 P 10  743  0 3.30e-01 tcggcggtcg
+10  673 P 10  758  0 3.30e-01 cggactcgag
+10  796 R 10  796  0 3.30e-01 gccgccgccg
+12   17 C 12  564 -1 7.44e-01 actgaatc[ct]gac
+12   50 P 12  504 -1 7.44e-01 aa[ac]tcgatgtcg
+12   74 P 12 1060 -1 7.44e-01 gactgg[ct]atcga
+12  147 C 12  222 -1 7.44e-01 acgag[tg]gccgag
+12  562 F 12  598 -1 7.44e-01 gctg[ag]cttagac
+12  575 F 12  607 -1 7.44e-01 gaccgattc[ag]gg
+12  980 R 12  984 -1 7.44e-01 gac[tc]tcttttct
+9    8 F  9   40  0 1.32e+00 gcgactgcc
+9   30 F  9   40  0 1.32e+00 gcgactgcc
+9   68 C  9  237  0 1.32e+00 ggagctgac
+9   72 C  9  571  0 1.32e+00 ctgactggc
+9  159 R  9  159  0 1.32e+00 cgacgcagc
+9  257 F  9  886  0 1.32e+00 attgtaccc
+9  323 R  9  323  0 1.32e+00 acgggggca
+9  360 F  9  671  0 1.32e+00 ggcggactc
+9  540 F  9  755  0 1.32e+00 gaactcgag
+9  597 R  9 1042  0 1.32e+00 tgctggctt
+9  798 R  9  798  0 1.32e+00 cgccgccgc
+11   40 F 11  742 -1 2.73e+00 gcgac[tc]gccga

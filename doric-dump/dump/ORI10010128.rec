@@ -1,0 +1,75 @@
+AccId: ORI10010128
+Organism: Haloarcula marismortui ATCC 43049 chromosome II
+RefSeq: NC_006397
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Haloarcula.
+ChromSize: 288050 nt
+ChromGC: 0.5723
+OriCLen: 1058 nt
+OriCAT: 0.5265
+OriCIdx: 8065..9122 nt
+Cdc6Idx: 6826..8064, 50205..51485 nt
+Extremes: 278670 nt (minimum), 124094 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CCCTCCCCCCACTATTTCCAGTAAATTTAGTGGAAATAGTGGGGGGAGGGTGGAATAGTAGAAATAGTGGGGTCTGACGGG
+Sequence: attatgcgtgaatgagtgaggctaccacaatagttgtttcgaccaccgtttccgctatttccagtataaccaggactgggtgacccttccgatatatggggaggaccccactgtttccactatatcacctgcgctctatcgcggtgcggttgaagaccagtagaatggaattaggtatatacgagataactgccgcttggcgctatgtggagcgatagtaccccactatttccagtatatagcgtgtcgtggggggactagacacaccccaccgtttccagtaaatcggagtcactgtatcatgagttgtgacagatgggtcagaccactgggttccagtatttccagtaaatacctttttataagagttagagaccccaccgtttccagtatatcggtgaaacaagtgtaatcaggagactgaagtaggatggaatggtgtagattattggtacaccctccccccactatttccagtaaagaacaacgaagtagcgacgactacagaaaatgaactttgatctagggaaaagtttataataatagcattatagctagaccgtagtagagctagagcggtgttgttgtagggactagttctagtgaaagaaatgaggtgcggagcctaacttacctgtcctactagctttagtggaaatagtggggggagggtggccattcttacttcttctatcctaatgtgtaattctaatagtagaaatagtggggtctgacgggtgtcagacaacgggagttggaacccgaaacttcgcggaatggcatacggacttcttggaatacttgggttgctggtgtatctggtacaaaaggagcgtcaaaaggctggcccgacctgactaatatatctgtccgctcgagctcctcactgatgtcccggatagggcaaatcggtacgttcgaaggtctaccttgcagttagttcactcgctttcacaggtgaagaaactatatccaacgactggtctcacaggcatgggacccattttttagccccagtctggtgagggccgttccagtgagagcgtcctgaccgtacc
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+28  454 P 28  646 -1 3.67e-10 caccctccccccactatttcca[gc]taaag
+24  265 F 24  374 -1 8.05e-08 accccaccgtttccagta[at]atcgg
+17  220 F 17  462  0 1.83e-05 ccccactatttccagta
+15  115 R 15  115  0 2.93e-04 tccactatatcacct
+17   51 F 17  222 -1 9.35e-04 cc[ga]ctatttccagtata
+17  105 P 17  649 -1 9.35e-04 ccccact[ga]tttccacta
+17  220 P 17  649 -1 9.35e-04 ccccactatttcca[gc]ta
+17  335 F 17  464 -1 9.35e-04 cca[gc]tatttccagtaaa
+17  649 F 17  712 -1 9.35e-04 tagt[ga]gaaatagtgggg
+16  103 F 16  373 -1 3.52e-03 gaccccac[tc]gtttcca
+13  219 P 13  717  0 4.69e-03 accccactatttc
+13  317 C 13 1012  0 4.69e-03 gggtcagaccact
+13  339 F 13  468  0 4.69e-03 tatttccagtaaa
+15   51 F 15  464 -1 1.32e-02 cc[ga]ctatttccagta
+15  104 F 15  219 -1 1.32e-02 accccact[ga]tttcca
+15  104 F 15  265 -1 1.32e-02 accccac[tc]gtttcca
+15  222 F 15  335 -1 1.32e-02 cca[cg]tatttccagta
+15  226 F 15  339 -1 1.32e-02 tatttccagta[ta]ata
+15  692 R 15  696 -1 1.32e-02 atc[ct]taatgtgtaat
+12  228 F 12  383  0 1.88e-02 tttccagtatat
+12  274 F 12  341  0 1.88e-02 tttccagtaaat
+12  462 P 12  717  0 1.88e-02 ccccactatttc
+12  654 F 12  717  0 1.88e-02 gaaatagtgggg
+14  103 P 14  717 -1 4.93e-02 gaccccact[ga]tttc
+14  105 F 14  462 -1 4.93e-02 ccccact[ga]tttcca
+14  112 F 14  382 -1 4.93e-02 gtttcca[cg]tatatc
+11   42 F 11  268  0 7.51e-02 ccaccgtttcc
+11   42 F 11  377  0 7.51e-02 ccaccgtttcc
+11   55 F 11  339  0 7.51e-02 tatttccagta
+11   57 F 11  383  0 7.51e-02 tttccagtata
+11  274 F 11  470  0 7.51e-02 tttccagtaaa
+13  158 F 13  424 -1 1.83e-01 agtag[ag]atggaat
+13  339 P 13  647 -1 1.83e-01 tatttcca[gc]taaa
+12   51 P 12  652 -1 6.76e-01 cc[ga]ctatttcca
+12  113 F 12  228 -1 6.76e-01 tttcca[cg]tatat
+12  136 R 12  194 -1 6.76e-01 tatcgcggt[gt]cg
+12  228 F 12  274 -1 6.76e-01 tttccagta[ta]at
+12  273 R 12  508 -1 6.76e-01 gtttc[ca]agtaaa
+12  282 C 12 1006 -1 6.76e-01 aaatcgg[ag]gtca
+12  333 F 12  384 -1 6.76e-01 ttccagtat[ta]tc
+12  335 P 12  652 -1 6.76e-01 cca[gc]tatttcca
+12  341 F 12  383 -1 6.76e-01 tttccagta[at]at
+12  515 C 12  962 -1 6.76e-01 ctttgat[ca]tagg
+12  567 P 12  870 -1 6.76e-01 gagct[ac]gagcgg
+9   57 F  9  274  0 1.20e+00 tttccagta
+9   58 F  9  333  0 1.20e+00 ttccagtat
+9   70 C  9 1044  0 1.20e+00 caggactgg
+9   89 R  9  234  0 1.20e+00 cgatatatg
+9  113 P  9  649  0 1.20e+00 tttccacta
+9  229 F  9  333  0 1.20e+00 ttccagtat

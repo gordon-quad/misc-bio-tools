@@ -1,0 +1,89 @@
+AccId: ORI10010025
+Organism: Methanosarcina barkeri str. fusaro
+RefSeq: NC_007355
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Methanomicrobia, Methanosarcinales, Methanosarcinaceae, Methanosarcina.
+ChromSize: 4837408 nt
+ChromGC: 0.3928
+OriCLen: 2165 nt
+OriCAT: 0.7376
+OriCIdx: 1189197..1191361 nt
+Cdc6Idx: 1099166..1101430, 1187952..1189196, 1482171..1483292, 2945907..2948234 nt
+Extremes: 1143129 nt (minimum), 53682 nt (maximum)
+Note: 
+Sequence: gaaaatcctctataaaaattatgatattaggcatttaaggaattaaggaattaagatacttctaacgtagataattaatataatgtgaaccattgcacgtcaaactaattgatagtaatattactatgcaaattatatataataaattaatacagttgataaactctgttttttaaatgtttttaattttaagtgttttaattttaagtgttttaattttaagtgttttaattttaagtgttttaattttaagtgtttttaattttaagtgtttttaattttaagtgtttttaattttaagtgtttttaattttaagtgtttttaattttaagtgttttaattttaagtgtttttaattttaagtgttttaattttaagtgtttttaattttaagtgttttactactacctgaaatcaggaggaattttaatagtctgcaaccaatttaatcctccgaatctacatctattaaatattacgtatttagagctacgtttttagagttatgttttagattttccttttcaaatggttgcacaattataaccacaactgcttgataaattttagactgaatacataataaccttttagcgggtttcaataattattgtaatggtcattattgtaatagtcatcaaaggattttagagggttataaatgggggttaatgtaagggtatttggaaagagagaaagaggggaaaaggttaaactcttaattccgaagtcttaactctcaatatctggaactaaagtttattttaggatttctaaaattttacttcattattgtttgtacctttatgaaaaaccctataaattccgctaataaggagaaaggggtagaagatacatctttcttatagttaatgcctgaaactctcattttctactaattgctgataaaattgcgggcgagtcttaagtattaagatacctcgcaagccagataaaatctatattcccgatcttcttttgttaaaattttaggtaaaattggtttataagcaagtaattttaagtcatatttgcagtagatccaatggaagtacaccgtattaattgttatggtaaagacccctgtatttccactggaaaagatttataccttaaatacctgccataaaaaccaatgttctctagcttattatagctgaaacaaaaaattatgagttccagaaccaatgtaggttaaatttaaaccctttctttcgaatggaataagttatgaaaattataatatttttacataaaattaaaaaataaaaattttaagataaaattagaattatgtgaataaaatccctgtgaacaaataagtttacaaagttgagacaactttagagcaatctttagagtgatttttaaatttgagattgtttgcattgagtaagtgagaaaagataaagaaaacagaaaaagctaggaaatttaagaaagtttggaataatggagaagtttggaataatggagaagttagggaaaaaaacacaaagagaaaagtaaaaacaaaaagtagacccctgtatttccactggaaagtttatataacccccagaccccatgatttccattaaagagattcaagatccaaggcagtaaaataaaataaaattttattttgtttattggtaaaataatgttgtttggttatagaattaatactatatatatgttattattaaaaaagttagtttgtttttagagaagcttttcttaatagtaaaaaatttgatttaatattttcattgaatatttttattttgagtttttattgatactcaatctatcagaaaaagtatgattttcaaaaaattgagaaatctaaattacatgttctgagaaatttacattttctgaacctataaaaatctctccagtcgaaatataggggtctccctctaaagcagacattaatgcaattatgataccttaacatacagtcctttttttagatcttgtatacttcctcaccctattactgctcacataacttttttgtggaacttttttaactttctaatacttttaatcacttgccgaaagttagtctcttctgatgtgcattaggagattctgatgcatcgttaggagagttacttgctaatttagagttatattccataagtattttaaataaaattggttttactttatccac
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+83  240 F 83  256  0 1.41e-44
+ttttaattttaagtgtttttaattttaagtgtttttaattttaagtgtttttaattttaa
+gtgtttttaattttaagtgtttt
+67  240 F 67  272  0 6.05e-35
+ttttaattttaagtgtttttaattttaagtgtttttaattttaagtgtttttaattttaa
+gtgtttt
+67  304 F 67  335  0 6.05e-35
+ttttaattttaagtgtttttaattttaagtgttttaattttaagtgtttttaattttaag
+tgtttta
+64  180 F 64  195  0 3.87e-33
+ttttaattttaagtgttttaattttaagtgttttaattttaagtgttttaattttaagtg
+tttt
+51  240 F 51  288  0 2.60e-25
+ttttaattttaagtgtttttaattttaagtgtttttaattttaagtgtttt
+50  225 F 50  320  0 1.04e-24
+ttttaattttaagtgttttaattttaagtgtttttaattttaagtgtttt
+50  225 F 50  351  0 1.04e-24
+ttttaattttaagtgttttaattttaagtgtttttaattttaagtgtttt
+49  180 F 49  210  0 4.16e-24
+ttttaattttaagtgttttaattttaagtgttttaattttaagtgtttt
+44  170 F 44  310 -1 5.62e-19
+ttttaa[ag]tgtttttaattttaagtgttttaattttaagtgtttt
+44  170 F 44  341 -1 5.62e-19
+ttttaa[ag]tgtttttaattttaagtgttttaattttaagtgtttt
+37  177 F 37  317  0 6.98e-17 tgtttttaattttaagtgttttaattttaagtgtttt
+37  177 F 37  348  0 6.98e-17 tgtttttaattttaagtgttttaattttaagtgtttt
+36  304 F 36  366  0 2.79e-16 ttttaattttaagtgtttttaattttaagtgtttta
+35  240 F 35  304  0 1.12e-15 ttttaattttaagtgtttttaattttaagtgtttt
+35  256 F 35  335  0 1.12e-15 ttttaattttaagtgtttttaattttaagtgtttt
+35  256 F 35  366  0 1.12e-15 ttttaattttaagtgtttttaattttaagtgtttt
+35  272 F 35  335  0 1.12e-15 ttttaattttaagtgtttttaattttaagtgtttt
+35  272 F 35  366  0 1.12e-15 ttttaattttaagtgtttttaattttaagtgtttt
+35  288 F 35  335  0 1.12e-15 ttttaattttaagtgtttttaattttaagtgtttt
+35  288 F 35  366  0 1.12e-15 ttttaattttaagtgtttttaattttaagtgtttt
+34  180 F 34  225  0 4.47e-15 ttttaattttaagtgttttaattttaagtgtttt
+34  195 F 34  320  0 4.47e-15 ttttaattttaagtgttttaattttaagtgtttt
+34  195 F 34  351  0 4.47e-15 ttttaattttaagtgttttaattttaagtgtttt
+34  210 F 34  320  0 4.47e-15 ttttaattttaagtgttttaattttaagtgtttt
+34  210 F 34  351  0 4.47e-15 ttttaattttaagtgttttaattttaagtgtttt
+30  170 F 30  372 -1 1.03e-10 ttttaa[ag]tgtttttaattttaagtgtttta
+29  170 F 29  294 -1 3.98e-10 ttttaa[ag]tgtttttaattttaagtgtttt
+29  170 F 29  278 -1 3.98e-10 ttttaa[ag]tgtttttaattttaagtgtttt
+29  170 F 29  262 -1 3.98e-10 ttttaa[ag]tgtttttaattttaagtgtttt
+29  170 F 29  246 -1 3.98e-10 ttttaa[ag]tgtttttaattttaagtgtttt
+24 1078 F 24 1521  0 4.68e-09 agacccctgtatttccactggaaa
+23  177 F 23  379  0 1.87e-08 tgtttttaattttaagtgtttta
+23 1441 F 23 1459  0 1.87e-08 aagtttggaataatggagaagtt
+22  177 F 22  301  0 7.49e-08 tgtttttaattttaagtgtttt
+22  177 F 22  285  0 7.49e-08 tgtttttaattttaagtgtttt
+22  177 F 22  269  0 7.49e-08 tgtttttaattttaagtgtttt
+22  177 F 22  253  0 7.49e-08 tgtttttaattttaagtgtttt
+20  195 F 20  382  0 1.20e-06 ttttaattttaagtgtttta
+20  210 F 20  382  0 1.20e-06 ttttaattttaagtgtttta
+20  225 F 20  382  0 1.20e-06 ttttaattttaagtgtttta
+19  180 F 19  335  0 4.80e-06 ttttaattttaagtgtttt
+19  180 F 19  366  0 4.80e-06 ttttaattttaagtgtttt
+19  180 F 19  240  0 4.80e-06 ttttaattttaagtgtttt
+19  195 F 19  304  0 4.80e-06 ttttaattttaagtgtttt
+19  195 F 19  288  0 4.80e-06 ttttaattttaagtgtttt
+19  195 F 19  272  0 4.80e-06 ttttaattttaagtgtttt
+19  195 F 19  256  0 4.80e-06 ttttaattttaagtgtttt
+19  210 F 19  304  0 4.80e-06 ttttaattttaagtgtttt
+19  210 F 19  288  0 4.80e-06 ttttaattttaagtgtttt
+19  210 F 19  272  0 4.80e-06 ttttaattttaagtgtttt

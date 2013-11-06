@@ -1,0 +1,75 @@
+AccId: ORI10010158
+Organism: Natrialba magadii ATCC 43099 chromosome
+RefSeq: NC_013922
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Natrialba.
+ChromSize: 3751858 nt
+ChromGC: 0.6142
+OriCLen: 958 nt
+OriCAT: 0.5157
+OriCIdx: 357090..358047 nt
+Cdc6Idx: 677..2026, 358048..359319, 935647..937026, 953732..955096, 1643635..1644705, 1962303..1964261, 2109607..2110737, 2374803..2376095, 2776884..2777906 nt
+Extremes: 2911063 nt (minimum), 1953749 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CACCCTCCCCCCTTATTTCGAACGTACCCCCACACCCCTAATTTCGATCGTTTTTACGCTCGAAATGAGGGGTGGGGGTGTTGTTACGTTCGAAATGAGGGGTGGGGGCGTT
+Sequence: aactgcgtattcgttcctcgacggattaagaaaggctgatcatagacttctcggttctcaccgtacactgtaactgatcgactgcagacgattctgtaacacaccgactctaaagatagaaattctacatggtacacaagcacctcacagtataggaccgcttacccccatcaatagctctagcccacgaaccgagtttagatgccatccacgttgtttaaatgtggactattcgatttctttgaccctacccaccccctcaaacccgattacgctcgaaatgaggggtgggggtgttgagagatagtccaacaagttcaggtaatccgcctcaagatagcggtaaacaaacccagatcctttgacccccaccccctcgaactaaattacgttcgaaatgaggggtgggggcgttgagaaatcgttccggatctctcactctatttttaaggaaagaatctgactattcatggcagcgtaaatccgacaacacctgcgcagcctacattccacaatagcacagtctttaatctatataaggattctaattttatattacactaagggggcacgtatgtccacttattcggataatattggaactccaaaaccgggcaggttcgagacactctctcgaacccctgtgtatctcgttacaaaataactccaagtcctctgctgggatacgagtgacggcggtgtggccccaccagtagccttgtcgtgccgaccgagagacaaatcagcatatcccaacccagtggtacagtgccgtcggaagcctcaccgtcgtcaggtgtagcccgcctgcctgggggctctttgatccttctccgtttttagcgaggagaaggtaactttgcagtcaagtaattcgagatgggagaaacgcgcagcaggtgagtttgtctgacagtcggtgaaaccgttatatgtaaacaggaactggcatacagcc
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+27 275 F 27 392 -1 1.16e-09 tcgaaatgaggggtggggg[tc]gttgaga
+26 268 F 26 385 -1 4.47e-09 attacg[ct]tcgaaatgaggggtggggg
+13 110 R 13 110  0 3.85e-03 taaagatagaaat
+15 250 F 15 367 -1 1.08e-02 cccaccccctc[ag]aac
+11 284 P 11 364  0 6.15e-02 ggggtgggggt
+11 365 R 11 365  0 6.15e-02 cccccaccccc
+13 250 C 13 285 -1 1.50e-01 cccaccccc[ta]caa
+13 250 C 13 402 -1 1.50e-01 cccaccccc[tg]caa
+10 126 R 10 126  0 2.46e-01 acatggtaca
+10 284 C 10 366  0 2.46e-01 ggggtggggg
+10 365 P 10 401  0 2.46e-01 cccccacccc
+10 366 C 10 401  0 2.46e-01 ccccaccccc
+12 113 C 12 439 -1 5.54e-01 agata[ga]aaattc
+12 906 R 12 909 -1 5.54e-01 tg[tg]ctgacagtc
+9  26 R  9 450  0 9.85e-01 taagaaagg
+9 162 R  9 162  0 9.85e-01 tacccccat
+9 221 R  9 792  0 9.85e-01 atgtggact
+9 239 F  9 359  0 9.85e-01 ctttgaccc
+9 250 R  9 365  0 9.85e-01 cccaccccc
+9 284 R  9 284  0 9.85e-01 ggggtgggg
+9 284 R  9 401  0 9.85e-01 ggggtgggg
+9 287 R  9 287  0 9.85e-01 gtgggggtg
+9 401 R  9 401  0 9.85e-01 ggggtgggg
+9 433 R  9 433  0 9.85e-01 tctcactct
+9 617 P  9 631  0 9.85e-01 ggttcgaga
+9 696 R  9 696  0 9.85e-01 cggtgtggc
+11  76 P 11  81 -1 2.03e+00 atcg[at]ctgcag
+11 116 P 11 116 -1 2.03e+00 tagaa[at]ttcta
+11 238 F 11 819 -1 2.03e+00 tctttga[ct]cct
+11 242 R 11 751 -1 2.03e+00 tgaccc[ta]accc
+11 484 R 11 508 -1 2.03e+00 cga[ct]aacacct
+11 690 P 11 784 -1 2.03e+00 tgacg[ga]cggtg
+8  49 P  8 188  0 3.94e+00 ctcggttc
+8  56 F  8 782  0 3.94e+00 ctcaccgt
+8 101 P  8 914  0 3.94e+00 caccgact
+8 136 R  8 184  0 3.94e+00 caagcacc
+8 224 P  8 303  0 3.94e+00 tggactat
+8 226 F  8 461  0 3.94e+00 gactattc
+8 233 P  8 416  0 3.94e+00 cgatttct
+8 250 P  8 401  0 3.94e+00 cccacccc
+8 250 P  8 284  0 3.94e+00 cccacccc
+8 288 C  8 364  0 3.94e+00 tgggggtg
+8 297 P  8 430  0 3.94e+00 tgagagat
+8 431 R  8 626  0 3.94e+00 tctctcac
+8 493 P  8 493  0 3.94e+00 ctgcgcag
+8 525 R  8 543  0 3.94e+00 tttaatct
+8 571 C  8 948  0 3.94e+00 cgtatgtc
+8 600 F  8 662  0 3.94e+00 aactccaa
+8 604 R  8 604  0 3.94e+00 ccaaaacc
+8 751 R  8 751  0 3.94e+00 cccaaccc

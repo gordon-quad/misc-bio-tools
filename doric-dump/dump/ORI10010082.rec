@@ -1,0 +1,75 @@
+AccId: ORI10010082
+Organism: Halomicrobium mukohataei DSM 12286
+RefSeq: NC_013202
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Halomicrobium.
+ChromSize: 3110487 nt
+ChromGC: 0.6563
+OriCLen: 1065 nt
+OriCAT: 0.43
+OriCIdx: 783884..784948 nt
+Cdc6Idx: 329742..330986, 427168..428220, 784949..786499, 956748..957875, 1735431..1736636, 2411315..2412493 nt
+Extremes: 88079 nt (minimum), 910542 nt (maximum)
+Note: 
+Sequence: cctcgttcctcccgcccgaacgtccgtattcgggggcttgagcgtagtagaaaggcgaattcacttaaggctacgtcagacaaccatacccgaattgatagtacgtcgaaagatacagcgcggaaacctgtcgagaaaacgcgacggggacgagataggaaagttgcgggacgataagtcagcctggcgggacggtaagccaacccgagggaggagtggagaacggtaacaatctgggagggacttcgagggggagcacaacacccccaccccttcgtttcgactggaacgccataacccctcgtggggaccagcgggagagacgggactcgcgcgggaaacctacgggtggttcgcgcgggaggtttcgtctggaacgctactagagagacgtgagaacgtgtagaacagcgtctagaatactagatacgactaattacttgtctctgcttctagtgcggctttggttttcacgtatcatacataagtcttccctcatctagtgagacctcgacagactgccgtaccccccaccaccctcttcaacgcgttccacccgaaacgaaggggtgggggggttcgtgaactcccttccgaaatcccactcgaagctgttcgtctcctgctagcacctctctcacgtcgactctcgaatacacccgacagtacagacccccgtccgtttctggtccgcccgctcccgcccgccgaccgttctcactgtcgacactctcctcactgtcgagtgtgaattcgtcacgaacgtctccgtctcgggggaatgcctgcaggaccggacagctatccacatctcgaaggtacggtgaagctgcggtcagtaacgacagagacacgaatcggggacccgacgtagggctggatcgacaggagtctccgttccgaccgaaatgtttaatatcgagtcacccacgggttcttgtggttcaactggactcgcgccgttcggtgaaattcgcgtacaacgtctttccgagcggtctcagtcgcgattccacactgcgcaccggtctttccacctgaaacgagggggttgtcaccacgact
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+23  259 P 23  557 -1 3.13e-07 aac[ac]cccccaccccttcgtttcg
+19  263 P 19  557  0 1.16e-06 cccccaccccttcgtttcg
+16  276 F 16  364 -1 3.57e-03 gtttcg[at]ctggaacgc
+13   56 R 13   56  0 4.75e-03 gaattcacttaag
+15  550 F 15 1031 -1 1.34e-02 ttccacc[ct]gaaacga
+14    7 P 14  351 -1 4.99e-02 cctcccgc[cg]cgaac
+11   28 R 11   28  0 7.61e-02 ttcgggggctt
+11  246 R 11  246  0 7.61e-02 cgagggggagc
+11  716 F 11  734  0 7.61e-02 ctcactgtcga
+13  165 F 13  186 -1 1.85e-01 gcgggacg[ag]taag
+13  268 P 13 1039 -1 1.85e-01 acccc[tc]tcgtttc
+13  322 F 13  947 -1 1.85e-01 ac[gt]ggactcgcgc
+13  485 R 13  585 -1 1.85e-01 aag[tc]cttccctca
+13  558 F 13 1039 -1 1.85e-01 gaaacga[ag]ggggt
+10    8 F 10  697  0 3.04e-01 ctcccgcccg
+10  329 F 10  353  0 3.04e-01 tcgcgcggga
+10  529 R 10  529  0 3.04e-01 cccaccaccc
+12  243 P 12  599 -1 6.85e-01 cttcgag[gt]ggga
+12  655 P 12  737 -1 6.85e-01 acac[ct]cgacagt
+9   19 R  9  781  0 1.22e+00 acgtccgta
+9   55 P  9  747  0 1.22e+00 cgaattcac
+9   73 R  9  513  0 1.22e+00 cgtcagaca
+9  218 P  9  710  0 1.22e+00 gagaacggt
+9  249 R  9 1042  0 1.22e+00 gggggagca
+9  250 C  9  297  0 1.22e+00 ggggagcac
+9  261 R  9  261  0 1.22e+00 cacccccac
+9  264 R  9  264  0 1.22e+00 ccccacccc
+9  264 C  9  566  0 1.22e+00 ccccacccc
+9  283 F  9  371  0 1.22e+00 ctggaacgc
+9  389 P  9  635  0 1.22e+00 gacgtgaga
+9  392 P  9  712  0 1.22e+00 gtgagaacg
+9  489 R  9  585  0 1.22e+00 cttccctca
+9  526 P  9  568  0 1.22e+00 ccccccacc
+9  566 R  9  566  0 1.22e+00 ggggtgggg
+9  570 R  9  570  0 1.22e+00 tgggggggt
+9  700 R  9  700  0 1.22e+00 ccgcccgcc
+9  795 R  9  880  0 1.22e+00 ggacagcta
+9  844 R  9  844  0 1.22e+00 acagagaca
+11    3 F 11  548 -1 2.51e+00 cgttcc[ta]cccg
+11  200 R 11  251 -1 2.51e+00 caac[ca]cgaggg
+11  317 F 11  385 -1 2.51e+00 gagagacg[gt]ga
+11  528 C 11  566 -1 2.51e+00 ccccacc[ac]ccc
+11  528 P 11  567 -1 2.51e+00 cccc[ac]ccaccc
+11  586 F 11  892 -1 2.51e+00 ctcc[cg]ttccga
+11  752 P 11  752 -1 2.51e+00 ttcgt[cg]acgaa
+8   16 F  8  759  0 4.87e+00 cgaacgtc
+8   48 C  8  985  0 4.87e+00 agaaaggc
+8   61 C  8  747  0 4.87e+00 cacttaag
+8  121 F  8  336  0 4.87e+00 ggaaacct
+8  126 C  8  795  0 4.87e+00 cctgtcga

@@ -1,0 +1,75 @@
+AccId: ORI10010104
+Organism: Acidianus hospitalis W1
+RefSeq: NC_015518
+Topology: Circular
+Lineage: Archaea, Crenarchaeota, Thermoprotei, Sulfolobales, Sulfolobaceae, Acidianus.
+ChromSize: 2137654 nt
+ChromGC: 0.3415
+OriCLen: 148 nt
+OriCAT: 0.7027
+OriCIdx: 1238651..1238798 nt
+Cdc6Idx: 32..1189, 502861..504099, 730587..731777 nt
+Extremes: 2123197 nt (minimum), 986119 nt (maximum)
+Note: Note that the sequence has been predicted as oriC region using in silico studies. Please refer to You, X.Y., et al. 2011 (Extremophiles : life under extreme conditions, 15, 487-497) for more details.
+Sequence: aatcttctacttctttaggtcaaaatttttgtcacacttgcggtttgcttaagttacattatgcaaactcttatttttcttgaagacaaaaaagctaaatagagtagtagtaatctatttaatcaaatgtatccagacttcacttgag
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+11  20 P 11  20 -1 4.85e-02 caaaa[ta]ttttg
+11  95 P 11 110 -1 4.85e-02 taaataga[gt]ta
+8   1 R  8   1  0 9.40e-02 atcttcta
+8  21 P  8  21  0 9.40e-02 aaaatttt
+8  25 P  8  84  0 9.40e-02 tttttgtc
+10  42 P 10  58 -1 1.76e-01 gtttgc[ta]taa
+10  59 R 10 122 -1 1.76e-01 tatg[ct]aaact
+10 135 R 10 138 -1 1.76e-01 ga[cg]ttcactt
+7  31 R  7  31  0 3.76e-01 tcacact
+7  53 R  7  53  0 3.76e-01 ttacatt
+7 102 F  7 105  0 3.76e-01 agtagta
+9  43 P  9 118 -1 6.35e-01 tttg[ca]ttaa
+9  77 P  9  77 -1 6.35e-01 tctt[gc]aaga
+6   8 C  6  80  0 1.50e+00 acttct
+6  10 R  6  75  0 1.50e+00 ttcttt
+6  15 C  6 130  0 1.50e+00 taggtc
+6  24 F  6  72  0 1.50e+00 attttt
+6  34 F  6 140  0 1.50e+00 cacttg
+6  47 P  6  47  0 1.50e+00 cttaag
+6  53 C  6 125  0 1.50e+00 ttacat
+6  54 P  6 125  0 1.50e+00 tacatt
+6  73 C  6  88  0 1.50e+00 tttttc
+6  87 R  6  87  0 1.50e+00 aaaaaa
+6 136 R  6 136  0 1.50e+00 acttca
+8   3 P  8 102 -1 2.26e+00 ct[ta]ctact
+8   6 P  8 102 -1 2.26e+00 ctact[ta]ct
+8  21 F  8  22 -1 2.26e+00 aaa[at]tttt
+8  70 R  8  73 -1 2.26e+00 tt[ac]ttttt
+8  72 R  8 113 -1 2.26e+00 attt[ta]tct
+8  72 C  8  95 -1 2.26e+00 attt[ta]tct
+8  73 P  8  82 -1 2.26e+00 ttt[tg]tctt
+8  92 R  8  95 -1 2.26e+00 ag[ca]taaat
+8  92 C  8 113 -1 2.26e+00 ag[ca]taaat
+8 109 R  8 121 -1 2.26e+00 gtaa[ta]cta
+8 110 R  8 115 -1 2.26e+00 taat[ct]tat
+8 114 R  8 125 -1 2.26e+00 ctat[tg]taa
+7   1 C  7  79 -1 7.90e+00 a[ta]cttct
+7   2 P  7  79 -1 7.90e+00 tcttc[ta]a
+7   5 F  7 113 -1 7.90e+00 tcta[ct]tt
+7   5 P  7  96 -1 7.90e+00 tcta[ct]tt
+7   7 P  7 105 -1 7.90e+00 tact[ta]ct
+7   8 R  7  10 -1 7.90e+00 a[ct]ttctt
+7   9 F  7  69 -1 7.90e+00 ctt[ca]ttt
+7   9 P  7  87 -1 7.90e+00 ctt[ct]ttt
+7  10 F  7  76 -1 7.90e+00 ttctt[tg]a
+7  11 C  7 108 -1 7.90e+00 tc[ta]ttag
+7  11 P  7  94 -1 7.90e+00 t[ca]tttag
+7  18 F  7  84 -1 7.90e+00 g[ta]caaaa
+7  21 P  7  21 -1 7.90e+00 aaa[at]ttt
+7  23 R  7 115 -1 7.90e+00 aattt[ta]t

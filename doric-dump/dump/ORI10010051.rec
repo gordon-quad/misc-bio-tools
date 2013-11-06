@@ -1,0 +1,75 @@
+AccId: ORI10010051
+Organism: Ignicoccus hospitalis KIN4/I
+RefSeq: NC_009776
+Topology: Circular
+Lineage: Archaea, Crenarchaeota, Thermoprotei, Desulfurococcales, Desulfurococcaceae, Ignicoccus.
+ChromSize: 1297538 nt
+ChromGC: 0.5652
+OriCLen: 120 nt
+OriCAT: 0.375
+OriCIdx: 1168293..1168412 nt
+Cdc6Idx: 216447..217658, 1150318..1151592 nt
+Extremes: 1262600 nt (minimum), 879688 nt (maximum)
+Note: 
+Sequence: acccgggacctctcgggtgcaagccgagcgctcttccaggctgagctaccggcccgtcggctgggctcccttctaccttataagtttaataccacgacgttcctcccctccgggaggaga
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+10 101 R 10 101  0 3.86e-03 cctcccctcc
+11 106 P 11 106 -1 3.19e-02 cctcc[gc]ggagg
+8  25 P  8  25  0 6.18e-02 gagcgctc
+8  55 R  8  55  0 6.18e-02 gtcggctg
+8  76 P  8  76  0 6.18e-02 cttataag
+7  11 R  7  61  0 2.47e-01 ctcgggt
+7 100 P  7 111  0 2.47e-01 tcctccc
+9  18 R  9  21 -1 4.17e-01 gc[ag]agccga
+9  38 F  9  58 -1 4.17e-01 ggctg[ag]gct
+6   1 P  6   1  0 9.89e-01 cccggg
+6   2 F  6 109  0 9.89e-01 ccggga
+6   5 R  6  34  0 9.89e-01 ggacct
+6  17 C  6  96  0 9.89e-01 tgcaag
+6  21 C  6  56  0 9.89e-01 agccga
+6  21 P  6  56  0 9.89e-01 agccga
+6  31 R  6  68  0 9.89e-01 tcttcc
+6  48 R  6  48  0 9.89e-01 ccggcc
+6 105 C  6 111  0 9.89e-01 ccctcc
+6 113 R  6 113  0 9.89e-01 gaggag
+8   0 P  8  10 -1 1.48e+00 acccg[ga]ga
+8   8 P  8 109 -1 1.48e+00 cctc[tc]cgg
+8  12 R  8  54 -1 1.48e+00 tcgg[gc]tgc
+8  21 P  8  59 -1 1.48e+00 agcc[gc]agc
+8  48 C  8  58 -1 1.48e+00 ccg[ga]cccg
+8  62 R  8 105 -1 1.48e+00 gg[gc]ctccc
+8  65 F  8 102 -1 1.48e+00 ctccc[tc]tc
+8 101 C  8 112 -1 1.48e+00 cctcc[ct]ct
+7   0 C  7  61 -1 5.19e+00 acccg[ga]g
+7   1 C  7   4 -1 5.19e+00 ccc[gt]gga
+7   5 R  7 107 -1 5.19e+00 gg[ag]cctc
+7   5 C  7 109 -1 5.19e+00 gg[ac]cctc
+7   8 R  7  29 -1 5.19e+00 c[ct]tctcg
+7   9 P  7  23 -1 5.19e+00 c[tg]ctcgg
+7  12 F  7  56 -1 5.19e+00 tcgg[gc]tg
+7  21 C  7  61 -1 5.19e+00 a[gc]ccgag
+7  22 F  7  39 -1 5.19e+00 gc[ct]gagc
+7  22 C  7  49 -1 5.19e+00 gccg[ag]gc
+7  30 P  7 112 -1 5.19e+00 ctc[tc]tcc
+7  31 R  7  74 -1 5.19e+00 t[ca]ttcca
+7  32 R  7  95 -1 5.19e+00 ctt[cg]cag
+7  36 P  7  36 -1 5.19e+00 cag[gc]ctg
+7  39 P  7  39 -1 5.19e+00 gct[gc]agc
+7  45 P  7 109 -1 5.19e+00 ct[ac]ccgg
+7  47 P  7  50 -1 5.19e+00 ac[cg]ggcc
+7  49 R  7  51 -1 5.19e+00 c[gt]gcccg
+7  49 P  7  49 -1 5.19e+00 cgg[cg]ccg
+7  53 R  7  63 -1 5.19e+00 cc[gc]tcgg
+7  53 P  7  53 -1 5.19e+00 ccg[ta]cgg
+7  65 F  7  72 -1 5.19e+00 ct[ca]cctt
+7  67 R  7 100 -1 5.19e+00 ccct[tc]ct

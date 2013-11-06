@@ -1,0 +1,75 @@
+AccId: ORI10010100
+Organism: Metallosphaera cuprina Ar-4
+RefSeq: NC_015435
+Topology: Circular
+Lineage: Archaea, Crenarchaeota, Thermoprotei, Sulfolobales, Sulfolobaceae, Metallosphaera.
+ChromSize: 1840348 nt
+ChromGC: 0.4199
+OriCLen: 1009 nt
+OriCAT: 0.663
+OriCIdx: 1839340..1840348 nt
+Cdc6Idx: 1..1191, 220797..222050, 1283328..1284509 nt
+Extremes: 1801877 nt (minimum), 134725 nt (maximum)
+Note: 
+Sequence: gataaaaacaatatcatgataagattactagtctcaaatttctatcgtagtataaaagggtgtaacagatagttgaaatagaggagaggaatacttttctaatcgcctacataatcactaattgatatttgttaataaattaaaaatgtattattattaaatattgattttatttcgttttttcatgaactcgaattgctatggaaccataaactgattataacgctttcgattgtagagatcgtaaggacccaatatttttatagctcctttaacacagttcgttctttagtcctcccggtctgatgctacggatatcaataatcccaacgcttcctatcactccctacgtctcgatatctgagaaggctaaactagaacgtgttaattcaagggtcctattttggaataaaaagagtatctcgatttctaataatgttctaaatcataaatcataaactttgaaactaatgatgttacttaattcatcctcaataatctgtttaacctttgccaacttgttggtaatatcatgcgaccgtgcttgactcataattatatttctatttacactaaaaacgaatttaattgtttggaagaaattttcatttttatggatataacttcttgtaattttatggaccggccgggatttgaacccgggacctttcggatgccaaccgaacactcttccaggctgagctaccggcccatatttagatctgtagattctgtttataaatctaccattttattccctaaaccgtggagaggcctacccctatacttctcctggaaacagattcactttaacttaactacaatctattattatctttatacaaaccgttcttttttaaaaggaaaaatcataaacttagaccattctccagtggaaacagaggggtggctcactttatcttagattctccagtggaaacagaggggttatttactccccgattaaatatctcaacccttaaaacgtgaaatgaagaatgatatttgt
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+24  884 F 24  925  0 1.02e-09 attctccagtggaaacagaggggt
+16  449 F 16  866 -1 3.20e-03 aaatcataaactt[ta]ga
+13  824 R 13  824  0 4.27e-03 tctattattatct
+15  599 C 15  855 -1 1.20e-02 aaattttc[ac]ttttta
+12  477 R 12  477  0 1.71e-02 tacttaattcat
+11  111 R 11  111  0 6.83e-02 taatcactaat
+11  254 R 11  254  0 6.83e-02 atatttttata
+11  441 F 11  448  0 6.83e-02 taaatcataaa
+11  557 R 11  831  0 6.83e-02 atatttctatt
+11  919 R 11  919  0 6.83e-02 tcttagattct
+13    1 P 13  160 -1 1.66e-01 ataaaa[at]caatat
+13  144 F 13  822 -1 1.66e-01 aat[gc]tattattat
+13  804 F 13  911 -1 1.66e-01 tcacttta[at]ctta
+10   11 P 10   11  0 2.73e-01 tatcatgata
+10  122 F 10  999  0 2.73e-01 tgatatttgt
+10  149 R 10  149  0 2.73e-01 attattatta
+10  442 F 10  866  0 2.73e-01 aaatcataaa
+10  712 C 10  736  0 2.73e-01 atatttagat
+10  793 F 10  893  0 2.73e-01 tggaaacaga
+10  793 F 10  934  0 2.73e-01 tggaaacaga
+10  858 R 10  858  0 2.73e-01 aaaaggaaaa
+12   15 C 12   91 -1 6.14e-01 atga[ta]aagatta
+12  209 P 12  494 -1 6.14e-01 taaac[ta]gattat
+12  382 R 12  580 -1 6.14e-01 tgttaatt[ct]aag
+12  571 R 12  860 -1 6.14e-01 actaaaaa[cg]gaa
+12  595 C 12  851 -1 6.14e-01 gaa[ga]aaattttc
+12  725 R 12  915 -1 6.14e-01 tagattct[ga]ttt
+9    9 F  9  526  0 1.09e+00 aatatcatg
+9   73 C  9  913  0 1.09e+00 tgaaataga
+9   81 R  9   81  0 1.09e+00 aggagagga
+9  127 R  9  585  0 1.09e+00 tttgttaat
+9  148 R  9  826  0 1.09e+00 tattattat
+9  148 F  9  826  0 1.09e+00 tattattat
+9  148 R  9  148  0 1.09e+00 tattattat
+9  155 F  9  962  0 1.09e+00 attaaatat
+9  173 P  9  574  0 1.09e+00 ttcgttttt
+9  317 F  9  491  0 1.09e+00 tcaataatc
+9  405 P  9  749  0 1.09e+00 ggaataaaa
+9  433 R  9  625  0 1.09e+00 taatgttct
+9  456 C  9  460  0 1.09e+00 aaactttga
+9  496 P  9  796  0 1.09e+00 aatctgttt
+9  609 F  9  633  0 1.09e+00 ttttatgga
+11   34 R 11  832 -1 2.25e+00 ca[at]atttctat
+11  129 F 11  732 -1 2.25e+00 tgtt[at]ataaat
+11  135 C 11  582 -1 2.25e+00 taaattaa[ac]aa
+11  136 C 11  603 -1 2.25e+00 aaa[tg]taaaaat
+11  165 R 11  914 -1 2.25e+00 gatt[tc]tatttc
+11  204 F 11  867 -1 2.25e+00 aa[ct]cataaact
+11  204 F 11  450 -1 2.25e+00 aa[ct]cataaact
+11  274 R 11  541 -1 2.25e+00 ac[at]cagttcgt

@@ -1,0 +1,75 @@
+AccId: ORI10010001
+Organism: Aeropyrum pernix K1
+RefSeq: NC_000854
+Topology: Circular
+Lineage: Archaea, Crenarchaeota, Thermoprotei, Desulfurococcales, Desulfurococcaceae, Aeropyrum.
+ChromSize: 1669696 nt
+ChromGC: 0.5631
+OriCLen: 697 nt
+OriCAT: 0.4046
+OriCIdx: 444838..445534 nt
+Cdc6Idx: 112111..113343, 331447..332634 nt
+Extremes: 1386121 nt (minimum), 113610 nt (maximum)
+Note: Note that the sequence has been confirmed as oriC region using in silico and in vitro studies. Please refer to Robinson, N.P. and Bell, S.D. 2007 (Proc Natl Acad Sci U S A, 104, 5806-5811) and Zhang, R. and Zhang, C.T. 2005 (Archaea, 1, 335-346) for more details. Note that four ORB sequences(gctccacaggaaacggaggggt, gctccagaggaacctggggggt, gatccagcggaaaacagggggt and tctccacaggaaacggaggggt) were found in the oriC. The oriC has been confirmed by experiment.
+Sequence: aacctacacccgaaacaccagtaggatggaggctcaaaattaagctagaaagcgggtccagatagctagacttaggatgctccacaggaaacggaggggtccttataaacccccggcaaccacgccacgccgcaccccgcaggaaagccccacaccccccaggttcctctggagcatcagaagcgtatactcctcccgaatagtgctcttgaagaatgccaatataatgatacaaaaacccagttttaaacaaatcaagctagaaacaaacaaagacacactataatccagaactgcacagcctgagaggatccagcggaaaacagggggtgtgggggcttagtgtgtcagctcgccgtctccacaggaaacggaggggtcgtataccggggggttaacaacctgcgggaagcgcatccacccccacccccaaccatgaggagccagaactagctgtcaaccatcactatgcatacccgggaggcggcgccggccataacccgccttctgtacttcggcggcattgggctaagcggtctccccccgggcttcgcgcggccctcaccgcccgggggccttgctccgccgggggcggccgtttcaccgcatccccggggttcctctgcggtttgctgccgccctgttgccagggcggcctagccgcgtcctcgacacgccccggggccgtgtcgtttct
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+22  79 F 22 359  0 7.77e-09 ctccacaggaaacggaggggtc
+15 261 R 15 261  0 1.27e-04 agaaacaaacaaaga
+13 325 R 13 325  0 2.04e-03 gggggtgtggggg
+13 419 R 13 419  0 2.04e-03 acccccaccccca
+15  36 F 15 251 -1 5.73e-03 aaat[tc]aagctagaaa
+15  75 P 15 163 -1 5.73e-03 gatgctcca[cg]aggaa
+12 124 R 12 124  0 8.14e-03 ccacgccgcacc
+12 147 C 12 326  0 8.14e-03 ccccacaccccc
+12 147 P 12 325  0 8.14e-03 ccccacaccccc
+11 147 R 11 147  0 3.26e-02 ccccacacccc
+11 417 R 11 417  0 3.26e-02 ccacccccacc
+10  41 F 10 256  0 1.30e-01 aagctagaaa
+10 161 F 10 615  0 1.30e-01 ggttcctctg
+10 675 P 10 675  0 1.30e-01 gccccggggc
+12 417 F 12 423 -1 2.93e-01 ccaccccca[ca]cc
+12 565 F 12 674 -1 2.93e-01 cgccc[gc]ggggcc
+9 246 R  9 246  0 5.21e-01 taaacaaat
+9 274 P  9 340  0 5.21e-01 gacacacta
+9 540 P  9 566  0 5.21e-01 cccccgggc
+9 568 R  9 568  0 5.21e-01 ccgggggcc
+9 634 P  9 647  0 5.21e-01 gccgccctg
+11  30 C 11 238 -1 1.08e+00 gg[cg]tcaaaatt
+11  46 P 11 498 -1 1.08e+00 agaa[ag]gcgggt
+11  79 C 11  93 -1 1.08e+00 ctcc[ac]caggaa
+11  93 C 11 359 -1 1.08e+00 gagg[gt]gtcctt
+11 105 P 11 386 -1 1.08e+00 taa[ac]cccccgg
+11 132 F 11 152 -1 1.08e+00 cacccc[gc]cagg
+11 148 F 11 420 -1 1.08e+00 ccc[ac]caccccc
+11 148 R 11 420 -1 1.08e+00 ccc[ac]caccccc
+11 163 P 11 359 -1 1.08e+00 ttcct[cg]tggag
+11 325 C 11 420 -1 1.08e+00 gggggtg[tg]ggg
+11 325 P 11 420 -1 1.08e+00 gggggtg[tg]ggg
+11 327 C 11 420 -1 1.08e+00 ggg[tg]gtggggg
+11 327 P 11 420 -1 1.08e+00 ggg[tg]gtggggg
+11 470 F 11 605 -1 1.08e+00 gcat[ac]cccggg
+11 480 C 11 580 -1 1.08e+00 gaggcggc[gc]cc
+11 492 C 11 518 -1 1.08e+00 gcc[ag]taacccg
+11 541 F 11 609 -1 1.08e+00 ccccggg[cg]ttc
+11 582 R 11 586 -1 1.08e+00 ccg[cg]cgggggc
+11 669 P 11 681 -1 1.08e+00 cgacacg[cg]ccc
+8  20 R  8  20  0 2.08e+00 gtaggatg
+8 109 P  8 584  0 2.08e+00 cccccggc
+8 110 C  8 680  0 2.08e+00 ccccggca
+8 135 P  8 401  0 2.08e+00 cccgcagg
+8 153 R  8 153  0 2.08e+00 acccccca
+8 187 C  8 435  0 2.08e+00 tactcctc
+8 287 F  8 443  0 2.08e+00 ccagaact
+8 386 P  8 539  0 2.08e+00 ccgggggg
+8 467 P  8 467  0 2.08e+00 tatgcata
+8 484 P  8 484  0 2.08e+00 cggcgccg

@@ -1,0 +1,75 @@
+AccId: ORI10010084
+Organism: Methanocella paludicola SANAE
+RefSeq: NC_013665
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Methanomicrobia, Methanocellales, Methanocellaceae, Methanocella.
+ChromSize: 2957635 nt
+ChromGC: 0.5492
+OriCLen: 788 nt
+OriCAT: 0.6231
+OriCIdx: 2957446..598 nt
+Cdc6Idx: 599..1900, 47687..49969, 631818..632945, 2767803..2770100, 2771790..2774309 nt
+Extremes: 1715649 nt (minimum), 111647 nt (maximum)
+Note: 
+Sequence: ttcattcaccttcgtcgccttatagggcgcggaggggtaaataactttttgatttgtcctccatgagaagaaaaaccgatcgtgtatctatgataaggcctacccctttatttcctctggaaaatatttctccccaaatccctggaataatttgtatttttatgtccgggaatatctgctgttgatgtgtgatcatcgtggcgttcatgcaaaatatgctcgtctggccctaatttgatggggaaaggccgggtaaaaaatagcgataaaaaatgaaaaaatctaaaaaattatgtcaacgatatccatacaggtaattaaacccacgatatattacacactaatgtgcaaataagtgaaagttagttatttatacttttagcttttaatctatacaacattgtattttcatcgtattagaatacaaatgtcccatttgtattttcaatgttccagtggaaatgatggggtgggcctgtccctgcatacgttatttccaccggaaatcatggcctcacgtcgaggctattttgtttaaaacagtttatttttccaaatgggctggtatttagggcaaaatcaacgtttatatgttaatataaaccattaaatccaaaaatagcttctattaaatccccgctccattggaaatgatggggttctcgctaccacaactattaatatacatcgtaactatcatttcatttggaaacgctcggtttgggaggacatacatgctaatcgataagacggtttcaccgccgtctccacaatcacagcaacctacg
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+23 252 R 23 252  0 2.48e-09 gtaaaaaatagcgataaaaaatg
+20 451 F 20 640 -1 9.53e-06 tcca[gt]tggaaatgatggggt
+18 272 R 18 275 -1 1.37e-04 at[gt]aaaaaatctaaaaaa
+15 456 F 15 645  0 1.63e-04 tggaaatgatggggt
+13 152 R 13 152  0 2.60e-03 tgtatttttatgt
+11 104 R 11 104  0 4.16e-02 cctttatttcc
+11 149 F 11 434  0 4.16e-02 atttgtatttt
+11 400 F 11 436  0 4.16e-02 ttgtattttca
+13 109 P 13 450 -1 1.01e-01 atttcc[ta]ctggaa
+13 450 P 13 492 -1 1.01e-01 ttcc[ag]gtggaaat
+10  99 C 10 236  0 1.67e-01 ctaccccttt
+10 420 P 10 433  0 1.67e-01 aatacaaatg
+10 549 P 10 702  0 1.67e-01 tttccaaatg
+12 151 F 12 400 -1 3.75e-01 ttgtatttt[tc]at
+12 287 C 12 533 -1 3.75e-01 aaatt[at]tgtcaa
+9  37 P  9 364  0 6.66e-01 taaataact
+9  83 R  9  83  0 6.66e-01 gtatctatg
+9 149 P  9 420  0 6.66e-01 atttgtatt
+9 184 C  9 334  0 6.66e-01 atgtgtgat
+9 255 F  9 614  0 6.66e-01 aaaaatagc
+9 263 R  9 614  0 6.66e-01 cgataaaaa
+9 482 R  9 482  0 6.66e-01 tgcatacgt
+9 605 F  9 627  0 6.66e-01 attaaatcc
+11  37 P 11 358 -1 1.37e+00 taa[ac]taacttt
+11  72 P 11 711 -1 1.37e+00 aaaccga[tg]cgt
+11  95 P 11 466 -1 1.37e+00 aggcc[tc]acccc
+11 154 R 11 401 -1 1.37e+00 ta[tc]ttttatgt
+11 246 R 11 554 -1 1.37e+00 gg[ct]cgggtaaa
+11 268 C 11 369 -1 1.37e+00 aaa[at]atgaaaa
+11 276 R 11 608 -1 1.37e+00 aaaaa[tc]ctaaa
+11 277 C 11 376 -1 1.37e+00 aaaatc[tg]aaaa
+11 277 P 11 376 -1 1.37e+00 aaaa[tg]ctaaaa
+11 278 F 11 608 -1 1.37e+00 aaatc[tc]aaaaa
+11 450 P 11 450 -1 1.37e+00 ttcca[gc]tggaa
+11 457 F 11 501 -1 1.37e+00 ggaaat[gc]atgg
+11 501 F 11 646 -1 1.37e+00 ggaaat[cg]atgg
+11 521 P 11 615 -1 1.37e+00 ga[ga]gctatttt
+11 531 P 11 531 -1 1.37e+00 tgttt[at]aaaca
+8  17 C  8 168  0 2.66e+00 ccttatag
+8  41 R  8 441  0 2.66e+00 taactttt
+8  54 P  8 723  0 2.66e+00 tgtcctcc
+8 104 R  8 490  0 2.66e+00 cctttatt
+8 107 F  8 490  0 2.66e+00 ttatttcc
+8 121 P  8 121  0 2.66e+00 aaatattt
+8 157 R  8 437  0 2.66e+00 ttttatgt
+8 162 R  8 471  0 2.66e+00 tgtccggg
+8 235 F  8 462  0 2.66e+00 tgatgggg
+8 235 F  8 651  0 2.66e+00 tgatgggg
+8 253 R  8 283  0 2.66e+00 taaaaaat
+8 253 F  8 266  0 2.66e+00 taaaaaat

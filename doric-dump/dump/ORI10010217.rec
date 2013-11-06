@@ -1,0 +1,75 @@
+AccId: ORI10010217
+Organism: Natrinema sp. J7-2 chromosome
+RefSeq: NC_018224
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Natrinema.
+ChromSize: 3697626 nt
+ChromGC: 0.6425
+OriCLen: 552 nt
+OriCAT: 0.4873
+OriCIdx: 120674..121225 nt
+Cdc6Idx: 121226..122479, 435599..437383, 581272..582411, 667798..668808, 1279364..1280839, 1530626..1531792, 2211904..2213130, 2572300..2573529, 3152575..3153861 nt
+Extremes: 1163710 nt (minimum), 3672842 nt (maximum)
+Note: 
+Sequence: tcactccgtctcgatcgatcattatgtatctgggatttgagatagcacgcgcaccccgggtgtcgagtgtagatggtcgaatagctatgggagcgtccgattacggccggttcagacagcaattaggtatcggacgagcggatagcatcaaatagggagaactagagtgagaaagatttataactaatagctagaaactgcaaccgtactccaccaatattcccactcggataagaaaggggggcatccgtagactcgcctattaggaactctacggcatcttctcggacacctacactcgacacctggggtgtgggagtacgtttcactgcgtgcccacgagacgtgtttccaagagggatgctcagccgctgatcgcggactgtacatcctgcgtctgtgcgctccaattcactcgacatgaggataatcagccgctgtatggtatcgtttatacaggccctcgttgcatcgatttccgtactctacatccgacggctggtgtcttcgaatcaccagtctataaataacccccatcggtacgtgacgggt
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+21  51 P 21 292 -1 1.23e-06 cacccc[ga]ggtgtcgagtgtag
+17  58 P 17 289 -1 2.54e-04 ggtgtcgagtgtag[ag]tg
+12 270 R 12 270  0 5.11e-03 tctacggcatct
+10 152 R 10 352  0 8.17e-02 tagggagaac
+10 364 F 10 430  0 8.17e-02 tcagccgctg
+9  45 R  9  45  0 3.27e-01 cacgcgcac
+9  60 P  9 412  0 3.27e-01 tgtcgagtg
+9 135 C  9 254  0 3.27e-01 gagcggata
+9 163 R  9 163  0 3.27e-01 agagtgaga
+9 295 F  9 412  0 3.27e-01 cactcgaca
+9 308 R  9 308  0 3.27e-01 gggtgtggg
+11  51 P 11  51 -1 6.74e-01 caccc[cg]gggtg
+11 201 P 11 315 -1 6.74e-01 aa[ca]cgtactcc
+11 203 F 11 478 -1 6.74e-01 ccgtactc[ct]ac
+11 364 P 11 364 -1 6.74e-01 tcagc[cg]gctga
+11 365 P 11 429 -1 6.74e-01 cagc[cg]gctgat
+11 381 F 11 482 -1 6.74e-01 act[gc]tacatcc
+8  10 P  8  10  0 1.31e+00 tcgatcga
+8  12 P  8  12  0 1.31e+00 gatcgatc
+8  79 F  8 185  0 1.31e+00 aatagcta
+8  80 P  8  80  0 1.31e+00 atagctat
+8  93 P  8 128  0 1.31e+00 cgtccgat
+8 182 R  8 425  0 1.31e+00 actaatag
+8 258 C  8 424  0 1.31e+00 cctattag
+8 440 R  8 440  0 1.31e+00 tatggtat
+10  12 R 10 184 -1 2.45e+00 gatcgat[ca]at
+10  13 C 10 187 -1 2.45e+00 atcgatc[at]tt
+10  20 F 10 121 -1 2.45e+00 atta[tg]gtatc
+7   6 P  7 339  0 5.23e+00 cgtctcg
+7  22 R  7  22  0 5.23e+00 tatgtat
+7  36 C  7 267  0 5.23e+00 ttgagat
+7  40 F  7 140  0 5.23e+00 gatagca
+7  68 R  7  68  0 5.23e+00 gtagatg
+7  81 P  7 186  0 5.23e+00 tagctat
+7  83 R  7 125  0 5.23e+00 gctatgg
+7  83 R  7 443  0 5.23e+00 gctatgg
+7 125 F  7 443  0 5.23e+00 ggtatcg
+7 169 R  7 169  0 5.23e+00 agaaaga
+7 175 P  7 521  0 5.23e+00 atttata
+7 177 R  7 214  0 5.23e+00 ttataac
+7 183 P  7 259  0 5.23e+00 ctaatag
+7 205 C  7 419  0 5.23e+00 gtactcc
+7 227 C  7 257  0 5.23e+00 cggataa
+7 247 C  7 275  0 5.23e+00 ccgtaga
+7 247 P  7 270  0 5.23e+00 ccgtaga
+7 268 F  7 482  0 5.23e+00 actctac
+7 287 F  7 300  0 5.23e+00 gacacct
+7 315 R  7 419  0 5.23e+00 ggagtac
+7 316 P  7 479  0 5.23e+00 gagtacg
+7 385 F  7 486  0 5.23e+00 tacatcc

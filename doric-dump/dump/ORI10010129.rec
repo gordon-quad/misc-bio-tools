@@ -1,0 +1,75 @@
+AccId: ORI10010129
+Organism: Haloarcula marismortui ATCC 43049 chromosome II
+RefSeq: NC_006397
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Haloarcula.
+ChromSize: 288050 nt
+ChromGC: 0.5723
+OriCLen: 944 nt
+OriCAT: 0.5434
+OriCIdx: 51486..52429 nt
+Cdc6Idx: 6826..8064, 50205..51485 nt
+Extremes: 278670 nt (minimum), 124094 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CCCCCTCCCCCCAGATTTCACGAGAGTACTCTCATGAAATATGGGGGGAGGGGGACTCTCGTGAAATGTGGGGGGTGGGGACTCTCGTGAAAACCGGGGGGT
+Sequence: cgtatacccgatagatacaatctatgtgaaataaaaccaccgcttcatgggactcatttgtttcatgagatgcccccactgcttcatgagacatatgcgtcggttttcacatgagttgggacgttttgcactaaccccctccccccagatttcacgagagtatcgttagagaggaggggaagagagggcaaaatgaaactctgaatgagaagaagatttaatacagatagattagaacaggatccgtaatacgttaggttcagtttaattctctagtgaggtcccagcaagaaacgtcagacattatttcttccctcccctcccctacagcaactctcatgaaatatggggggagggggagagatcaacctgcatgagtaaggagacatcaacttctcatggattgtcgctaacaaacgacatccatcgctagtagcctatatccataggaatctacggtcgcgttgctcttcatttgattcactgagagaccatcaatccctctccactcactgtctggactccgtgctttctctgagttactacacaattgatgacctgctctgttcatactacaccccacatttcatgagttaggagctgcgctgctattcttgaactctcgtgaaatgtggggggtggggaacaaaattccggttaactggtccatattaactctcgtgaaaaccggggggtcccacttctccacgaccgatacagcaagacaggcactatcagagttgaattacgccgcctgtgtaggtgtttgcgttggaagtctcatctggaggctctcatgaaaagggacagattaaacataacatcgcagctgaaattattcaggtcagctatcctgtaccacatgagacatctgtttatctaactgaactcaggcctcctgtttgttctaatacatcatgtaggcgattgagatattgcccact
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+21 140 P 21 618 -1 3.59e-06 cccccca[gc]atttcacgagagt
+20 134 P 20 339 -1 1.37e-05 ccccctcccccca[gt]atttca
+16 335 P 16 577 -1 2.80e-03 ctcatgaaat[ag]tgggg
+16 577 P 16 621 -1 2.80e-03 ccccacatttca[tc]gag
+13 148 P 13 618  0 3.73e-03 atttcacgagagt
+13 617 F 13 673  0 3.73e-03 aactctcgtgaaa
+12 149 P 12 674  0 1.49e-02 tttcacgagagt
+12 312 R 12 312  0 1.49e-02 ccctcccctccc
+12 573 R 12 573  0 1.49e-02 tacaccccacat
+14 131 C 14 345 -1 3.92e-02 ta[ac]ccccctccccc
+14 331 F 14 617 -1 3.92e-02 aactctc[ag]tgaaat
+14 339 F 14 625 -1 3.92e-02 tgaaat[ag]tgggggg
+11 134 R 11 134  0 5.98e-02 ccccctccccc
+11 315 R 11 315  0 5.98e-02 tcccctcccct
+11 333 F 11 791  0 5.98e-02 ctctcatgaaa
+11 348 R 11 348  0 5.98e-02 gggggaggggg
+13  36 F 13  75 -1 1.46e-01 ccac[ct]gcttcatg
+13  84 F 13 861 -1 1.46e-01 catgagacat[ac]tg
+13 148 P 13 332 -1 1.46e-01 atttca[ct]gagagt
+13 172 F 13 351 -1 1.46e-01 ggagggg[ag]agaga
+13 331 F 13 673 -1 1.46e-01 aactctc[ag]tgaaa
+13 372 F 13 587 -1 1.46e-01 catgagt[at]aggag
+10  60 P 10 334  0 2.39e-01 tttcatgaga
+10  60 P 10 792  0 2.39e-01 tttcatgaga
+10 100 P 10 680  0 2.39e-01 cggttttcac
+10 120 R 10 120  0 2.39e-01 acgttttgca
+10 323 R 10 415  0 2.39e-01 cctacagcaa
+10 631 R 10 631  0 2.39e-01 gtggggggtg
+12  41 F 12  80 -1 5.38e-01 gcttcatg[ga]gac
+12  53 F 12 471 -1 5.38e-01 tcatttg[ta]ttca
+12  58 F 12  79 -1 5.38e-01 tg[tc]ttcatgaga
+12 109 F 12 587 -1 5.38e-01 catgagtt[ga]gga
+12 135 P 12 632 -1 5.38e-01 cccc[ta]cccccca
+12 142 F 12 577 -1 5.38e-01 cccca[gc]atttca
+12 168 R 12 174 -1 5.38e-01 gagag[ga]agggga
+12 168 C 12 314 -1 5.38e-01 gag[ag]ggagggga
+12 261 R 12 467 -1 5.38e-01 agttta[ac]ttctc
+12 309 F 12 314 -1 5.38e-01 ct[tc]ccctcccct
+12 346 F 12 632 -1 5.38e-01 tgggggg[at]gggg
+12 357 F 12 381 -1 5.38e-01 ggaga[gc]atcaac
+12 675 F 12 791 -1 5.38e-01 ctctc[ga]tgaaaa
+9  60 F  9 584  0 9.56e-01 tttcatgag
+9  82 P  9 792  0 9.56e-01 ttcatgaga
+9  82 P  9 334  0 9.56e-01 ttcatgaga
+9 135 F  9 316  0 9.56e-01 cccctcccc
+9 135 R  9 316  0 9.56e-01 cccctcccc
+9 207 R  9 207  0 9.56e-01 agaagaaga
+9 230 P  9 903  0 9.56e-01 attagaaca
+9 316 C  9 349  0 9.56e-01 cccctcccc
+9 316 P  9 349  0 9.56e-01 cccctcccc

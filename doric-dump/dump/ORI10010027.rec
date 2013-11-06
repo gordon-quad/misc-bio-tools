@@ -1,0 +1,75 @@
+AccId: ORI10010027
+Organism: Methanosphaera stadtmanae DSM 3091
+RefSeq: NC_007681
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Methanobacteria, Methanobacteriales, Methanobacteriaceae, Methanosphaera.
+ChromSize: 1767403 nt
+ChromGC: 0.2763
+OriCLen: 764 nt
+OriCAT: 0.8639
+OriCIdx: 1767357..717 nt
+Cdc6Idx: 718..1872, 743538..744683 nt
+Extremes: 1756991 nt (minimum), 896138 nt (maximum)
+Note: Note that the homologous sequence has been confirmed as oriC region using in silico and in vitro studies for the closely-related M. thermautotrophicus.
+Sequence: tattactatattattttttttaaagtatataatagaggtgtatttcaaatgtaatttttttcacaaaaaaataaaatcaaatagtgagacatactttgcaagtgtaaaaaaaagttatctaaaataaaataaatatatgagaggtacatttcaagtgtaagtaaaaatatattttggaaatataaaaaagaaacatgaatttcaagtgtaatgaaatttttctttgaaaaaaaaattaaattataaaagtatatttcaagtgtaaatttttttttaaaatatagtaaaaagtattactatattaaaaaaaagtattttagtattacttttttagatatttttaaaatgaaatataattaaaatattttaaaaaataagtattatttattagttatttattatatattatattatttattattatttttatttattatttattatttattattattttattattttaagtattatttttatttattttttattttaatatatatttttaagttttattaagtaaaataagtaaataatcttatttaaatatgaaataaagtatttttatttttataaaatagcttctttctaggaaaaagtaaggggatatcttatttattttacacttgaaatataggtctcactctctaaacatttttatagtattaaatagaaaatattaattatttaatttttcacttgaatttatattactaccaatataaatatacttgaaatacatctaagattctttggaggataaa
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+29 420 R 29 426 -1 4.96e-11 ttatt[ta]ttatttattatttattatttatt
+22 430 R 22 430  0 9.33e-09 ttattatttattatttattatt
+24 418 F 24 468 -1 4.20e-08 tattatttttatttatt[at]tttatt
+19 408 F 19 438  0 5.97e-07 tattatttattattatttt
+19 426 F 19 433  0 5.97e-07 ttatttattatttattatt
+21 553 R 21 559 -1 2.35e-06 ataaa[ga]tatttttatttttat
+17 249 P 17 619  0 9.56e-06 tatatttcaagtgtaaa
+19 378 R 19 425 -1 3.40e-05 tattatttatta[gt]ttattt
+19 395 R 19 403 -1 3.40e-05 ttattat[at]tattatattat
+19 423 R 19 426 -1 3.40e-05 tt[ta]ttatttattatttatt
+16 447 R 16 447  0 3.82e-05 ttattattttattatt
+18 378 F 18 431 -1 1.29e-04 tattatttatta[gt]ttatt
+18 378 R 18 433 -1 1.29e-04 tattatttatta[gt]ttatt
+18 391 F 18 433 -1 1.29e-04 ttatttattat[at]tattat
+18 391 R 18 431 -1 1.29e-04 ttatttattat[at]tattat
+18 391 F 18 426 -1 1.29e-04 ttatttattat[at]tattat
+18 424 R 18 476 -1 1.29e-04 ttttattt[at]ttatttatt
+15 263 R 15 263  0 1.53e-04 aaatttttttttaaa
+15 437 R 15 437  0 1.53e-04 ttattatttattatt
+15 473 R 15 473  0 1.53e-04 tttttatttattttt
+15 547 R 15 547  0 1.53e-04 tatgaaataaagtat
+17 143 F 17 248 -1 4.87e-04 gta[ct]atttcaagtgtaa
+17 408 R 17 420 -1 4.87e-04 tattatttatt[at]ttatt
+14 356 P 14 356  0 6.12e-04 ttaaaatattttaa
+14 408 F 14 431  0 6.12e-04 tattatttattatt
+14 408 R 14 437  0 6.12e-04 tattatttattatt
+14 408 R 14 430  0 6.12e-04 tattatttattatt
+14 452 R 14 452  0 6.12e-04 attttattatttta
+14 479 R 14 479  0 6.12e-04 tttattttttattt
+16  13 F 16 267 -1 1.83e-03 ttttttttaaa[ga]tata
+16 144 P 16 620 -1 1.83e-03 ta[ct]atttcaagtgtaa
+16 229 C 16 483 -1 1.83e-03 aaaaaat[ta]aaattata
+16 266 P 16 361 -1 1.83e-03 tt[ta]ttttttaaaatat
+16 380 F 16 426 -1 1.83e-03 ttatttatta[gt]ttatt
+16 391 R 16 426 -1 1.83e-03 ttatttattat[at]tatt
+16 433 F 16 476 -1 1.83e-03 ttatttatt[at]tttatt
+16 433 R 16 476 -1 1.83e-03 ttattt[at]ttatttatt
+13   0 F 13 291  0 2.45e-03 tattactatatta
+13 147 F 13 252  0 2.45e-03 atttcaagtgtaa
+13 147 F 13 198  0 2.45e-03 atttcaagtgtaa
+13 198 F 13 252  0 2.45e-03 atttcaagtgtaa
+13 198 P 13 620  0 2.45e-03 atttcaagtgtaa
+13 391 R 13 406  0 2.45e-03 ttatttattatat
+13 396 R 13 396  0 2.45e-03 tattatatattat
+13 408 R 13 408  0 2.45e-03 tattatttattat
+13 413 R 13 413  0 2.45e-03 tttattattattt
+13 413 R 13 443  0 2.45e-03 tttattattattt
+13 443 R 13 443  0 2.45e-03 tttattattattt
+15  98 P 15 614 -1 6.88e-03 caagtgtaaaa[at]aaa
+15 222 P 15 264 -1 6.88e-03 ttt[gt]aaaaaaaaatt

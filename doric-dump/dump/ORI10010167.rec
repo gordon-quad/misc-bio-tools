@@ -1,0 +1,75 @@
+AccId: ORI10010167
+Organism: Halalkalicoccus jeotgali B3 chromosome
+RefSeq: NC_014297
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Halalkalicoccus.
+ChromSize: 2809118 nt
+ChromGC: 0.6496
+OriCLen: 662 nt
+OriCAT: 0.4668
+OriCIdx: 137620..138281 nt
+Cdc6Idx: 138282..139775, 222403..223530, 525837..527051, 1542873..1544069, 1985978..1987150 nt
+Extremes: 1273163 nt (minimum), 138095 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:AACCCCCACCCCTTCGTTTCAACTGGATCCAGTTGAAACGAAGGGGTGGGGGGGTT
+Sequence: cctgtcctcccgcgccagacggcgcgtccatgcgcgtagacgaatagtcaggagtacttaagcctgcgtcagacatacctacaatagattatataacgtcgtgcggtggcgattcgggaagcgactgcagaagtgacggatcagcgaaagaagcgtcccagccggtatcgacctcacgagaggcccatcactcccaacccccaccccttcgtttcaactggagaccggtggaggaacgaggctgatctccggatgggagttaattccactagctaatattatctatataatattatttctagttgaattcatatctgctactgcagtacggatatggttgttctgtgtttgacttagctgtttcccttctagaacgaccacgggaggggggggactcttgagcggttccagttgaaacgaaggggtgggggggttcgaactcgtctcgataaacgtctcttcgtcgcgaggggaggattcgatcgctaaagacagttttaataccctcgattaccttgagttcgcctgcatcgactgacgaccgaccagcatccgtatcccgagtgaaccggtgtctcgactcctctccgctgtgattcggggatgcgcgttctggactccagttgaaacaaaggggtacgccggtcgcggttcaccaatcc
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+25 197 P 25 406  0 1.09e-10 cccccaccccttcgtttcaactgga
+21 202 P 21 617 -1 1.77e-06 acccctt[ct]gtttcaactggag
+20 406 F 20 618 -1 6.73e-06 tccagttgaaac[ga]aaggggt
+16 210 P 16 614 -1 1.38e-03 gtttcaactggag[at]cc
+10 286 P 10 286  0 1.18e-01 ataatattat
+10 318 P 10 318  0 1.18e-01 tactgcagta
+10 384 R 10 384  0 1.18e-01 agggggggga
+12 188 R 12 192 -1 2.64e-01 cac[tc]cccaaccc
+12 191 R 12 196 -1 2.64e-01 tccc[ac]accccca
+12 252 C 12 501 -1 2.64e-01 atgggag[tc]taat
+12 269 P 12 273 -1 2.64e-01 tag[ca]taatatta
+12 273 P 12 283 -1 2.64e-01 taatattat[ca]ta
+9  29 R  9  29  0 4.70e-01 atgcgcgta
+9  30 R  9 602  0 4.70e-01 tgcgcgtag
+9 102 R  9 102  0 4.70e-01 gcggtggcg
+9 198 R  9 198  0 4.70e-01 ccccacccc
+9 198 C  9 421  0 4.70e-01 ccccacccc
+9 273 F  9 287  0 4.70e-01 taatattat
+9 421 R  9 421  0 4.70e-01 ggggtgggg
+9 425 R  9 425  0 4.70e-01 tgggggggt
+9 514 R  9 514  0 4.70e-01 cttgagttc
+9 625 R  9 625  0 4.70e-01 gaaacaaag
+11  83 P 11 275 -1 9.70e-01 atagat[ta]atat
+11 191 C 11 420 -1 9.70e-01 tccc[ac]accccc
+11 261 P 11 298 -1 9.70e-01 aattc[ca]actag
+11 263 R 11 506 -1 9.70e-01 ttcca[ct]tagct
+11 296 F 11 405 -1 9.70e-01 ttc[tc]agttgaa
+11 381 F 11 422 -1 9.70e-01 ggg[at]ggggggg
+11 612 P 11 612 -1 9.70e-01 ctgga[cg]tccag
+8  29 F  8 603  0 1.88e+00 atgcgcgt
+8  54 R  8 304  0 1.88e+00 tacttaag
+8  87 P  8 283  0 1.88e+00 attatata
+8  88 P  8  88  0 1.88e+00 ttatataa
+8 110 F  8 594  0 1.88e+00 gattcggg
+8 118 R  8 140  0 1.88e+00 aagcgact
+8 285 R  8 285  0 1.88e+00 tataatat
+8 303 P  8 303  0 1.88e+00 tgaattca
+8 358 C  8 628  0 1.88e+00 tgtttccc
+8 366 P  8 366  0 1.88e+00 ttctagaa
+8 432 P  8 432  0 1.88e+00 gttcgaac
+8 467 R  8 467  0 1.88e+00 gaggggag
+8 542 R  8 542  0 1.88e+00 cgaccagc
+8 563 P  8 648  0 1.88e+00 gtgaaccg
+10  10 R 10  15 -1 3.53e+00 cgcg[cg]cagac
+10  10 C 10 605 -1 3.53e+00 cgcgc[ca]agac
+10  60 R 10  63 -1 3.53e+00 ag[ca]ctgcgtc
+10  74 C 10 332 -1 3.53e+00 atacc[ta]acaa
+10  79 C 10 275 -1 3.53e+00 ta[ct]aatagat
+10  81 R 10  87 -1 3.53e+00 caata[gt]atta
+10  83 C 10 283 -1 3.53e+00 ata[gt]attata

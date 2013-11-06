@@ -1,0 +1,75 @@
+AccId: ORI10010179
+Organism: Haloarcula hispanica ATCC 33960 chromosome II
+RefSeq: NC_015943
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Haloarcula.
+ChromSize: 488918 nt
+ChromGC: 0.5701
+OriCLen: 1158 nt
+OriCAT: 0.462
+OriCIdx: 384540..385697 nt
+Cdc6Idx: 1..1209, 7893..8102, 27090..27293, 108513..109421, 150759..152105, 383352..384539 nt
+Extremes: 487395 nt (minimum), 105460 nt (maximum)
+Note: The sequence has been confirmed as oriC region in silico and in vitro studies. Please refer to Wu et al. (BMC Genomics 2012, 13:478) for more details. The ORB sequences:CCCCGCCACTTCCGCTGTTAGCCCCCACCCCACCGCTTCCGCTGTTAGCCCCCACCCCACTACTTCCGCTGTTAGCCCCCACCCCACCGCTTCCGCTGTTAGCACACCCACCCCACTGGTTCCGCTGTTAGCTAACAGCGGAACCAGTGGGGTGGGGGTGTGG
+Sequence: ttgtgtgtagttgcaacacggagtgtcttaacctttggttccgctgcttccgctgttcggttgggtatataaatgattgaccccgccacttccgctgttagatgagaggggaacacctgactgaccactcccccaccccaccgcttccgctgttagatgggaaatgggatagcaatcctcctactcccccaccccactacttccgctgttagatgagaaatgggatagcgaccctcctactcccccaccccaccgcttccgctgttagggcggtagccgagaagttccctggtcgaggaacgggatcgagtaactgcgagtggttagacagcgggatttcgcgggatcatagctgtggagcgacacacccaccccactggttccgctgttaggaccgaaagttggtggtgacctatccagatcgcggcctgaatatctctagagctagtgaataacttcaagtgcttcggcaagaaaccaaagccgtatgacgttatcacaaaatagcaaagcaccccctcccatgggggtggtgccgtctatttattccctaacagcggaaccagtggggtgggggtgtggacccactcttattacagttgctggggcaggccatccacaacttccagttgaggcggagagtcgactgaggcgtctatcgactcgacacagcggtgaaccatacggcccaaacttacgccgacagatgatacccggagtagactttattcatgagcgagagtaaaacaaccgctcggtaagcgtacggattgactgaatccagaactgtaatattacttgaagcttcattgtccattatgcccgacaaaaaaccacagccaaataatccattagctccgtattatccctcagaaacgccgagtttgtcggggaatggtcgaaagtggtttgccacacttgttctcgggttctggctatttctggcggcgattgcgctcgctgttgagcttttcctgtaatttcgccacagttgcgactgagaaccgccggcacgaatagacacacccggcagcgcccaatatccattttcagcgtattacccgcgtctcttcacctcacggcccctctccagtttcgctcgcaccagactgggctcccgatcactcaccgataatcgctgtggagccggcctgcccc
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+30  126 F 30  238  0 3.27e-13 actcccccaccccaccgcttccgctgttag
+31  362 P 31  549 -1 7.61e-12 acac[ac]cccaccccactggttccgctgttagg
+30  143 F 30  199 -1 2.94e-11 cttccgctgttagatg[ga]gaaatgggatagc
+26  367 P 26  549  0 8.37e-11 cccaccccactggttccgctgttagg
+21  176 F 21  232  0 8.58e-08 cctcctactcccccaccccac
+20   87 F 20  198  0 3.43e-07 acttccgctgttagatgaga
+19   85 F 19  140 -1 7.82e-05 cc[ag]cttccgctgttagatg
+15  126 F 15  182  0 3.51e-04 actcccccaccccac
+17  124 P 17  565 -1 1.12e-03 ccac[ta]cccccaccccac
+14  256 P 14  548  0 1.40e-03 ttccgctgttaggg
+16   85 F 16  252 -1 4.21e-03 cc[ag]cttccgctgttag
+16  182 P 16  564 -1 4.21e-03 ac[ta]cccccaccccact
+13  160 F 13  216  0 5.62e-03 gaaatgggatagc
+13  199 F 13  255  0 5.62e-03 cttccgctgttag
+13  256 F 13  380  0 5.62e-03 ttccgctgttagg
+15   45 F 15  254 -1 1.58e-02 gcttccgctgtt[ca]gg
+15  238 P 15  565 -1 1.58e-02 ac[ta]cccccaccccac
+12   45 F 12  142  0 2.25e-02 gcttccgctgtt
+12   89 F 12  380  0 2.25e-02 ttccgctgttag
+12   89 P 12  550  0 2.25e-02 ttccgctgttag
+12  129 P 12  565  0 2.25e-02 cccccaccccac
+12  144 F 12  380  0 2.25e-02 ttccgctgttag
+12  144 P 12  550  0 2.25e-02 ttccgctgttag
+12  200 F 12  380  0 2.25e-02 ttccgctgttag
+12  200 P 12  550  0 2.25e-02 ttccgctgttag
+14   43 F 14  376 -1 5.90e-02 ctg[cg]ttccgctgtt
+14   43 F 14  196 -1 5.90e-02 ct[ga]cttccgctgtt
+14   43 P 14  552 -1 5.90e-02 ctg[cg]ttccgctgtt
+11   35 F 11  377  0 8.99e-02 tggttccgctg
+11   35 P 11  554  0 8.99e-02 tggttccgctg
+11   46 F 11   88  0 8.99e-02 cttccgctgtt
+11  187 F 11  367  0 8.99e-02 cccaccccact
+11  409 R 11  409  0 8.99e-02 gacctatccag
+13   47 F 13  380 -1 2.19e-01 ttccgctgtt[ca]gg
+13   47 P 13  549 -1 2.19e-01 ttccgctgtt[ca]gg
+13  348 F 13 1134 -1 2.19e-01 at[ac]gctgtggagc
+10  131 F 10  367  0 3.60e-01 cccaccccac
+10  132 R 10  132  0 3.60e-01 ccaccccacc
+10  132 R 10  244  0 3.60e-01 ccaccccacc
+10  243 F 10  367  0 3.60e-01 cccaccccac
+10  244 R 10  244  0 3.60e-01 ccaccccacc
+10  473 R 10  473  0 3.60e-01 gaaaccaaag
+10  591 P 10  784  0 3.60e-01 tattacagtt
+10  604 P 10 1148  0 3.60e-01 ggggcaggcc
+10  788 P 10  788  0 3.60e-01 gtaatattac
+10  799 P 10  799  0 3.60e-01 tgaagcttca
+12  121 R 12 1082 -1 8.09e-01 tgacc[at]ctcccc
+12  567 R 12  570 -1 8.09e-01 gg[gt]gtgggggtg
+12  957 F 12 1135 -1 8.09e-01 tcgctgt[tg]gagc
+9  127 R  9  512  0 1.44e+00 ctcccccac

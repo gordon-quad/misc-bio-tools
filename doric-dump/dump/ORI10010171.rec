@@ -1,0 +1,75 @@
+AccId: ORI10010171
+Organism: Halopiger xanaduensis SH-6 chromosome
+RefSeq: NC_015666
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Halopiger.
+ChromSize: 3668009 nt
+ChromGC: 0.6598
+OriCLen: 954 nt
+OriCAT: 0.4706
+OriCIdx: 729722..730675 nt
+Cdc6Idx: 730676..732370, 889862..890992, 1345844..1347043, 1622511..1623692, 1986154..1987440, 2694659..2695930, 2889624..2890850, 3541136..3542332, 3614821..3615831 nt
+Extremes: 1500358 nt (minimum), 2701123 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CCCCCACCCCTTTGTTTCAACTGGATCCACCTGAAACGAAGGGGTGGGGGG
+Sequence: ctgtagggccctccagcaccgcggggtgcatctgagcgtactactgactgaattcacttaagcttatgtcagacatatctataaaccaacaacagtgagttatcaggagggatgtgaaagtatgtctctcattaatccgatatgtagggtggtccatggcaacgattggctcgatccggccgtggtcccccacccctttgtttcaactggagagtgccgagggtgcggtgtcccggagcagttcgatcggtcaatcggacccctttccttcgagtcgagccgaaaagagagggtctctccggacggaatcgggcggacccagcggttctagtaactcgaggtgctctagatcgcgaatctagttgaaactagtaactagctgcaacagccctagtaaagtcctagatttgctagtcgttcggatattgtttttcaggcagtcacctaaagcttctccttctagagacaccttctccccacccaccccttcttcaggccgttccacctgaaacgaaggggtggggggcttccgatgatcatcgtcgatcttccaaactgatcacgagtcacgatatcgaggcccactattcatcagaatcctgttctatctttccagacactgttcgacgatatcatatcgtccggtctaccggcttccagaacgatgtgccagggcgttcgccgaccgcctaatccatcattaggtcacacgggcatagcagcagggtaccctaatcccgtactgcagcgttgcaagcgagtccagtctcgattacccccgtgaatcgaagggaagaatttaatacaacgctcttcctctgtttcgtttgcatcaactggacccggaccgggttgctggaatcgttgatgggcccctacggcccgtctacctcgctacattcctgatctcgggttcggatttccacctgaaacaagggggtgactgtacgacgg
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+19 186 P 19 506 -1 5.31e-05 cccccacccctt[tc]gtttca
+15 473 R 15 473  0 2.38e-04 tccccacccacccct
+17 625 P 17 625 -1 7.60e-04 gacgatat[cg]atatcgtc
+13  49 R 13  49  0 3.81e-03 gaattcacttaag
+13 499 F 13 920  0 3.81e-03 ttccacctgaaac
+15 190 P 15 927 -1 1.07e-02 cacccc[tc]ttgtttca
+12 530 P 12 530  0 1.53e-02 cgatgatcatcg
+14 476 P 14 512 -1 4.00e-02 cc[ac]cccaccccttc
+13  64 P 13  64 -1 1.49e-01 tatgtc[at]gacata
+13 840 P 13 840 -1 1.49e-01 acccgg[at]ccgggt
+10 188 F 10 479  0 2.44e-01 cccacccctt
+10 723 P 10 723  0 2.44e-01 agggtaccct
+10 729 R 10 729  0 2.44e-01 ccctaatccc
+12   0 P 12   4 -1 5.49e-01 ctg[tg]agggccct
+12 199 P 12 357 -1 5.49e-01 gtttcaact[ga]ga
+12 473 C 12 514 -1 5.49e-01 tccccaccc[ac]cc
+12 506 F 12 781 -1 5.49e-01 tgaa[at]cgaaggg
+9  74 R  9  74  0 9.76e-01 atatctata
+9 187 R  9 187  0 9.76e-01 ccccacccc
+9 187 C  9 515  0 9.76e-01 ccccacccc
+9 188 R  9 473  0 9.76e-01 cccacccct
+9 195 R  9 195  0 9.76e-01 ctttgtttc
+9 202 F  9 832  0 9.76e-01 tcaactgga
+9 327 F  9 368  0 9.76e-01 ctagtaact
+9 452 R  9 811  0 9.76e-01 tctccttct
+9 515 R  9 515  0 9.76e-01 ggggtgggg
+9 602 R  9 602  0 9.76e-01 ttctatctt
+9 787 R  9 787  0 9.76e-01 gaagggaag
+11  55 P 11  58 -1 2.01e+00 ac[ta]taagctta
+11 182 C 11 931 -1 2.01e+00 tg[gt]tcccccac
+11 262 P 11 785 -1 2.01e+00 ctt[tc]ccttcga
+11 368 P 11 368 -1 2.01e+00 ctagt[at]actag
+11 375 R 11 537 -1 2.01e+00 ctagctgc[at]ac
+11 618 F 11 942 -1 2.01e+00 actgt[ta]cgacg
+8  48 P  8  48  0 3.91e+00 tgaattca
+8 159 P  8 859  0 3.91e+00 caacgatt
+8 187 R  8 479  0 3.91e+00 ccccaccc
+8 187 F  8 474  0 3.91e+00 ccccaccc
+8 191 F  8 258  0 3.91e+00 accccttt
+8 197 P  8 927  0 3.91e+00 ttgtttca
+8 231 R  8 575  0 3.91e+00 cccggagc
+8 416 F  8 912  0 3.91e+00 gttcggat
+8 437 P  8 938  0 3.91e+00 cagtcacc
+8 455 R  8 544  0 3.91e+00 ccttctag
+8 474 P  8 516  0 3.91e+00 ccccaccc
+8 479 C  8 516  0 3.91e+00 cccacccc
+8 484 C  8 790  0 3.91e+00 cccttctt
+8 538 P  8 623  0 3.91e+00 atcgtcga
+8 568 F  8 626  0 3.91e+00 acgatatc
+8 569 P  8 569  0 3.91e+00 cgatatcg

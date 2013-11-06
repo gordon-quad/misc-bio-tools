@@ -1,0 +1,75 @@
+AccId: ORI10010016
+Organism: Pyrococcus furiosus DSM 3638
+RefSeq: NC_003413
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Thermococci, Thermococcales, Thermococcaceae, Pyrococcus.
+ChromSize: 1908256 nt
+ChromGC: 0.4077
+OriCLen: 881 nt
+OriCAT: 0.6822
+OriCIdx: 15355..16235 nt
+Cdc6Idx: 16236..17498 nt
+Extremes: 812799 nt (minimum), 304334 nt (maximum)
+Note: Note that one replication origin has been identified based on homologue analysis with Pyrococcus abyssi GE5. Please refer to Lopez, P., et al. 1999 (Molecular microbiology, 32, 883-886) for more details. Note that two ORB sequences (gttccagtggaaatgaaactctggggg and gctccagtggaaatgaaactctgggg) were found in the oriC.
+Sequence: acttttttatctcctatttactttgtaactttgtagctgcaaaccacctgggatgctaaatttttcagcaaaatatagaaacgtttctatgttgatcttaaaaaccccccagagtttcatttccactggaaccaggttttgaaaggtaagcaattttcacgagtattacataagccaacgcaaaacttataaagaattttacatttatctaatgaacatttattcagtaattagccataataacttgtaaaaaaatgaaaaaactttcattattttctgctttctgttataaatacgttcaaagaaaaatatttaaatatgcagtctacttaatatgggagagtgtttgtcaccagaaaaaatttattttttctggtgtttgccgcccggctccagtggaaatgaaactctgggggacttcacttctgtttaataattggaaaatgttaaacaaattagattaatctaatgaactaaaaggtgcaataatgaacaaattttaatgaccataaatgttcattttgtctccacaggaaatctgaagttcctgtagaaatatgtaaacatcaaatgtccaaagatgttcattcgcttatctcatttcctgtggaagttttgggctgggtgtggaacttccactggaaaatattgacatgtttttgtcaagcaaaggataaaaactcaacagttaaaggaatagttgcctttccaatgtttcctctatttccaatggagatactatatatctatggcatttatcataactaaattattacatttagttatatggatgggggaaaaattaacaacatgtgttatgtttcctctggaaaattgatctataataatctaggagcacaatttccaatggagggtcatca
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+25 105 P 25 391  0 1.94e-10 cccccagagtttcatttccactgga
+19  71 P 19  74 -1 4.53e-05 aa[tc]atagaaacgtttctat
+16 454 P 16 454  0 5.08e-05 attagattaatctaat
+13 210 P 13 508  0 3.25e-03 aatgaacatttat
+13 350 P 13 365  0 3.25e-03 caccagaaaaaat
+13 722 F 13 860  0 3.25e-03 atttccaatggag
+15 202 F 15 459 -1 9.15e-03 att[ta]atctaatgaac
+15 600 P 15 630 -1 9.15e-03 tttcc[ta]gtggaagtt
+12 308 P 12 308  0 1.30e-02 atatttaaatat
+12 526 P 12 599  0 1.30e-02 tccacaggaaat
+14 633 F 14 821 -1 3.42e-02 ttcc[at]ctggaaaat
+11 120 F 11 633  0 5.20e-02 ttccactggaa
+11 206 F 11 463  0 5.20e-02 atctaatgaac
+11 246 R 11 246  0 5.20e-02 gtaaaaaaatg
+11 446 R 11 446  0 5.20e-02 ttaaacaaatt
+11 453 R 11 453  0 5.20e-02 aattagattaa
+11 711 F 11 817  0 5.20e-02 atgtttcctct
+13 390 P 13 860 -1 1.27e-01 ctcca[gt]tggaaat
+13 390 P 13 722 -1 1.27e-01 ctcca[gt]tggaaat
+13 626 P 13 626 -1 1.27e-01 gtggaa[cg]ttccac
+10   5 R 10 716  0 2.08e-01 tttatctcct
+10 391 P 10 633  0 2.08e-01 tccagtggaa
+10 453 C 10 460  0 2.08e-01 aattagatta
+10 760 P 10 776  0 2.08e-01 ataactaaat
+12  20 R 12 706 -1 4.68e-01 ctttgtaac[tc]tt
+12 118 F 12 860 -1 4.68e-01 atttcca[ca]tgga
+12 118 F 12 722 -1 4.68e-01 atttcca[ca]tgga
+12 119 F 12 820 -1 4.68e-01 tttcc[at]ctggaa
+12 119 P 12 633 -1 4.68e-01 tttcca[cg]tggaa
+12 209 C 12 239 -1 4.68e-01 ta[at]tgaacattt
+12 248 P 12 264 -1 4.68e-01 aaaa[at]aatgaaa
+12 435 P 12 857 -1 4.68e-01 attggaaa[at]tgt
+12 442 R 12 491 -1 4.68e-01 aat[gt]ttaaacaa
+12 600 F 12 820 -1 4.68e-01 tttcct[gc]tggaa
+9   1 R  9 364  0 8.33e-01 cttttttat
+9  16 R  9 113  0 8.33e-01 tttactttg
+9  16 C  9 399  0 8.33e-01 tttactttg
+9  56 P  9 357  0 8.33e-01 taaattttt
+9 134 R  9 610  0 8.33e-01 ggttttgaa
+9 136 C  9 259  0 8.33e-01 ttttgaaag
+9 197 R  9 197  0 8.33e-01 tttacattt
+9 198 F  9 772  0 8.33e-01 ttacattta
+9 209 F  9 486  0 8.33e-01 taatgaaca
+9 210 P  9 580  0 8.33e-01 aatgaacat
+9 242 R  9 510  0 8.33e-01 acttgtaaa
+9 265 P  9 484  0 8.33e-01 ttcattatt
+9 417 R  9 417  0 8.33e-01 cttcacttc
+9 428 C  9 766  0 8.33e-01 tttaataat
+9 429 R  9 429  0 8.33e-01 ttaataatt
+9 461 R  9 461  0 8.33e-01 taatctaat

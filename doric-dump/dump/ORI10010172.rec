@@ -1,0 +1,76 @@
+AccId: ORI10010172
+Organism: Halopiger xanaduensis SH-6 chromosome
+RefSeq: NC_015666
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Halopiger.
+ChromSize: 3668009 nt
+ChromGC: 0.6598
+OriCLen: 911 nt
+OriCAT: 0.4281
+OriCIdx: 1344933..1345843 nt
+Cdc6Idx: 730676..732370, 889862..890992, 1345844..1347043, 1622511..1623692, 1986154..1987440, 2694659..2695930, 2889624..2890850, 3541136..3542332, 3614821..3615831 nt
+Extremes: 1500358 nt (minimum), 2701123 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:ACACACCCCTCGTTGCCGCTGTATATATACAGCGGCACCGAGGGGTGGTATACAGCGGCACTCCGGGGTTATACAGCGGAAATCCGGGGTTATACAGCGGAAACGAGGGGTGT
+Sequence: ggatcgttttcccttcgactaactcctctagttgcggtttcacagcaagtcgtcgctagttgcggtttcacagcgagtcgtcgctagttgcggtttcacagcgcgaaatcccggtcggaccgccggagacacacccctcgttgccgctgtatagcccttcgagaacggttgtaacgcccattttccggaagtatcccagatagtaatctctcgagcgaggcactgcgcccgcgacgcgatctcgcgaatggctccgttccggtctcagtttcggtattaataaatatgagatcttcgtgatagcccactaagtgagttgaacgtcgtgacgttcagtcaaaattgaacgtccgcgaccgctcgagtcgactcgaggcgctgttttgactcggtttttggcccgtcggggccgccaccgacatgctggactcgaccgaccccgatttcgagtcgacggaacggtcgattccttacagcggcaacgcggggtgtgtgtctccgtatacagcggcaccgaggggtggaaaacgaaccgctcgcttcctatagaaatccttttcaatcaatacagcggaaatacggtgtccgtcccgctcctgccggttcgtgtgtgggacggaatccatcgcagaccgggccgtgatacagcggcactccggggtggtcggttgctatacagcggcactccggggtctcgccgcaacgccgtgccgtaatcgcgggttgtccgtgacgggtgccgacccgatcgcctatacagcggaaatccggggtctgcttcggcctatacagcggaaacgaggggtgtagatagggcgacttagttcttgaatccctgaaatctcgagtatacagcggaactccggttccgaacgtttaagagagcgccgacgaatagctcgcataactga
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+48  27 F 48  55 -1 4.24e-22
+ctagttgcggtttcacagc[ag]agtcgtcgctagttgcggtttcacagcg
+28  47 F 28  75  0 3.24e-12 agtcgtcgctagttgcggtttcacagcg
+24 130 P 24 784 -1 5.97e-08 acacccctcgtt[gt]ccgctgtatag
+20 642 F 20 673  0 2.12e-07 atacagcggcactccggggt
+23 128 P 23 471 -1 2.29e-07 acacacccc[tg]cgttgccgctgta
+19  27 F 19  83  0 8.49e-07 ctagttgcggtttcacagc
+22 131 P 22 501 -1 8.76e-07 cacccctcg[tg]tgccgctgtata
+16 359 P 16 359  0 5.43e-05 ctcgagtcgactcgag
+16 750 F 16 782  0 5.43e-05 gcctatacagcggaaa
+18 672 F 18 848 -1 1.83e-04 tatacagcgg[ca]actccgg
+18 753 F 18 848 -1 1.83e-04 tatacagcggaa[ac]tccgg
+17 565 F 17 754 -1 6.93e-04 atacagcggaaat[ac]cgg
+17 642 F 17 849 -1 6.93e-04 atacagcgg[ca]actccgg
+14 141 P 14 670  0 8.70e-04 tgccgctgtatagc
+13 138 P 13 471  0 3.48e-03 cgttgccgctgta
+13 501 F 13 672  0 3.48e-03 tatacagcggcac
+12 141 P 12 501  0 1.39e-02 tgccgctgtata
+12 502 F 12 642  0 1.39e-02 atacagcggcac
+12 565 F 12 786  0 1.39e-02 atacagcggaaa
+12 696 R 12 696  0 1.39e-02 gccgcaacgccg
+12 785 F 12 848  0 1.39e-02 tatacagcggaa
+14 123 P 14 487 -1 3.65e-02 cggagacacac[ca]cc
+14 140 P 14 752 -1 3.65e-02 tt[gt]ccgctgtatag
+14 143 P 14 781 -1 3.65e-02 ccgctgtatag[cg]cc
+14 500 F 14 847 -1 3.65e-02 gtatacagcgg[ca]ac
+11 141 P 11 642  0 5.57e-02 tgccgctgtat
+11 389 R 11 389  0 5.57e-02 cggtttttggc
+11 565 F 11 849  0 5.57e-02 atacagcggaa
+11 671 F 11 784  0 5.57e-02 ctatacagcgg
+11 671 F 11 752  0 5.57e-02 ctatacagcgg
+13 471 F 13 503 -1 1.36e-01 tacagcggca[ac]cg
+13 471 F 13 787 -1 1.36e-01 tacagcgg[ca]aacg
+10 143 P 10 848  0 2.23e-01 ccgctgtata
+10 360 F 10 445  0 2.23e-01 tcgagtcgac
+10 364 P 10 445  0 2.23e-01 gtcgactcga
+10 471 F 10 674  0 2.23e-01 tacagcggca
+10 471 F 10 643  0 2.23e-01 tacagcggca
+10 501 F 10 785  0 2.23e-01 tatacagcgg
+10 501 F 10 753  0 2.23e-01 tatacagcgg
+10 685 F 10 766  0 2.23e-01 tccggggtct
+12   0 P 12 522 -1 5.01e-01 gg[at]tcgttttcc
+12 140 P 12 565 -1 5.01e-01 tt[gt]ccgctgtat
+12 480 F 12 796 -1 5.01e-01 aacg[ca]ggggtgt
+12 483 R 12 606 -1 5.01e-01 gc[ga]gggtgtgtg
+12 701 R 12 704 -1 5.01e-01 aa[ct]gccgtgccg
+12 819 R 12 822 -1 5.01e-01 ct[ta]agttcttga
+9 217 C  9 726  0 8.90e-01 aggcactgc
+9 224 R  9 224  0 8.90e-01 gcgcccgcg
+9 316 F  9 342  0 8.90e-01 ttgaacgtc
+9 502 F  9 565  0 8.90e-01 atacagcgg

@@ -1,0 +1,86 @@
+AccId: ORI10010169
+Organism: Halogeometricum borinquense DSM 11551 chromosome
+RefSeq: NC_014729
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Halogeometricum.
+ChromSize: 2820544 nt
+ChromGC: 0.6106
+OriCLen: 1237 nt
+OriCAT: 0.5182
+OriCIdx: 189801..191037 nt
+Cdc6Idx: 36836..37936, 191038..192768, 406253..407419, 1381922..1383127 nt
+Extremes: 2358725 nt (minimum), 188856 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CACCCCCACCCCTTCGTTTCGGGTGGAACGTCTCGACCTGAAACGAAGGGGTGGGGG
+Sequence: cctgtcctcccgcacctcccgagttatcgtcgtggaggggcgtatggagtactcacatttctgaggtcacttaagcactacgtcagacgccggtcacattcacgtctcctttatcagaccgaatccgaattaacgtcagcatacagtccgaaccgaaaacgcacgacagaaagagcatacgaatattttcgagattaacacgagacagtcggcattgacacgatatggggagaatcctgacaaagacgttgtttccacgtcttatggtgatcaccacgacatatggtaacaagaggctagattaataagtatcatcggttctggcgcttctcttctgtcgagagtgtgtctccctttcagttgagcttgttcttcagttcgaagtgaaacgtccccatccccggtgtttcgggtcgaactgatgtgagagtagggtcgtgaaaatagccgattcgaaccgtcatcgtaacgactaccaatgtatatccgaatggaactgtcgttcgaagtgaaattgggggtagtgtcggcggaacacccccaccccttcgtttcgggtggaactcgaaaagaccacccccggtggctcgtggagaacactagtggcgcattaatacaaagagatagttgttgcaaaatactattcttctctactacgggtcctgttgaacggtatccatgataaaaccctcgcttcgaaatagtcggttcgaggcccccccacccctgttttcacgtctcgacctgaaacgaaggggtgggggaggtcacccaccccaccgtttcgagtccatagccaatcccgaccaccaaaaagcccaatctcagctagtacaacccattatactcagtgatctagacccgaaacactccccttgaaatcccctcgacccctcctttcaactcgagcaaccactccccaattatttctacacattagaataaatcgaaataataacaataacaataacaataacaataacaataacaataacaataacaataacaataattaatccacagtgttgtccttacgttgtccgctcgcttgccctcgacggaacacgataggaactgatagacaagttttttgtagcacctgttcgtttggttcgtctgcatcatctggacgctccactgtcgtgcctctcgtggaataccgcagtctcatgcggtgtttcgacggttaagggccactgacggagtgtattccagtcgaaacaggggggattcacat
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+61  952 R 61  952  0 8.09e-32
+taataacaataacaataacaataacaataacaataacaataacaataacaataacaataa
+t
+53  953 R 53  953  0 5.30e-27
+aataacaataacaataacaataacaataacaataacaataacaataacaataa
+53  953 F 53  959  0 5.30e-27
+aataacaataacaataacaataacaataacaataacaataacaataacaataa
+53  959 R 53  959  0 5.30e-27
+aataacaataacaataacaataacaataacaataacaataacaataacaataa
+47  953 R 47  953  0 2.17e-23
+aataacaataacaataacaataacaataacaataacaataacaataa
+47  953 F 47  965  0 2.17e-23
+aataacaataacaataacaataacaataacaataacaataacaataa
+47  965 R 47  965  0 2.17e-23
+aataacaataacaataacaataacaataacaataacaataacaataa
+41  953 R 41  953  0 8.90e-20
+aataacaataacaataacaataacaataacaataacaataa
+41  953 F 41  971  0 8.90e-20
+aataacaataacaataacaataacaataacaataacaataa
+41  971 R 41  971  0 8.90e-20
+aataacaataacaataacaataacaataacaataacaataa
+35  953 R 35  953  0 3.65e-16 aataacaataacaataacaataacaataacaataa
+35  953 F 35  977  0 3.65e-16 aataacaataacaataacaataacaataacaataa
+35  977 R 35  977  0 3.65e-16 aataacaataacaataacaataacaataacaataa
+29  953 R 29  953  0 1.49e-12 aataacaataacaataacaataacaataa
+29  953 F 29  983  0 1.49e-12 aataacaataacaataacaataacaataa
+29  983 R 29  983  0 1.49e-12 aataacaataacaataacaataacaataa
+23  953 R 23  953  0 6.12e-09 aataacaataacaataacaataa
+23  953 F 23  989  0 6.12e-09 aataacaataacaataacaataa
+23  989 R 23  989  0 6.12e-09 aataacaataacaataacaataa
+22  537 P 22  742 -1 1.61e-06 cccccaccccttcgtttc[ga]ggt
+20  950 R 20  953 -1 2.35e-05 aa[tc]aataacaataacaataa
+20  950 F 20  992 -1 2.35e-05 aa[tc]aataacaataacaataa
+17  995 R 17  995  0 2.51e-05 aataacaataacaataa
+13  376 F 13  501  0 6.41e-03 gttcgaagtgaaa
+15  405 F 15  550 -1 1.80e-02 gtttcgggt[cg]gaact
+12  264 P 12  264  0 2.57e-02 tggtgatcacca
+12  403 P 12  858  0 2.57e-02 gtgtttcgggtc
+14  950 R 14  953 -1 6.73e-02 aa[tc]aataacaataa
+14  950 F 14  998 -1 6.73e-02 aa[tc]aataacaataa
+11  537 F 11  717  0 1.03e-01 cccccacccct
+11  717 P 11  753  0 1.03e-01 cccccacccct
+11 1001 R 11 1001  0 1.03e-01 aataacaataa
+13  249 F 13  727 -1 2.50e-01 tgttt[ct]cacgtct
+13  358 C 13  899 -1 2.50e-01 agttgagct[tc]gtt
+10   98 F 10  731  0 4.10e-01 ttcacgtctc
+10  401 F 10 1172  0 4.10e-01 cggtgtttcg
+10  771 R 10  771  0 4.10e-01 ccaccccacc
+12  266 C 12  597 -1 9.23e-01 gtgatcacc[ag]cg
+12  390 R 12  717 -1 9.23e-01 gtcccca[tc]cccc
+12  394 F 12  573 -1 9.23e-01 cca[tc]ccccggtg
+12  402 C 12  809 -1 9.23e-01 ggt[gt]tttcgggt
+12  405 P 12  739 -1 9.23e-01 gtttc[ga]ggtcga
+12  526 F 12 1054 -1 9.23e-01 tcg[ga]cggaacac
+12  538 C 12  754 -1 9.23e-01 ccccacccc[tc]tc
+12  714 R 12  770 -1 9.23e-01 gcc[ca]ccccaccc
+12  751 R 12  754 -1 9.23e-01 ga[ag]ggggtgggg
+9   11 C  9   30  0 1.64e+00 gcacctccc
+9  108 C  9  697  0 1.64e+00 ctttatcag
+9  160 P  9 1137  0 1.64e+00 gcacgacag
+9  173 R  9  173  0 1.64e+00 agcatacga

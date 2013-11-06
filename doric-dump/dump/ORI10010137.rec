@@ -1,0 +1,75 @@
+AccId: ORI10010137
+Organism: Halobacterium salinarum R1
+RefSeq: NC_010364
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Halobacterium.
+ChromSize: 2000962 nt
+ChromGC: 0.6801
+OriCLen: 810 nt
+OriCAT: 0.4037
+OriCIdx: 1794670..1795479 nt
+Cdc6Idx: 39215..40447, 912658..913851, 1438101..1439273, 1679515..1680639, 1795480..1797036 nt
+Extremes: 1115041 nt (minimum), 1794573 nt (maximum)
+Note: Note that the replication origin sequence is homologous to the origin of replication predicted in Biochem Biophys Res Commun, 2003, 302, 728-34. This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CAACCCCCCACCCCTTCGTTTCGGGTGGAACGTTCCACTCGAAACGAAGGGGTGGGGGGTTGG
+Sequence: ccttgctctccattcgcaccccatgccttgtatgtttgacgcaggacgtgtctggatgcgtataaaaccccagtgagagggcgtaaaatccgtcagacgagggtctgaccgtggtcagatcgaaccccggctccgggatcgacgccgagacgagagcgcaccccgtcagccacgatgcagccacacccacgacaggcgatatcaacacacacgaacatccacaaccccccaccccttcgtttcgggtggaactccagaacagggacggccccggcccacccgccagccaagatcagcgcccgaacgcaactagaactagacaactaccgtattctgctcctagtttttgctagtttgcggttgttgttctgattgtagggacttagtagtaccgctactctagaaggggggtggggaccccccaccccacagaagactctcgttccactcgaaacgaaggggtggggggttggcagccacgtttgacctcaacctctgtttcaggtggaacggcgattcatcgtctttctccgcgggtcgccccggctggttccggaccgcatccctcccccctctaaccggcgggacatcggatggcgggcgccctggtatcgggttgctgtgatcgtgcctgcccggaagcgtccccgctatcgtaacttattagtccgactcggacccactgtttcatctgcatcaactggaacgctgtcggagcggggacgctataccgcccgctgatggccttgctggccgttctctcttcccgactgcgtattccacccgaaacaagggggtgtgcgtgaatac
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+31 221 P 31 441 -1 3.72e-12 caaccccccaccccttcgtttcg[ga]gtggaac
+13 238 P 13 777  0 2.75e-03 gtttcgggtggaa
+12 223 F 12 416  0 1.10e-02 accccccacccc
+12 224 C 12 405  0 1.10e-02 ccccccacccct
+12 405 R 12 457  0 1.10e-02 ggggggtgggga
+12 416 P 12 458  0 1.10e-02 accccccacccc
+12 640 P 12 715  0 1.10e-02 agcgtccccgct
+14 238 F 14 497 -1 2.89e-02 gtttc[ga]ggtggaac
+14 496 P 14 777 -1 2.89e-02 tgtttc[ag]ggtggaa
+11 405 C 11 417  0 4.40e-02 ggggggtgggg
+13 415 R 13 419 -1 1.07e-01 gac[ca]ccccacccc
+13 442 F 13 777 -1 1.07e-01 ttccac[tc]cgaaac
+13 666 P 13 666 -1 1.07e-01 gtccga[cg]tcggac
+13 752 R 13 756 -1 1.07e-01 gcc[gc]ttctctctt
+10   0 R 10 436  0 1.76e-01 ccttgctctc
+10 265 R 10 265  0 1.76e-01 cggccccggc
+10 565 R 10 565  0 1.76e-01 ctcccccctc
+10 593 C 10 728  0 1.76e-01 atggcgggcg
+12 223 R 12 419 -1 3.96e-01 ac[ca]ccccacccc
+12 274 R 12 415 -1 3.96e-01 cccaccc[gc]ccag
+12 287 R 12 304 -1 3.96e-01 caagatca[ga]cgc
+12 419 C 12 458 -1 3.96e-01 ccccacccc[ac]ca
+9  27 R  9  27  0 7.04e-01 ttgtatgtt
+9 226 R  9 226  0 7.04e-01 ccccacccc
+9 226 C  9 458  0 7.04e-01 ccccacccc
+9 226 P  9 407  0 7.04e-01 ccccacccc
+9 273 R  9 273  0 7.04e-01 gcccacccg
+9 407 R  9 407  0 7.04e-01 ggggtgggg
+9 407 F  9 458  0 7.04e-01 ggggtgggg
+9 407 P  9 419  0 7.04e-01 ggggtgggg
+9 458 R  9 458  0 7.04e-01 ggggtgggg
+11  94 C 11 332 -1 1.45e+00 agacgagg[ga]tc
+11 125 R 11 266 -1 1.45e+00 cccggc[tc]ccgg
+11 161 F 11 278 -1 1.45e+00 cccg[tc]cagcca
+11 176 R 11 180 -1 1.45e+00 gca[gc]ccacacc
+11 223 R 11 274 -1 1.45e+00 acc[cg]cccaccc
+11 223 C 11 462 -1 1.45e+00 acccccca[ca]cc
+11 262 R 11 539 -1 1.45e+00 gg[at]cggccccg
+11 274 C 11 459 -1 1.45e+00 cccaccc[gc]cca
+11 404 P 11 563 -1 1.45e+00 agggggg[ta]ggg
+11 416 C 11 462 -1 1.45e+00 acccccca[ca]cc
+11 459 R 11 462 -1 1.45e+00 gg[gt]tggggggt
+11 492 F 11 679 -1 1.45e+00 cc[ta]ctgtttca
+8  14 F  8 156  0 2.82e+00 cgcacccc
+8  40 R  8  40  0 2.82e+00 gcaggacg
+8 124 F  8 540  0 2.82e+00 ccccggct
+8 163 R  8 766  0 2.82e+00 cgtcagcc
+8 166 F  8 473  0 2.82e+00 cagccacg
+8 176 F  8 472  0 2.82e+00 gcagccac
+8 223 R  8 223  0 2.82e+00 acccccca

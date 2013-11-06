@@ -1,0 +1,75 @@
+AccId: ORI10010053
+Organism: Nitrosopumilus maritimus SCM1
+RefSeq: NC_010085
+Topology: Circular
+Lineage: Archaea; Thaumarchaeota; Nitrosopumilales; Nitrosopumilaceae; Nitrosopumilus.
+ChromSize: 1645259 nt
+ChromGC: 0.3417
+OriCLen: 478 nt
+OriCAT: 0.6883
+OriCIdx: 1644927..145 nt
+Cdc6Idx: 146..1348, 1542607..1543926 nt
+Extremes: 773235 nt (minimum), 969 nt (maximum)
+Note: 
+Sequence: gttaggatctattcgatctgatgttaacagttcaaatgatccgcgaaaatttgttaactaaatggtttgttaacattgactgtgtaagccacgcctagttatttttttgttattaacaattagtcgtgtataagccccctaaattaagaaatattcatgcctggagtggaaataaaggggttagatttgagatattcacaatgttaacgtcaattttaacgcctggagtggaaattagggggtcaaaatagggtttttgggagttttcttaacatcaaattaacatggttgttaatttccagtggaacccacacaccaatatttccactcttcttttttctattttttttttgagaaaaaacaaaaactaactaaaaataattaattacaaactaaactagaattactattctattctatactctcttaattgagatatggttaagatgaaattgataggaaacaaaggtgtgtgagt
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+15 158 F 15 220  0 5.98e-05 gcctggagtggaaat
+13 249 R 13 249  0 9.58e-04 agggtttttggga
+11 111 R 11 111  0 1.53e-02 attaacaatta
+11 163 P 11 319  0 1.53e-02 gagtggaaata
+11 167 R 11 167  0 1.53e-02 ggaaataaagg
+11 356 R 11 356  0 1.53e-02 aaaaacaaaaa
+11 458 R 11 458  0 1.53e-02 ggaaacaaagg
+13 106 P 13 106 -1 3.73e-02 ttgtta[ta]taacaa
+13 165 R 13 458 -1 3.73e-02 gtggaaa[tc]aaagg
+10  68 P 10 198  0 6.13e-02 gttaacattg
+10 210 R 10 210  0 6.13e-02 caattttaac
+10 225 P 10 320  0 6.13e-02 gagtggaaat
+10 331 R 10 331  0 6.13e-02 tcttttttct
+10 342 R 10 342  0 6.13e-02 tttttttttt
+10 378 P 10 378  0 6.13e-02 taattaatta
+12  15 P 12 268 -1 1.38e-01 at[ct]tgatgttaa
+12  68 P 12 208 -1 1.38e-01 gttaa[ca]attgac
+12  95 P 12 362 -1 1.38e-01 tagtta[tg]ttttt
+12  96 R 12 342 -1 1.38e-01 agtt[at]ttttttt
+12  99 F 12 340 -1 1.38e-01 tattttttt[gt]tt
+12 101 R 12 340 -1 1.38e-01 ttttttt[gt]ttat
+12 102 C 12 355 -1 1.38e-01 ttttttgtt[at]tt
+12 268 R 12 393 -1 1.38e-01 ttaa[cg]atcaaat
+12 342 C 12 357 -1 1.38e-01 tttt[tg]tttttga
+12 393 R 12 441 -1 1.38e-01 taaa[cg]tagaatt
+12 406 F 12 411 -1 1.38e-01 ctattctat[ta]ct
+9  20 P  9  67  0 2.45e-01 atgttaaca
+9  49 F  9  65  0 2.45e-01 tttgttaac
+9 186 F  9 430  0 2.45e-01 ttgagatat
+9 228 P  9 292  0 2.45e-01 tggaaatta
+9 276 P  9 289  0 2.45e-01 aaattaaca
+9 308 R  9 308  0 2.45e-01 ccacacacc
+9 342 R  9 342  0 2.45e-01 ttttttttt
+9 342 F  9 343  0 2.45e-01 ttttttttt
+9 343 R  9 343  0 2.45e-01 ttttttttt
+11  18 P 11 201 -1 5.06e-01 tga[tc]gttaaca
+11  65 F 11 264 -1 5.06e-01 ttt[gc]ttaacat
+11  95 P 11 373 -1 5.06e-01 ta[ga]ttattttt
+11  98 F 11 342 -1 5.06e-01 tt[at]tttttttg
+11 103 P 11 356 -1 5.06e-01 tttttgtt[at]tt
+11 105 P 11 381 -1 5.06e-01 tttgt[ta]attaa
+11 134 P 11 231 -1 5.06e-01 ccccctaa[at]tt
+11 138 P 11 424 -1 5.06e-01 ct[ac]aattaaga
+11 167 F 11 458 -1 5.06e-01 ggaaa[tc]aaagg
+11 179 C 11 388 -1 5.06e-01 gtt[at]gatttga
+11 198 F 11 210 -1 5.06e-01 caat[gt]ttaacg
+11 296 P 11 296 -1 5.06e-01 ttcca[gc]tggaa
+11 306 P 11 467 -1 5.06e-01 ac[ct]cacacacc
+11 330 P 11 353 -1 5.06e-01 tt[cg]ttttttct
+8  20 F  8 200  0 9.81e-01 atgttaac

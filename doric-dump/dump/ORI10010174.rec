@@ -1,0 +1,75 @@
+AccId: ORI10010174
+Organism: Halopiger xanaduensis SH-6 chromosome
+RefSeq: NC_015666
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Halopiger.
+ChromSize: 3668009 nt
+ChromGC: 0.6598
+OriCLen: 914 nt
+OriCAT: 0.4595
+OriCIdx: 2693745..2694658 nt
+Cdc6Idx: 730676..732370, 889862..890992, 1345844..1347043, 1622511..1623692, 1986154..1987440, 2694659..2695930, 2889624..2890850, 3541136..3542332, 3614821..3615831 nt
+Extremes: 1500358 nt (minimum), 2701123 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CACACCCCCCTCGCGTTTGTAATTACATCCGCGACGATGGTGTGTGTGTTACATCCGCGACGGGGGTGT
+Sequence: gattagctctcgtcgtccgatttggtgggcgattgctcgagcaactgtctgcgagagggcggcccgtgaagccgagcagatgaaccgatcatacgggaggtatcgagcgggtgtggaaaagtgatgcgttcgtgacggcggacggagttagggttatgggacctcgaggcagttgtgatgtttgtcgggtttacggatcggaccgatttgttcttcctttctctttccttctctgtctcgttggactagtctagtatctagttctctagtacagttattcacctgcaccgaagtctattacacaaatcggagttgggatcgcatagaatactcgatctgtcctcattctctggcagaaatctcgaggattgcaatctgatagggtggggagggacacacccccctcgcgtttgtaagcccttgtcggtgggtgagggttctgtacgggaacacaccttattcgcggatgtaaaatatcgcgttagacgggccgattcgtgagaaaatcggcgattatctcactccctacccacctatttcccgttacatccgcgacgatggtgtgtgtgccgaacccggaatgtgggtgccgatccgaaaatcgcgtttccgtagtttttgactcgagtcgattcggattcttcctcgcagttcagttgctcgccgaacctcgaactcgaattccgatcgcaatccggcggagaggcgacgttcggcagttacatccgcgacgggggtgtccgtccgtgaacggcgggacagccgcccgattagacgcgcgatggcggcgattcgtatcgataccgtcgttcgtcgggtattgtcgccacctagatgctaacacaggcgatttacatccgcgatcgatctccatagctttatttcaatccagccggtagtcgcccgacactgca
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+21 211 R 21 211  0 5.34e-08 tcttcctttctctttccttct
+15 542 F 15 718  0 2.19e-04 gttacatccgcgacg
+13 460 P 13 850  0 3.50e-03 tcgcggatgtaaa
+12  32 P 12  32  0 1.40e-02 ttgctcgagcaa
+12 460 P 12 543  0 1.40e-02 tcgcggatgtaa
+12 460 P 12 719  0 1.40e-02 tcgcggatgtaa
+12 543 F 12 851  0 1.40e-02 ttacatccgcga
+12 719 F 12 851  0 1.40e-02 ttacatccgcga
+14 395 P 14 726 -1 3.68e-02 acaccccc[cg]tcgcg
+11 697 R 11 697  0 5.60e-02 gcggagaggcg
+10  37 P 10 653  0 2.24e-01 cgagcaactg
+10  96 C 10 868  0 2.24e-01 gaggtatcga
+10 366 P 10 366  0 2.24e-01 gattgcaatc
+10 620 P 10 620  0 2.24e-01 gactcgagtc
+10 794 P 10 794  0 2.24e-01 gtatcgatac
+12  51 R 12 751 -1 5.04e-01 cga[gc]agggcggc
+12  69 R 12 482 -1 5.04e-01 agccg[ag]gcagat
+12 189 P 12 589 -1 5.04e-01 ttt[at]cggatcgg
+12 382 P 12 522 -1 5.04e-01 ggtggg[gt]aggga
+12 497 P 12 510 -1 5.04e-01 gtgaga[at]aatcg
+12 561 F 12 581 -1 5.04e-01 tgtg[tg]gtgccga
+12 873 R 12 876 -1 5.04e-01 ta[ga]ctttatttc
+9  15 P  9 302  0 8.96e-01 tccgatttg
+9 202 P  9 301  0 8.96e-01 ccgatttgt
+9 230 R  9 230  0 8.96e-01 ctctgtctc
+9 560 R  9 560  0 8.96e-01 gtgtgtgtg
+9 613 R  9 613  0 8.96e-01 agtttttga
+11 179 F 11 808 -1 1.85e+00 gtt[tc]gtcgggt
+11 196 P 11 196 -1 1.85e+00 atcgg[at]ccgat
+11 244 P 11 244 -1 1.85e+00 actag[ta]ctagt
+11 365 P 11 685 -1 1.85e+00 ggattgc[ag]atc
+11 472 F 11 597 -1 1.85e+00 aa[ta]atcgcgtt
+11 504 P 11 504 -1 1.85e+00 aatcg[gc]cgatt
+11 662 P 11 706 -1 1.85e+00 gccgaac[cg]tcg
+8  16 F  8 202  0 3.59e+00 ccgatttg
+8  24 R  8 105  0 3.59e+00 gtgggcga
+8  55 R  8 751  0 3.59e+00 agggcggc
+8  59 P  8 485  0 3.59e+00 cggcccgt
+8  98 P  8 797  0 3.59e+00 ggtatcga
+8 110 C  8 450  0 3.59e+00 gtgtggaa
+8 138 P  8 739  0 3.59e+00 cggacgga
+8 152 R  8 815  0 3.59e+00 gttatggg
+8 161 P  8 161  0 3.59e+00 cctcgagg
+8 193 P  8 589  0 3.59e+00 cggatcgg
+8 210 F  8 638  0 3.59e+00 ttcttcct
+8 243 P  8 243  0 3.59e+00 gactagtc
+8 370 C  8 479  0 3.59e+00 gcaatctg
+8 404 F  8 601  0 3.59e+00 tcgcgttt
+8 416 C  8 444  0 3.59e+00 gcccttgt
+8 491 F  8 788  0 3.59e+00 cgattcgt

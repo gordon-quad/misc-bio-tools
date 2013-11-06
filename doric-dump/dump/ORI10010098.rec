@@ -1,0 +1,82 @@
+AccId: ORI10010098
+Organism: Methanohalobium evestigatum Z-7303
+RefSeq: NC_014253
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Methanomicrobia, Methanosarcinales, Methanosarcinaceae, Methanohalobium.
+ChromSize: 2242317 nt
+ChromGC: 0.3663
+OriCLen: 818 nt
+OriCAT: 0.7555
+OriCIdx: 1206329..1207146 nt
+Cdc6Idx: 358..1596, 1204982..1206328, 2047843..2048952 nt
+Extremes: 2233199 nt (minimum), 340387 nt (maximum)
+Note: 
+Sequence: attatctatctttttcctcttttgatacacacaagtaaaatcagatgaagtgaatagatacatttgaatttgatttggtgggaacattggtttgttgatacacacacctccagtcagatgaaaaggaatttttagtcaaattggttttttgaaacagtgctcgtatacacagacacacctttgttaatgagttctggaatatccaataagatgttttgttatctacacagacacaccttcattaacgagttctgggatatccaataagatgttttgttatctacacagacacaccttcattaacgagttctgggatatccaataagatgttttgttatctacacagacacacctttgttaatgagttctgggatatccaataagatcttaaaaataataattcaaaacaaaacgatgatgattcgaagaaatagacataatttttctatgattaagttgtatctaggttagatttactttagatttcttttaatttttatacatttttaataaatgattaatgttttgagaaaaaagaaattagaaatgatgagtattgaattgtttgagattgagttgtttgagaaaaagattagaggttgaactcttgatacaattgatcttttgatttgattattctattttttttaatttttatattatttttatttttatattattttaattttctatataattagtatatttttaataatatataaatttattcttctataaaacaattatttttttattaaaagtgaaaattaattagaaataataaaatatataaataatgaaatacataaaaaatccac
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+109 188 F 109 246 -1 1.46e-58
+gagttctgg[ag]atatccaataagatgttttgttatctacacagacacaccttcattaa
+cgagttctgggatatccaataagatgttttgttatctacacagacacacctt
+99 198 F  99 256  0 4.68e-55
+atatccaataagatgttttgttatctacacagacacaccttcattaacgagttctgggat
+atccaataagatgttttgttatctacacagacacacctt
+51 188 F  51 304 -1 5.68e-24
+gagttctgg[ag]atatccaataagatgttttgttatctacacagacacacctt
+47 165 F  47 339 -1 1.34e-21
+tacacagacacacctttgttaatgagttctgg[ag]atatccaataagat
+41 198 F  41 314  0 3.89e-20
+atatccaataagatgttttgttatctacacagacacacctt
+29 241 F  29 357 -1 5.68e-11 ttaa[ct]gagttctgggatatccaataagat
+29 299 F  29 357 -1 5.68e-11 ttaa[ct]gagttctgggatatccaataagat
+24 246 F  24 362  0 6.69e-10 gagttctgggatatccaataagat
+24 304 F  24 362  0 6.69e-10 gagttctgggatatccaataagat
+22 650 F  22 667 -1 7.06e-07 atttttatattatttt[ta]atttt
+21 645 F  21 662 -1 2.70e-06 tttt[at]atttttatattatttt
+20 750 R  20 753 -1 1.03e-05 tt[ta]attaaaagtgaaaatta
+17 741 R  17 741  0 1.10e-05 aattatttttttattaa
+19 436 R  19 695 -1 3.90e-05 ataattttt[ca]tatgattaa
+19 482 F  19 640 -1 3.90e-05 attt[ct]ttttaatttttata
+16 165 F  16 223  0 4.38e-05 tacacagacacacctt
+16 165 F  16 281  0 4.38e-05 tacacagacacacctt
+15 660 R  15 660  0 1.75e-04 tatttttatttttat
+17 198 F  17 372 -1 5.59e-04 atatccaataagat[gc]tt
+14 487 F  14 645  0 7.01e-04 ttttaatttttata
+16 471 R  16 476 -1 2.10e-03 attt[at]ctttagatttc
+16 555 F  16 570 -1 2.10e-03 attga[ag]ttgtttgaga
+16 648 R  16 697 -1 2.10e-03 taatttttatat[tg]att
+15 482 R  15 679 -1 7.89e-03 at[ta]tcttttaatttt
+15 649 P  15 710 -1 7.89e-03 aattt[ta]tatattatt
+12  21 F  12  94  0 1.12e-02 ttgatacacaca
+12 644 R  12 644  0 1.12e-02 tttttaattttt
+14 166 R  14 221 -1 2.94e-02 acacagacaca[ct]ct
+14 166 R  14 279 -1 2.94e-02 acacagacaca[ct]ct
+14 166 R  14 337 -1 2.94e-02 acacagacaca[ct]ct
+14 183 F  14 241 -1 2.94e-02 ttaa[tc]gagttctgg
+14 183 F  14 299 -1 2.94e-02 ttaa[tc]gagttctgg
+14 207 C  14 730 -1 2.94e-02 aagat[ga]ttttgtta
+14 221 R  14 224 -1 2.94e-02 tc[tc]acacagacaca
+14 221 R  14 282 -1 2.94e-02 tc[tc]acacagacaca
+14 221 R  14 340 -1 2.94e-02 tc[tc]acacagacaca
+14 265 C  14 730 -1 2.94e-02 aagat[ga]ttttgtta
+14 279 R  14 282 -1 2.94e-02 tc[tc]acacagacaca
+14 279 R  14 340 -1 2.94e-02 tc[tc]acacagacaca
+14 323 C  14 730 -1 2.94e-02 aagat[ga]ttttgtta
+14 337 R  14 340 -1 2.94e-02 tc[tc]acacagacaca
+14 487 F  14 662 -1 2.94e-02 tttt[at]atttttata
+14 499 F  14 701 -1 2.94e-02 ta[ct]atttttaataa
+14 665 F  14 743 -1 2.94e-02 ttattttt[at]tatta
+14 665 R  14 742 -1 2.94e-02 ttattttt[at]tatta
+14 667 R  14 697 -1 2.94e-02 atttttatat[tg]att
+14 667 P  14 710 -1 2.94e-02 attt[ta]tatattatt
+11 166 R  11 166  0 4.49e-02 acacagacaca
+11 388 P  11 657  0 4.49e-02 taaaaataata
+11 402 R  11 402  0 4.49e-02 caaaacaaaac

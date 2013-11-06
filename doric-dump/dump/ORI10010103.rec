@@ -1,0 +1,75 @@
+AccId: ORI10010103
+Organism: Acidianus hospitalis W1
+RefSeq: NC_015518
+Topology: Circular
+Lineage: Archaea, Crenarchaeota, Thermoprotei, Sulfolobales, Sulfolobaceae, Acidianus.
+ChromSize: 2137654 nt
+ChromGC: 0.3415
+OriCLen: 857 nt
+OriCAT: 0.6663
+OriCIdx: 731778..732634 nt
+Cdc6Idx: 32..1189, 502861..504099, 730587..731777 nt
+Extremes: 2123197 nt (minimum), 986119 nt (maximum)
+Note: Note that the sequence has been predicted as oriC region using in silico studies. Please refer to You, X.Y., et al. 2011 (Extremophiles : life under extreme conditions, 15, 487-497) for more details.
+Sequence: tacaatatatgaatcgtaataaaactgcttataataactttgccttaaccggggagtaaaatacccctttatttccactggaggttataagggaaaaacaggcacccctttatttccactggaaaacttaggtttttagtaactagaatataaagtttgtataatatacatgttgcgccttttagtagatattttccaagagaaataaagggggagagacacttagatagttgaacttataaacctagattttaattagaatattgggccggtagctcagcctggaagagtgtccggcttgcaaccggaaggtcccgggttcaaatcccggccggtccactctgggggatacccgcagacccccattactaagtaagtttcgattatcttatctaaggggtcactgtaacgctctcttacgttatcttctttgtccttctctattaagtaaacataatacttcttccttctttgacgaatcttatattgcccagctgagaaaactttataactctgcccatatttatcattttggactatttaaggattgttaattatcatatcagacgttgagtaaaaaggcggtgataataattccgcagttatacaaaaatcatgtttcgattaattattgtatactagaaatgttagattatgtaaatttttattaaattatgaattatcaaatattaggcaataagtagagtctaagttactttatccttattattaaattggatcttcttctttcatttattttatatcattaagttgggagaaacttgtagccatcttttctttaatgaagtgttttattagtatataagtcgtatttttacctaaagttcaaaattcgc
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+20  62 F 20 103  0 1.88e-07 acccctttatttccactgga
+15  21 C 15 470 -1 8.66e-03 aaactgctta[tg]aata
+12  63 P 12 201  0 1.23e-02 cccctttatttc
+12 104 P 12 201  0 1.23e-02 cccctttatttc
+12 460 R 12 460  0 1.23e-02 ttcttccttctt
+11  65 R 11 106  0 4.92e-02 cctttatttcc
+11  65 R 11  65  0 4.92e-02 cctttatttcc
+11 106 R 11 106  0 4.92e-02 cctttatttcc
+11 665 R 11 665  0 4.92e-02 tattaaattat
+13 112 P 13 112 -1 1.20e-01 tttcca[cg]tggaaa
+13 128 C 13 604 -1 1.20e-01 ta[gt]gtttttagta
+13 157 P 13 157 -1 1.20e-01 tgtata[at]tataca
+13 661 F 13 723 -1 1.20e-01 tt[ta]ttattaaatt
+10  66 C 10 201  0 1.97e-01 ctttatttcc
+10 107 C 10 201  0 1.97e-01 ctttatttcc
+10 143 C 10 478  0 1.97e-01 tagaatataa
+10 148 P 10 500  0 1.97e-01 tataaagttt
+10 376 F 10 617  0 1.97e-01 gtttcgatta
+10 440 R 10 674  0 1.97e-01 ctattaagta
+12 139 F 12 252 -1 4.43e-01 taa[ct]tagaatat
+12 657 R 12 723 -1 4.43e-01 taaatt[ta]ttatt
+9   3 R  9 817  0 7.88e-01 aatatatga
+9  16 P  9 809  0 7.88e-01 taataaaac
+9  82 R  9 258  0 7.88e-01 ggttataag
+9 155 P  9 602  0 7.88e-01 tttgtataa
+9 201 R  9 201  0 7.88e-01 gaaataaag
+9 255 C  9 477  0 7.88e-01 ttagaatat
+9 587 C  9 724  0 7.88e-01 ataataatt
+9 667 R  9 727  0 7.88e-01 ttaaattat
+9 739 R  9 739  0 7.88e-01 tcttcttct
+11  33 F 11 507 -1 1.63e+00 ataact[tc]tgcc
+11  71 P 11 114 -1 1.63e+00 tttcca[cg]tgga
+11 140 C 11 230 -1 1.63e+00 aact[at]gaatat
+11 349 R 11 355 -1 1.63e+00 taccc[gc]cagac
+11 365 P 11 365 -1 1.63e+00 ttact[at]agtaa
+11 382 F 11 553 -1 1.63e+00 attatc[ta]tatc
+11 419 R 11 479 -1 1.63e+00 cgttat[ca]ttct
+11 459 F 11 740 -1 1.63e+00 cttcttc[ct]ttc
+11 477 C 11 815 -1 1.63e+00 aatc[ta]tatatt
+11 552 F 11 677 -1 1.63e+00 aattatca[ta]at
+11 552 C 11 812 -1 1.63e+00 aat[ta]atcatat
+11 603 P 11 627 -1 1.63e+00 tatacaa[at]aat
+8  16 P  8 662  0 3.15e+00 taataaaa
+8  53 F  8 571  0 3.15e+00 gagtaaaa
+8 121 F  8 498  0 3.15e+00 gaaaactt
+8 133 F  8 179  0 3.15e+00 ttttagta
+8 143 F  8 256  0 3.15e+00 tagaatat
+8 159 R  8 159  0 3.15e+00 tataatat
+8 175 P  8 576  0 3.15e+00 cgcctttt
+8 179 C  8 609  0 3.15e+00 ttttagta

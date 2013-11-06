@@ -1,0 +1,76 @@
+AccId: ORI10010147
+Organism: Halorubrum lacusprofundi ATCC 49239 chromosome 1
+RefSeq: NC_012029
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Halorubrum.
+ChromSize: 2735295 nt
+ChromGC: 0.6672
+OriCLen: 845 nt
+OriCAT: 0.4911
+OriCIdx: 1542731..1543575 nt
+Cdc6Idx: 780..2453, 1077250..1078446, 1085512..1086711, 1125569..1126741, 1541528..1542730, 2614867..2615994 nt
+Extremes: 345907 nt (minimum), 2734117 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:ACACCGGGTTTCCGGTGAAATCACACACCGTGTTTCCGGTGAAATTTCACCGGAAACCCGGTGTACCGAATTTCCGGTGAAAACCGAATTTCCGGTGAAA
+Sequence: aggatcgacaccgggtttccggtgaaatgcgttccgcttcgaccgtgacgaaacggcgtttgagacacacaccgtgtttccggtgaaatagggcgaatggggtggggagggaggatcgatgggaaaatataaaacgggccggggaagactcgacagccaaattcaccggaaacccggtgtcactgctccaaatcgaccaccaataaaacggatggcgcagagagaacaaatcggggggtacaaacaccacagtatcaggagacgcgtatacgatagagcacaagacgccaattagcgcataatacacgagaaagtggagaaatacaaaggagtgtagagaacgaagaatacagatacgagatacgaacccgaaacgggagaccgaatttccggtgaaagactagccttcggctcctaattatcttatttcttggcttgacggactatactcaaaacctgtttataattctttctatgatataacagagattgaggcgacgagtccgatatctaaaatcggaatctaccaccacagcccaccacagcccgccaccactagacgcccaccatccactaaccccatttcaccggaaacatggtgtgtctctcaaacagataactctcgaacaagtcaccaacggtcattcacaactgtcgcctacaaccgtcaacaggcagctgtcgacaaacaggcagctgtcgacagataaccgcacgagatgcaaaaaatcgatcgacgagccgcgaggtaccgtgagtctgtttaccccacctaccccacctaccccacctaccccacctaccccacctaccctatcctacctaccctagcctaccctacctgg
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+41 764 F 41 773  0 4.15e-20
+taccccacctaccccacctaccccacctaccccacctaccc
+32 764 F 32 782  0 1.09e-14 taccccacctaccccacctaccccacctaccc
+23 764 F 23 791  0 2.85e-09 taccccacctaccccacctaccc
+20   6 P 20 161  0 1.83e-07 gacaccgggtttccggtgaa
+23  66 P 23 581 -1 1.97e-07 acacacc[ga]tgtttccggtgaaat
+21   7 F 21  68 -1 2.88e-06 acaccg[gt]gtttccggtgaaat
+18 669 F 18 687  0 2.92e-06 aacaggcagctgtcgaca
+19  68 P 19 161 -1 4.16e-05 acaccg[tg]gtttccggtgaa
+19  74 P 19 577 -1 4.16e-05 tgtttccggtgaaat[ag]ggg
+15  14 P 15 580  0 1.87e-04 gtttccggtgaaatg
+17 526 F 17 536 -1 5.96e-04 ccaccacagccc[ag]ccac
+17 806 F 17 820 -1 5.96e-04 acctacccta[tg]cctacc
+14  14 F 14  75  0 7.48e-04 gtttccggtgaaat
+14 764 F 14 800  0 7.48e-04 taccccacctaccc
+16  57 P 16 597 -1 2.24e-03 gtttgaga[cg]acacacc
+12  15 F 12 386  0 1.20e-02 tttccggtgaaa
+12  75 P 12 161  0 1.20e-02 gtttccggtgaa
+12  76 F 12 386  0 1.20e-02 tttccggtgaaa
+12 161 F 12 583  0 1.20e-02 ttcaccggaaac
+12 386 P 12 582  0 1.20e-02 tttccggtgaaa
+14 120 R 14 123 -1 3.14e-02 gg[gc]aaaatataaaa
+14 672 R 14 693 -1 3.14e-02 ag[ga]cagctgtcgac
+14 690 R 14 693 -1 3.14e-02 ag[ga]cagctgtcgac
+11 161 P 11 386  0 4.79e-02 ttcaccggaaa
+11 675 R 11 675  0 4.79e-02 cagctgtcgac
+13 111 C 13 816 -1 1.17e-01 aggat[cg]gatggga
+10  95 C 10 763  0 1.92e-01 aatggggtgg
+10 696 P 10 696  0 1.92e-01 ctgtcgacag
+12 190 F 12 520 -1 4.31e-01 aatc[gt]accacca
+12 293 R 12 297 -1 4.31e-01 agc[ga]cataatac
+12 537 R 12 544 -1 4.31e-01 caccac[ac]gcccg
+12 771 F 12 831 -1 4.31e-01 cctaccc[ct]acct
+12 780 F 12 831 -1 4.31e-01 cctaccc[ct]acct
+12 789 F 12 831 -1 4.31e-01 cctaccc[ct]acct
+12 798 F 12 831 -1 4.31e-01 cctaccc[ct]acct
+12 812 F 12 831 -1 4.31e-01 ccta[tc]cctacct
+9  61 P  9 598  0 7.66e-01 gagacacac
+9  96 C  9 800  0 7.66e-01 atggggtgg
+9  96 C  9 791  0 7.66e-01 atggggtgg
+9  96 C  9 782  0 7.66e-01 atggggtgg
+9  96 C  9 773  0 7.66e-01 atggggtgg
+9  98 R  9  98  0 7.66e-01 ggggtgggg
+9 105 R  9 105  0 7.66e-01 ggagggagg
+9 128 F  9 202  0 7.66e-01 ataaaacgg
+9 308 R  9 391  0 7.66e-01 agaaagtgg
+9 576 R  9 762  0 7.66e-01 accccattt
+9 611 F  9 702  0 7.66e-01 acagataac
+9 678 P  9 697  0 7.66e-01 ctgtcgaca
+9 683 R  9 683  0 7.66e-01 gacaaacag
+9 807 F  9 831  0 7.66e-01 cctacccta

@@ -1,0 +1,75 @@
+AccId: ORI10010205
+Organism: Natronococcus occultus SP4
+RefSeq: NC_019974
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Natronococcus.
+ChromSize: 4013216 nt
+ChromGC: 0.6494
+OriCLen: 336 nt
+OriCAT: 0.4018
+OriCIdx: 947830..948165 nt
+Cdc6Idx: 1337..2980, 265158..266594, 892480..893673, 948166..949449, 1182498..1183712, 1675125..1676354, 2164571..2165758, 2563823..2565208, 2939115..2940335, 2961346..2962566, 3172594..3173937, 3453838..3455
+Extremes: 1283434 nt (minimum), 2929576 nt (maximum)
+Note: 
+Sequence: cagtcgtcgacgagccgctatagcggcaggtatgggccggacccacacccctcgttcagagtgaaagatttgtgagagagccctcgcccccttttccgtcgtcggtcgactgtcttcgctccgtctcggctctcttcgctccgtctcggctctcttcgctccgtctcggctctcttcgctccgtctcggctctctttgccttcatcgattgatcgatcgagtcactacaaggacgtcgagcgacgcgaaccgctacggaaccgtcgagaggctcgaaccgatacgagaacgtcgagaagctcggatcaatacgggaacgtcgagaaccgcgaatcg
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+64 112 F 64 132  0 9.33e-35 tcttcgctccgtctcggctctcttcgctccgtctcggctctcttcgctccgtctcggctctctt
+44 112 F 44 152  0 1.03e-22 tcttcgctccgtctcggctctcttcgctccgtctcggctctctt
+24 112 F 24 172  0 1.13e-10 tcttcgctccgtctcggctctctt
+18 280 F 18 308 -1 2.50e-05 atacg[ag]gaacgtcgagaa
+14  13 P 14  13  0 1.18e-04 gccgctatagcggc
+12 286 F 12 314  0 1.89e-03 gaacgtcgagaa
+14 261 F 14 289 -1 4.97e-03 cgtcgaga[ga]gctcg
+10   3 P 10   3  0 3.03e-02 tcgtcgacga
+10 123 R 10 183  0 3.03e-02 tctcggctct
+10 123 R 10 163  0 3.03e-02 tctcggctct
+10 123 R 10 143  0 3.03e-02 tctcggctct
+10 123 R 10 123  0 3.03e-02 tctcggctct
+10 143 R 10 183  0 3.03e-02 tctcggctct
+10 143 R 10 163  0 3.03e-02 tctcggctct
+10 143 R 10 143  0 3.03e-02 tctcggctct
+10 163 R 10 183  0 3.03e-02 tctcggctct
+10 163 R 10 163  0 3.03e-02 tctcggctct
+10 183 R 10 183  0 3.03e-02 tctcggctct
+12 245 F 12 273 -1 6.81e-02 cgaaccg[ca]tacg
+9  41 R  9  41  0 1.21e-01 cccacaccc
+9 268 R  9 296  0 1.21e-01 aggctcgaa
+11  99 P 11 234 -1 2.50e-01 cgtcg[gc]tcgac
+11 229 F 11 285 -1 2.50e-01 ag[ga]acgtcgag
+8  74 P  8 127  0 4.84e-01 agagagcc
+8  74 P  8 147  0 4.84e-01 agagagcc
+8  74 P  8 167  0 4.84e-01 agagagcc
+8  74 P  8 187  0 4.84e-01 agagagcc
+8  89 R  8  89  0 4.84e-01 ccttttcc
+8 210 P  8 210  0 4.84e-01 gatcgatc
+8 212 P  8 212  0 4.84e-01 tcgatcga
+8 232 F  8 316  0 4.84e-01 acgtcgag
+8 261 F  8 317  0 4.84e-01 cgtcgaga
+10  10 F 10 245 -1 9.08e-01 cga[ga]ccgcta
+10 204 P 10 210 -1 9.08e-01 tcgat[tc]gatc
+10 206 F 10 210 -1 9.08e-01 gat[tc]gatcga
+10 243 F 10 320 -1 9.08e-01 cg[ca]gaaccgc
+7   2 F  7  97  0 1.94e+00 gtcgtcg
+7  28 R  7  28  0 1.94e+00 ggtatgg
+7  73 R  7  73  0 1.94e+00 gagagag
+7 131 C  7 293  0 1.94e+00 ctcttcg
+7 151 C  7 293  0 1.94e+00 ctcttcg
+7 171 C  7 293  0 1.94e+00 ctcttcg
+7 207 P  7 303  0 1.94e+00 attgatc
+7 233 F  7 261  0 1.94e+00 cgtcgag
+7 283 F  7 320  0 1.94e+00 cgagaac
+9   2 P  9   2 -1 3.27e+00 gtcg[ta]cgac
+9   6 R  9 292 -1 3.27e+00 tcga[ca]gagc
+9   6 R  9  10 -1 3.27e+00 tcg[ac]cgagc
+9  10 P  9 266 -1 3.27e+00 cgagcc[gt]ct
+9  21 R  9 230 -1 3.27e+00 agc[gt]gcagg

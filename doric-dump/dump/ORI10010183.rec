@@ -1,0 +1,75 @@
+AccId: ORI10010183
+Organism: Haloarcula hispanica ATCC 33960 chromosome I
+RefSeq: NC_015948
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Haloarcula.
+ChromSize: 2995271 nt
+ChromGC: 0.6369
+OriCLen: 722 nt
+OriCAT: 0.4446
+OriCIdx: 1800336..1801057 nt
+Cdc6Idx: 1..1575, 126862..127989, 1199761..1200936, 1600776..1601993, 1801058..1802386, 2714606..2715658 nt
+Extremes: 2093261 nt (minimum), 14 nt (maximum)
+Note: The sequence has been confirmed as oriC region in silico and in vitro studies. Please refer to Wu Zhengfang, et al. (BMC Genomics 2012, 13:478) for more details. The ORB sequences:ACACCACCCTACGAGTGTTACACCACCCTACAAGTGTTTCACCACCCTGCAAGTGTTACCCCACCCTGCAAGTGTTACACCACCCTGCAAGTGTTCACCGTGCAAGTGTTACACCACCCTGCAAGTGTTACACCACCCTGCAAGTGTTACGGACACACCGGTCTGCAAGTGTTACACACACACCACCCTGCAACTGTTACACACACACACCACCGTGCAAGTGTT
+Sequence: cggagagggctcagtcgatcactgtcgattggttgattgcgtcgcaaacgacgtatttttcgctggaacaccaccctacgagtgttctgacagccctatacaaacgatccgacaccaccctacaagtgttctatcaccaccctgcaagtgtttccagtacgactacaactggaccagaacagtggacaggtgttcacaccccaccctgcaagtgttcgcacgggggtatgcgtcgtgcgggggtgcgcgagcgtctgagattcccgaaaacaccaccctgcaagtgtttttgagacgttgttcggagttccgatgcgccactctaacaccaccgtgcaagtgtttcccgcactgggagagacagacgagagcccacgggaacaccaccctgcaagtgttcaggaaagcccattttgagcggttttcccggcgaatcggtgttgacaccaccctgcaagtgttttcgaaacggaataccgggaggctgtggtggaaacggacggacacaccggtctgcaagtgttctacacactgcagtggagggtaactgccacataatcgctcggtagcactccgggttcacggtctactgttggcacacacacaccaccctgcaactgttctggactgtacaatagagggactgccactgaacacacacacaccaccgtgcaagtgttctgccatgtgagtcggtggggggaggggagcaaatacgctgg
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+21 269 F 21 443  0 3.33e-08 acaccaccctgcaagtgtttt
+20 268 F 20 379  0 1.33e-07 aacaccaccctgcaagtgtt
+19 134 F 19 444  0 5.33e-07 caccaccctgcaagtgttt
+19 134 F 19 270  0 5.33e-07 caccaccctgcaagtgttt
+19 325 F 19 661  0 5.33e-07 acaccaccgtgcaagtgtt
+19 380 F 19 443  0 5.33e-07 acaccaccctgcaagtgtt
+21  67 F 21 111 -1 2.10e-06 acaccaccctac[ga]agtgttct
+21 134 F 21 326 -1 2.10e-06 caccacc[cg]tgcaagtgtttcc
+21 268 F 21 324 -1 2.10e-06 aacaccacc[cg]tgcaagtgttt
+21 596 F 21 654 -1 2.10e-06 cacacacacaccacc[cg]tgcaa
+18 134 F 18 381  0 2.13e-06 caccaccctgcaagtgtt
+20 110 F 20 442 -1 8.00e-06 gacaccaccct[ag]caagtgtt
+20 111 F 20 380 -1 8.00e-06 acaccaccct[ag]caagtgttc
+20 197 F 20 380 -1 8.00e-06 ac[ca]ccaccctgcaagtgttc
+20 324 F 20 379 -1 8.00e-06 aacaccacc[gc]tgcaagtgtt
+20 325 F 20 443 -1 8.00e-06 acaccacc[gc]tgcaagtgttt
+20 380 F 20 603 -1 8.00e-06 acaccaccctgcaa[gc]tgttc
+20 380 F 20 661 -1 8.00e-06 acaccacc[cg]tgcaagtgttc
+19 111 F 19 269 -1 3.04e-05 acaccaccct[ag]caagtgtt
+19 197 F 19 443 -1 3.04e-05 ac[ca]ccaccctgcaagtgtt
+19 197 F 19 269 -1 3.04e-05 ac[ca]ccaccctgcaagtgtt
+19 269 F 19 603 -1 3.04e-05 acaccaccctgcaa[gc]tgtt
+19 269 F 19 661 -1 3.04e-05 acaccacc[cg]tgcaagtgtt
+19 443 F 19 603 -1 3.04e-05 acaccaccctgcaa[gc]tgtt
+19 443 F 19 661 -1 3.04e-05 acaccacc[cg]tgcaagtgtt
+16 136 F 16 200  0 3.41e-05 ccaccctgcaagtgtt
+18 112 F 18 134 -1 1.15e-04 caccaccct[ag]caagtgtt
+18 134 F 18 604 -1 1.15e-04 caccaccctgcaa[gc]tgtt
+18 134 F 18 662 -1 1.15e-04 caccacc[cg]tgcaagtgtt
+17 114 F 17 200 -1 4.35e-04 ccaccct[ag]caagtgttc
+17 194 F 17 600 -1 4.35e-04 cacac[ca]ccaccctgcaa
+17 200 F 17 606 -1 4.35e-04 ccaccctgcaa[gc]tgttc
+17 200 F 17 664 -1 4.35e-04 ccacc[cg]tgcaagtgttc
+16 200 F 16 328 -1 1.64e-03 ccacc[cg]tgcaagtgtt
+13  64 F 13 377  0 2.18e-03 ggaacaccaccct
+13 142 F 13 334  0 2.18e-03 tgcaagtgtttcc
+12 107 C 12 481  0 8.74e-03 tccgacaccacc
+12 205 F 12 513  0 8.74e-03 ctgcaagtgttc
+12 388 F 12 513  0 8.74e-03 ctgcaagtgttc
+12 514 F 12 670  0 8.74e-03 tgcaagtgttct
+14 111 F 14 603 -1 2.29e-02 acaccaccct[ag]caa
+14 119 F 14 513 -1 2.29e-02 ct[ag]caagtgttcta
+14 325 F 14 603 -1 2.29e-02 acaccacc[gc]tgcaa
+11  66 F 11 268  0 3.50e-02 aacaccaccct
+11 141 F 11 513  0 3.50e-02 ctgcaagtgtt
+11 181 R 11 181  0 3.50e-02 gtggacaggtg
+11 206 F 11 670  0 3.50e-02 tgcaagtgttc
+11 277 F 11 513  0 3.50e-02 ctgcaagtgtt
+11 278 F 11 334  0 3.50e-02 tgcaagtgttt
+11 334 F 11 452  0 3.50e-02 tgcaagtgttt

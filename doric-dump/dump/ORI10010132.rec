@@ -1,0 +1,75 @@
+AccId: ORI10010132
+Organism: Haloquadratum walsbyi DSM 16790
+RefSeq: NC_008212
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Haloquadratum.
+ChromSize: 3132494 nt
+ChromGC: 0.4786
+OriCLen: 823 nt
+OriCAT: 0.5614
+OriCIdx: 2259896..2260718 nt
+Cdc6Idx: 723..2426, 890964..892148, 2252574..2253122, 2253141..2253530, 2258609..2259895, 2604114..2604851, 2605109..2606137, 3064066..3065190 nt
+Extremes: 2771052 nt (minimum), 1674 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:ATTCACACTGAGGGGGGGTATTCACACTGAGGTGTG'CCCACCCCACTGGTTCCGCTGTTA''ACCCCACTGGTTCCGCTGTTA''TAACAGCGGAAGTGGTGGGGTGGG'
+Sequence: tcacataaaggtaaccgaccctcgatgtgataggtcaatccctattcacgtcttaatacgattgagagtacaattccgtatgtatatgaattctagaaattgaaggatcccattcacactgagggggggtcaaatcaggaaccccattcacactgaggtgtgctggatggcgattaacaaaacagagcttttagtttagagaatatcattgatattcgatcttatgaagtacattgttggtggcgagcagtcgggcgattttttgtatttctctacggcacctgagcttcccagaacgggagtgagacagcgtgaaagaaccgatctaccgaatttactcagttcggagagtcatcaccaacaatctgcttcacaagagcgttgatattagtctcggaacttctcaccgaggagatttcgctcggcgggatcgccgtcatgtgcgaacgagacgaattcgttcgaaataatatctgtgacaaccgggagtttgagcttctggaaaacaagcccaccccactggttccgctgttagcagattgaaatgggcgtacaactagacagaaactgtatcctgattattactgacgatagtaatgatgtagtcggaataatctgtcctaacatgagttcagtacttccaacataccccactggttccgctgttactgaaaaataattaatcagccaatagaatcaaccgagtatatctgacaactgagcagttacaaacgatagtgtaattaacagcggaagtggtggggtgggtatgttccacgattagacagcaaagacatctgatatgtcggttcggtttatatgc
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+21 513 F 21 647  0 4.33e-08 accccactggttccgctgtta
+16 108 F 16 142  0 4.44e-05 cccattcacactgagg
+17 200 P 17 200 -1 5.66e-04 gaatatca[ta]tgatattc
+11 523 P 11 744  0 4.54e-02 ttccgctgtta
+11 657 P 11 744  0 4.54e-02 ttccgctgtta
+10 232 P 10 355  0 1.82e-01 attgttggtg
+10 451 P 10 451  0 1.82e-01 acgaattcgt
+10 510 P 10 758  0 1.82e-01 cccaccccac
+10 591 R 10 591  0 1.82e-01 tagtaatgat
+10 757 R 10 757  0 1.82e-01 ggtggggtgg
+12   7 R 12 684 -1 4.09e-01 aag[ga]taaccgac
+9  24 R  9 733  0 7.27e-01 atgtgatag
+9  65 R  9 621  0 7.27e-01 gagtacaat
+9 361 P  9 533  0 7.27e-01 caatctgct
+9 486 R  9 486  0 7.27e-01 gagtttgag
+9 511 C  9 757  0 7.27e-01 ccaccccac
+9 597 R  9 597  0 7.27e-01 tgatgtagt
+9 611 C  9 779  0 7.27e-01 taatctgtc
+9 642 P  9 765  0 7.27e-01 aacataccc
+11 185 R 11 208 -1 1.50e+00 agctt[ta]tagtt
+8   2 C  8 263  0 2.91e+00 acataaag
+8  11 R  8 684  0 2.91e+00 taaccgac
+8  90 P  8  90  0 2.91e+00 ttctagaa
+8 132 P  8 572  0 2.91e+00 aatcagga
+8 176 R  8 176  0 2.91e+00 acaaaaca
+8 208 F  8 381  0 2.91e+00 ttgatatt
+8 223 R  8 223  0 2.91e+00 atgaagta
+8 282 F  8 491  0 2.91e+00 tgagcttc
+8 385 R  8 574  0 2.91e+00 tattagtc
+8 512 R  8 512  0 2.91e+00 caccccac
+8 560 R  8 788  0 2.91e+00 acagaaac
+8 587 F  8 731  0 2.91e+00 acgatagt
+8 676 R  8 676  0 2.91e+00 taattaat
+10  39 F 10 141 -1 5.45e+00 ccc[tc]attcac
+10  78 R 10  81 -1 5.45e+00 ta[ta]gtatatg
+10 117 R 10 122 -1 5.45e+00 actg[ag]ggggg
+10 140 R 10 643 -1 5.45e+00 accccat[ta]ca
+10 161 C 10 321 -1 5.45e+00 gct[ga]gatggc
+10 172 R 10 672 -1 5.45e+00 attaa[ct]aaaa
+10 219 P 10 368 -1 5.45e+00 tctt[ag]tgaag
+10 230 C 10 474 -1 5.45e+00 aca[tc]tgttgg
+10 300 R 10 305 -1 5.45e+00 agtg[ac]gacag
+10 340 P 10 391 -1 5.45e+00 agttc[gc]gaga
+10 375 C 10 391 -1 5.45e+00 agagc[gc]ttga
+10 386 P 10 447 -1 5.45e+00 att[ac]gtctcg
+10 461 F 10 605 -1 5.45e+00 tcg[ag]aataat
+10 557 F 10 781 -1 5.45e+00 tagacag[ac]aa
+7  12 P  7 804  0 1.16e+01 aaccgac
+7  37 R  7  37  0 1.16e+01 atcccta
+7  57 R  7 530  0 1.16e+01 acgattg

@@ -1,0 +1,75 @@
+AccId: ORI10010180
+Organism: Haloarcula hispanica ATCC 33960 chromosome II
+RefSeq: NC_015943
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Haloarcula.
+ChromSize: 488918 nt
+ChromGC: 0.5701
+OriCLen: 863 nt
+OriCAT: 0.5319
+OriCIdx: 488056..488918 nt
+Cdc6Idx: 1..1209, 7893..8102, 27090..27293, 108513..109421, 150759..152105, 383352..384539 nt
+Extremes: 487395 nt (minimum), 105460 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CCCCCCGGTTTTCACGAGAGTCCCACCCCCCACATTTCACGAGAGTACTCATGAAATGTGGGGTGCCCCCGCCCCCCATATTTCATGAGAGTACTCTCGTGAAATCTGGGGGGCGGGGG
+Sequence: cgtgtggagccgccggctgcgagggctgcacaaaacgaacattgtgggcaatagctcaatcgcctacatgatgtattagaacaaacaagatgcctgagttcggttagataaacagatctctcatgtggtacagggtgtgtgacctgaataatttcagctgcgatgttatctttgatctgtctcttttcaggaaagtctccagatgagatttccaacgcaaacacgctacgcaggcggcgtagttcaactttgatagtgtcttgctgtatcggccgtagagaagtgggaccccccggttttcacgagagttaatatcggccagtgaaccggcattttgttgcccaccccccacatttcacgagagtttaagaatagcagctcctaactcatgaaatgtggggtgtagttgagcagagcaagtcatcaattgtgtagtaactcagagaaagcacggagtctagacagtgagtggagagggattgatggtctctcagggaatcaaatacagagcagcgcgaccgtagactcctatggatataacctactagcgatggatattgtttgttgacgacgataactgaccatgagaagttgaggtctcctttctgccttgctgaatagaagagacaggtagatatctcccccgccccccatatttcatgagagttgctataggggagggaagaaataatgtctgacgcttcttgctgagtttccactagagaattaaactgaacctaacgtattacggatgctgttttgacccacttatattaaatcttcttctcattcagagtttcattttgccctctcttcccctcctctccaacgatactctcgtgaaatctggggggcgggggttg
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+21 344 P 21 833 -1 3.00e-06 cccccca[cg]atttcacgagagt
+20 640 P 20 840 -1 1.14e-05 cccccgcccccca[tg]atttca
+15  76 R 15  76  0 1.95e-04 tagaacaaacaagat
+16 346 P 16 385 -1 2.34e-03 ccccacatttca[ct]gag
+16 385 P 16 648 -1 2.34e-03 ctcatgaaat[ga]tgggg
+13 297 F 13 353  0 3.12e-03 tttcacgagagtt
+13 352 P 13 833  0 3.12e-03 atttcacgagagt
+12 297 P 12 833  0 1.25e-02 tttcacgagagt
+12 393 R 12 393  0 1.25e-02 atgtggggtgta
+14 344 F 14 646 -1 3.28e-02 cccccca[ct]atttca
+14 352 F 14 654 -1 3.28e-02 atttca[ct]gagagtt
+11 640 R 11 640  0 4.99e-02 cccccgccccc
+11 640 C 11 849  0 4.99e-02 cccccgccccc
+11 849 R 11 849  0 4.99e-02 gggggcggggg
+13 297 F 13 655 -1 1.22e-01 tttca[ct]gagagtt
+13 654 P 13 833 -1 1.22e-01 atttca[tc]gagagt
+13 807 R 13 814 -1 1.22e-01 cctctc[tc]tcccct
+10 342 R 10 342  0 2.00e-01 caccccccac
+12  76 C 12 554 -1 4.49e-01 ta[gt]aacaaacaa
+12  79 P 12 554 -1 4.49e-01 aacaaacaa[gt]at
+12 389 F 12 840 -1 4.49e-01 tgaaat[gc]tgggg
+9 176 P  9 621  0 7.99e-01 ctgtctctt
+9 286 C  9 846  0 7.99e-01 gaccccccg
+9 370 R  9 568  0 7.99e-01 aatagcagc
+9 510 R  9 510  0 7.99e-01 cagcgcgac
+9 557 R  9 557  0 7.99e-01 ttgtttgtt
+9 778 R  9 778  0 7.99e-01 tcttcttct
+11   7 P 11   7 -1 1.65e+00 agccg[cg]cggct
+11  10 P 11 228 -1 1.65e+00 cgccg[gc]ctgcg
+11  64 P 11  64 -1 1.65e+00 tacat[gc]atgta
+11  67 R 11 426 -1 1.65e+00 atgatgt[ag]tta
+11  83 P 11 328 -1 1.65e+00 aacaa[ga]atgcc
+11 112 C 11 455 -1 1.65e+00 cagatct[cg]tca
+11 173 C 11 457 -1 1.65e+00 gatctgtc[ta]ct
+11 304 P 11 770 -1 1.65e+00 aga[gt]ttaatat
+11 340 F 11 642 -1 1.65e+00 ccc[ag]cccccca
+11 340 P 11 847 -1 1.65e+00 ccc[ag]cccccca
+11 343 C 11 394 -1 1.65e+00 ac[ca]ccccacat
+11 629 P 11 632 -1 1.65e+00 gg[tg]agatatct
+8  43 P  8 337  0 3.20e+00 gtgggcaa
+8 111 R  8 456  0 3.20e+00 acagatct
+8 117 P  8 658  0 3.20e+00 ctctcatg
+8 178 C  8 440  0 3.20e+00 gtctcttt
+8 242 R  8 242  0 3.20e+00 ttcaactt
+8 258 F  8 702  0 3.20e+00 tcttgctg
+8 266 F  8 312  0 3.20e+00 tatcggcc
+8 287 R  8 645  0 3.20e+00 accccccg
+8 452 P  8 521  0 3.20e+00 ggagtcta
+8 455 P  8 455  0 3.20e+00 gtctagac
+8 469 P  8 820  0 3.20e+00 tggagagg

@@ -1,0 +1,75 @@
+AccId: ORI10010191
+Organism: Methanolobus psychrophilus R15 chromosome
+RefSeq: NC_018876
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Methanomicrobia, Methanosarcinales, Methanosarcinaceae, Methanolobus.
+ChromSize: 3072769 nt
+ChromGC: 0.4461
+OriCLen: 443 nt
+OriCAT: 0.6727
+OriCIdx: 1698569..1699011 nt
+Cdc6Idx: 1697333..1698568 nt
+Extremes: 1716386 nt (minimum), 162027 nt (maximum)
+Note: 
+Sequence: ttttgcgtcaccctaatattatcaataataaacacagtattatttcacagtagtatttttcaggaacaaggtgctataataatagtttctcatccgtttccttttttgttccaaaggatacataggaagggtaggttattaatggttatggttaagacccccctgtttcaactggagcaatggaaagaataaaaatggaccaaaaaaagcatgttaagaggcgctaaattttttccgggaacaatgattgatcagtgattgataaacatcagtgtttcatatggagttaaacccctttgtttcaagtggagcttttataaaggagagagaccccatgatttcaaatggaaacctaaaaaaagatgcaaacaactttttaaacattctaaaaaaacctggcagtgtaagtatgaacttgttagtatatataattttctttttgt
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+15 113 R 15 113  0 5.14e-05 aaggatacataggaa
+15 163 F 15 297 -1 2.31e-03 tgtttcaa[cg]tggagc
+13  32 F 13  45 -1 3.21e-02 cacagta[tg]tattt
+12  13 C 12  75 -1 1.18e-01 ta[at]tattatcaa
+12 101 P 12 195 -1 1.18e-01 ttttttg[tg]tcca
+12 196 R 12 387 -1 1.18e-01 gg[at]ccaaaaaaa
+9  62 R  9  62  0 2.11e-01 ggaacaagg
+9  75 R  9  75  0 2.11e-01 ataataata
+9 294 R  9 294  0 2.11e-01 ctttgtttc
+9 352 F  9 385  0 2.11e-01 ctaaaaaaa
+9 405 R  9 405  0 2.11e-01 aagtatgaa
+9 431 R  9 431  0 2.11e-01 ttttctttt
+11 165 F 11 338 -1 4.34e-01 tttcaa[ca]tgga
+11 241 F 11 252 -1 4.34e-01 ca[ag]tgattgat
+11 243 R 11 413 -1 4.34e-01 atgattg[at]tca
+11 274 F 11 338 -1 4.34e-01 tttca[ta]atgga
+11 299 F 11 338 -1 4.34e-01 tttcaa[ga]tgga
+11 418 R 11 422 -1 4.34e-01 tta[ga]tatatat
+8  13 P  8  13  0 8.42e-01 taatatta
+8  18 P  8 257  0 8.42e-01 ttatcaat
+8  23 R  8  23  0 8.42e-01 aataataa
+8  24 C  8  37  0 8.42e-01 ataataaa
+8  54 R  8 371  0 8.42e-01 atttttca
+8  64 C  8 105  0 8.42e-01 aacaaggt
+8  96 R  8  96  0 8.42e-01 tttccttt
+8  99 R  8 228  0 8.42e-01 cctttttt
+8 109 R  8 346  0 8.42e-01 tccaaagg
+8 178 F  8 343  0 8.42e-01 aatggaaa
+8 201 F  8 354  0 8.42e-01 aaaaaaag
+8 225 R  8 373  0 8.42e-01 aaattttt
+8 313 P  8 313  0 8.42e-01 tttataaa
+8 422 P  8 422  0 8.42e-01 tatatata
+10  12 P 10  75 -1 1.58e+00 cta[at]tattat
+10  13 R 10  73 -1 1.58e+00 taata[ta]tatc
+10  17 C 10 139 -1 1.58e+00 atta[tc]caata
+10  61 R 10 237 -1 1.58e+00 ag[gt]aacaagg
+10  94 C 10 176 -1 1.58e+00 cgtt[ta]ccttt
+10  95 P 10 342 -1 1.58e+00 gtttcc[ta]ttt
+10  96 F 10 431 -1 1.58e+00 ttt[ct]cttttt
+10 104 F 10 295 -1 1.58e+00 tttgtt[ct]caa
+10 111 C 10 273 -1 1.58e+00 caaag[gt]atac
+10 198 R 10 201 -1 1.58e+00 ac[cg]aaaaaaa
+10 198 F 10 350 -1 1.58e+00 acc[at]aaaaaa
+10 225 R 10 311 -1 1.58e+00 aaat[ta]ttttc
+10 238 C 10 414 -1 1.58e+00 gaacaat[gc]at
+10 250 F 10 267 -1 1.58e+00 atcagtg[at]tt
+10 368 R 10 373 -1 1.58e+00 acaa[ca]ttttt
+10 384 R 10 387 -1 1.58e+00 tc[tc]aaaaaaa
+7  15 C  7  74  0 3.37e+00 atattat
+7  22 C  7 134  0 3.37e+00 caataat

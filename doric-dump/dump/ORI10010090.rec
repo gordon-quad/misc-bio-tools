@@ -1,0 +1,76 @@
+AccId: ORI10010090
+Organism: Methanobrevibacter ruminantium M1
+RefSeq: NC_013790
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Methanobacteria, Methanobacteriales, Methanobacteriaceae, Methanobrevibacter.
+ChromSize: 2937203 nt
+ChromGC: 0.3264
+OriCLen: 1513 nt
+OriCAT: 0.8103
+OriCIdx: 2935691..2937203 nt
+Cdc6Idx: 1..1167, 407788..408615, 603216..604334, 2809226..2810446 nt
+Extremes: 2927950 nt (minimum), 1487381 nt (maximum)
+Note: Note that the sequence is homologous to the origin of replication experimentally verified for M. thermautotrophicus
+Sequence: atatctttatatttttttatattcatttttttttttatttttatttttatttattttattattagcttttttttaattttgattattatctaatctatatatcgattttatatattattttatatttacattattttattaatctattattttattattaaatttatttgtttattttatttctgtttttaatatttgtttcaaatgttttttcattgattaattttgatgaaattcaaggatcttatgtttaatttgatgatattttttattgattttagtattacttttcatgtttcattcatcctggaaaaatagtgaaattttggcaattttttgtaaattttttggtgaaaattggtgatttttagagtgagagaggtatgtttccagtgaaacgcaaacgaaggtcttgaaaagttagacaggtctatttccactgtaactttttgaaattgacctctctataatttttgaaaaattttgataaaaaaccttttaaaaatgctttatttaacgatttaagctcgtaaaaatgtttattaaatttcgttaaatttttttgtttaagttttacacttgaaataaatcccttcattttcgtttcttgcatatttttatttcacttgaaacgcacctctctctcagaaaattcttttaatctataattttttggttcaaattttcatatttatcattgttttttaattttgatggtcaaattcatttattttttatttatttatgttattttttattattttttaaaaatatcatatttattttcgatttatatattttctgacttaaaaaagttttaatttttaaaaagacatcaatttcgactgtaaaattattttaaaaaatattttattaaagttttacacttgaaatggtactctctcttatttgttttgtttaataagaacgttcttatgttataaaacaataataaactttaaatatttcaagaaataaattatagaaatacagttgaaattttactattgtagatgaaaatttttacataatttttattacttttagatcatgaaaagtaaatggaattttttggcacatttcttatgactttcatgacttcatatgaaaattaatttactaattttttataattacaattttaatattttaattgaattgcattgctagcatcaaatttaattaaaatataaatttagttgaatctatattagattttagttcattcttgggaaaaatataaatgttctgatttctggatttgttctggattttagtttgttctgagatttgttctaaattaagatctatttagatttgtttttactttgataatttatcaattaataaagaattacataagtttttataagttcattaaaaaaaactttatgataatttatgattctttatggtattttttggtactttttggtactttttggtactttttggtactttatgataactttatgattataactatactttttaagctatgtgagatgaaact
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+39 1412 F 39 1422 -1 2.49e-16
+tggta[tc]tttttggtactttttggtactttttggtacttt
+33 1418 F 33 1428  0 8.73e-15 tttttggtactttttggtactttttggtacttt
+29 1412 F 29 1432 -1 1.94e-10 tggta[tc]tttttggtactttttggtacttt
+23 1418 F 23 1438  0 9.15e-09 tttttggtactttttggtacttt
+24   28 R 24   33 -1 1.65e-07 tttt[ta]tttatttttatttttattt
+21   25 F 21   31 -1 9.22e-06 ttttt[ta]tttttatttttattt
+21   27 R 21   31 -1 9.22e-06 ttt[ta]tttttatttttattttt
+21  565 F 21  873 -1 9.22e-06 tt[ta]aagttttacacttgaaat
+18  749 R 18  749  0 9.37e-06 attttttattatttttta
+20  721 R 20  725 -1 3.51e-05 att[ct]atttattttttattta
+17    6 R 17    6  0 3.75e-05 ttatatttttttatatt
+19 1412 F 19 1442 -1 1.34e-04 tggta[tc]tttttggtacttt
+16  921 P 16  921  0 1.50e-04 ataagaacgttcttat
+18   24 R 18   31 -1 5.06e-04 attttt[ta]tttttattttt
+15   31 F 15   37  0 6.00e-04 tttttatttttattt
+15   68 F 15  700  0 6.00e-04 ttttttaattttgat
+15  162 R 15  162  0 6.00e-04 tttatttgtttattt
+17    5 R 17  110 -1 1.91e-03 tttatatttt[ta]ttatat
+17  157 F 17  552 -1 1.91e-03 ttaaattt[at]tttgttta
+14   50 F 14  146  0 2.40e-03 ttattttattatta
+14  144 R 14  144  0 2.40e-03 tattattttattat
+14  907 R 14  907  0 2.40e-03 atttgttttgttta
+16    7 F 16  110 -1 7.20e-03 tatatt[ta]ttttatatt
+16   21 R 16   24 -1 7.20e-03 tt[ct]attttttttttta
+16   24 F 16   36 -1 7.20e-03 attttt[ta]tttttattt
+16  262 F 16  728 -1 7.20e-03 tattttttatt[gt]attt
+16  809 R 16  815 -1 7.20e-03 aaaaa[gt]ttttaatttt
+16  850 R 16  862 -1 7.20e-03 aaattatttta[at]aaaa
+16 1144 P 16 1175 -1 7.20e-03 atattttaatt[ga]aatt
+16 1418 F 16 1448 -1 7.20e-03 tttttggtacttt[ta]tg
+13   39 R 13   39  0 9.59e-03 tttatttttattt
+13   43 F 13  731  0 9.59e-03 tttttatttattt
+13   44 R 13   44  0 9.59e-03 ttttatttatttt
+13   69 R 13  813  0 9.59e-03 tttttaattttga
+13  117 C 13 1234  0 9.59e-03 ttttatatttaca
+13  701 R 13  813  0 9.59e-03 tttttaattttga
+15   20 F 15  721 -1 2.70e-02 attcattt[ta]tttttt
+15   27 F 15  750 -1 2.70e-02 tttttt[ta]ttattttt
+15   27 R 15  751 -1 2.70e-02 tttttt[ta]ttattttt
+15   43 F 15  265 -1 2.70e-02 tttttatt[tg]atttta
+15   45 F 15  737 -1 2.70e-02 tttatttat[tg]ttatt
+15   45 F 15  166 -1 2.70e-02 ttt[ag]tttattttatt
+15  114 R 15  724 -1 2.70e-02 ttatttt[at]tatttac
+15  116 C 15 1183 -1 2.70e-02 attttatattta[ca]at
+15  138 F 15  657 -1 2.70e-02 ttaatctat[ta]atttt
+15  198 R 15  332 -1 2.70e-02 ttt[ct]aaatgtttttt
+15  258 F 15  744 -1 2.70e-02 atg[at]tattttttatt
+15  468 P 15  468 -1 2.70e-02 aattttt[gc]aaaaatt
+15  470 C 15  489 -1 2.70e-02 tttttg[ag]aaaatttt
+15  741 F 15 1408 -1 2.70e-02 tttatg[tg]tatttttt

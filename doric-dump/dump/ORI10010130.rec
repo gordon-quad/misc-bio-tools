@@ -1,0 +1,75 @@
+AccId: ORI10010130
+Organism: Haloquadratum walsbyi DSM 16790
+RefSeq: NC_008212
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Haloquadratum.
+ChromSize: 3132494 nt
+ChromGC: 0.4786
+OriCLen: 947 nt
+OriCAT: 0.5882
+OriCIdx: 3132270..722 nt
+Cdc6Idx: 723..2426, 890964..892148, 2252574..2253122, 2253141..2253530, 2258609..2259895, 2604114..2604851, 2605109..2606137, 3064066..3065190 nt
+Extremes: 2771052 nt (minimum), 1674 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CCCCCCACCCCTCTGTTTCAGGTGGAGAGTTCCAGTTGAAACAAAGGGGTTGGGGGG
+Sequence: cctgtcctcccacgcctcttgagtggtaccaactgtcccgaagtggcgtatggcggtatcacgttgttgtggtcacttaaaaccgcgtcagacatcaacatagaatatgacatccaagaattccccgctcaaaattatatctagcatctggcatcttaggtctagccttgatgaatatagtggatagcactattgcacttgttttcacgggtaattgatattaacaaatcggtttcgattgataatatccgtttgatactcggttatgccgtgtgccccccacccctctgtttcaggtggagatgctaagaagtgtgtgcggttactcactagtcgagatattgtgacaatcttctaactctttatacttaattacaacataatatacgatgtacataactactaagttgcagtacgggtattgttatatagtatattatataaagctttgctcattaatactgtatataatcgaacacccacccccttgtgattacagttccagttgaaacaaaggggttggggggtattgtatttgatacagcgaacagaaaatgccactatcattcctaagtgatgatcccgctgaccgggtggatggatacatcatatcgattatctgagtatcttaagaatctgtcagaccaaacttgcgttcaataggtaggtgtatcattgtgacatattcactcgactctcgactctcgactatgttggtttgttgcatcttatacctcacagggatgttagtatggtcgtaactacaagagatagatttttgtatcgtgcactcatcgatttccattgcatcaattgtatatcggtctaattgatcaaagcaatatattgaccgtttcaatacctaaacccgcctcatttggacgctgtcattggaatttccacctgaaatcaaggggatgtagacgggtggacgggggaattaccaa
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+14 689 F 14 696  0 9.40e-04 ctcgactctcgact
+13 647 R 13 647  0 3.76e-03 aacttgcgttcaa
+12 347 R 12 347  0 1.50e-02 caatcttctaac
+14  95 C 14 720 -1 3.95e-02 caac[ag]tagaatatg
+14 281 P 14 506 -1 3.95e-02 acccct[ct]tgtttca
+14 290 P 14 895 -1 3.95e-02 tttcaggtgga[ga]at
+11  48 R 11  48  0 6.01e-02 tatggcggtat
+11 593 R 11 659  0 6.01e-02 gtggatggata
+10 432 R 10 432  0 2.41e-01 tatattatat
+10 515 R 10 515  0 2.41e-01 ggggttgggg
+10 839 P 10 839  0 2.41e-01 caatatattg
+12 275 P 12 514 -1 5.41e-01 ccccc[ca]acccct
+12 379 P 12 428 -1 5.41e-01 ataatatac[gt]at
+12 424 P 12 432 -1 5.41e-01 ttatata[ga]tata
+12 426 C 12 432 -1 5.41e-01 atata[ga]tatatt
+12 456 C 12 674 -1 5.41e-01 taa[tc]actgtata
+9 100 C  9 725  0 9.62e-01 tagaatatg
+9 268 R  9 268  0 9.62e-01 ccgtgtgcc
+9 276 R  9 478  0 9.62e-01 cccccaccc
+9 277 R  9 277  0 9.62e-01 ccccacccc
+9 330 P  9 702  0 9.62e-01 tagtcgaga
+9 340 F  9 674  0 9.62e-01 attgtgaca
+9 416 F  9 524  0 9.62e-01 gggtattgt
+9 419 R  9 419  0 9.62e-01 tattgttat
+9 507 R  9 507  0 9.62e-01 gaaacaaag
+11   8 F 11 278 -1 1.98e+00 cccac[gc]cctct
+11  92 C 11 663 -1 1.98e+00 catc[ac]acatag
+11 112 R 11 627 -1 1.98e+00 tc[ct]aagaattc
+11 138 F 11 145 -1 1.98e+00 atct[ag]gcatct
+11 211 R 11 362 -1 1.98e+00 taatt[gc]atatt
+11 216 P 11 238 -1 1.98e+00 gatatta[at]caa
+11 275 P 11 516 -1 1.98e+00 cccccca[ca]ccc
+11 340 P 11 340 -1 1.98e+00 attgt[gc]acaat
+11 425 C 11 601 -1 1.98e+00 tat[ag]tagtata
+11 426 R 11 432 -1 1.98e+00 atata[gt]tatat
+11 426 P 11 426 -1 1.98e+00 atata[gc]tatat
+11 432 P 11 432 -1 1.98e+00 tatat[ta]atata
+11 435 P 11 461 -1 1.98e+00 attatata[ac]ag
+11 478 P 11 513 -1 1.98e+00 ccca[ca]cccctt
+11 590 F 11 924 -1 1.98e+00 cgggtgga[tc]gg
+11 891 P 11 891 -1 1.98e+00 tggaa[ta]ttcca
+8  23 P  8  23  0 3.85e+00 tggtacca
+8  60 R  8 718  0 3.85e+00 acgttgtt
+8  95 P  8 708  0 3.85e+00 caacatag
+8  98 C  8 623  0 3.85e+00 catagaat
+8 105 C  8 458  0 3.85e+00 tatgacat
+8 118 P  8 934  0 3.85e+00 aattcccc
+8 141 P  8 300  0 3.85e+00 tagcatct
+8 150 F  8 723  0 3.85e+00 gcatctta
+8 211 F  8 826  0 3.85e+00 taattgat

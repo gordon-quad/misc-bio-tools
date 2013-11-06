@@ -1,0 +1,75 @@
+AccId: ORI10010121
+Organism: Pyrococcus sp. ST04
+RefSeq: NC_017946
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Thermococci, Thermococcales, Thermococcaceae, Pyrococcus.
+ChromSize: 1736885 nt
+ChromGC: 0.4229
+OriCLen: 858 nt
+OriCAT: 0.6795
+OriCIdx: 227904..228761 nt
+Cdc6Idx: 228762..230021 nt
+Extremes: 174601 nt (minimum), 1087482 nt (maximum)
+Note: Note that two ORB sequences (gttccagtggaaatgaaactctgggggg and gttccagtggaaatgaaactctggggg) were discovered in the oriC by MEME.
+Sequence: ttctttcttcaccttttgagtaataattgagcgtctcgctattattataagtatttgagcatttctatctttatcgaaaaacccccagagtttcatttccactggaactccacgagagaggtatcccacaaaatttttgacgatacaaaatatgtaaagaatatgacagcgtcatgtttacaattgtaaagtaaacaatgttcatataatgtacatttttgtacaccaactttgtatgttttttcagtaaaaaattttagacatttataagctgttcatagataaatatttaaataggaagtcgatctaataggggagagtgtttgtttcacaagagaaaataaaaattttctatggtgtttgccgccgagttccagtggaaatgaaactctggggggtttcacttctgtttaattttacatgatatgtaaaccaaatcttttaacaaaattggacatatttgctcaaaaatggatttattttgttggacaaatatgtccaattggactccactggaaatcgggaactcctttacatttggaaatcaactaaagtgaacagattagttcattcgagtagtttttcttatgaaatgatttcaaatgagattatactcaattatatatttgacatgtgaatgtttaagcaaagcataaaaactctcagtgagatatcaacgttgctttccactggttcgtgtggttcgtgtggaaagacttaaatatatatgtcatatgggggatttgagtataacttaatgtcatatttaatggtgtctatttaacaatatgtgttccatttccactggaaacacaggtcatgtaattaaaaagcataatttccactggagggacatca
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+33  77 P 33 368 -1 2.78e-13 aaa[ac]cccccagagtttcatttccactggaactc
+29  81 P 29 368  0 7.18e-13 cccccagagtttcatttccactggaactc
+18  89 F 18 792 -1 1.63e-04 gtt[tc]catttccactggaa
+18 371 P 18 792 -1 1.63e-04 ttccagtggaaatg[ag]aac
+15 448 P 15 489  0 1.93e-04 aattggacatatttg
+14  93 F 14 796  0 7.71e-04 catttccactggaa
+14 176 P 14 176  0 7.71e-04 tttacaattgtaaa
+14 540 R 14 540  0 7.71e-04 gaaatcaactaaag
+13  60 R 13  60  0 3.09e-03 atttctatcttta
+15 366 P 15 508 -1 8.68e-03 ccga[gt]ttccagtgga
+12  94 F 12 837  0 1.23e-02 atttccactgga
+12 372 P 12 837  0 1.23e-02 tccagtggaaat
+12 496 P 12 496  0 1.23e-02 gtccaattggac
+12 690 F 12 699  0 1.23e-02 tggttcgtgtgg
+12 797 F 12 837  0 1.23e-02 atttccactgga
+11 230 R 11 230  0 4.94e-02 tttgtatgttt
+11 508 F 11 800  0 4.94e-02 tccactggaaa
+13  97 F 13 508 -1 1.20e-01 tccactggaa[ca]tc
+13 507 P 13 837 -1 1.20e-01 ctcca[cg]tggaaat
+13 588 P 13 588 -1 1.20e-01 tgaaat[gc]atttca
+13 798 P 13 798 -1 1.20e-01 tttcca[cg]tggaaa
+10  95 F 10 683  0 1.97e-01 tttccactgg
+10 207 P 10 207  0 1.97e-01 aatgtacatt
+10 282 P 10 282  0 1.97e-01 taaatattta
+10 286 P 10 286  0 1.97e-01 tatttaaata
+10 371 P 10 508  0 1.97e-01 ttccagtgga
+10 373 P 10 683  0 1.97e-01 ccagtggaaa
+10 428 R 10 428  0 1.97e-01 taaaccaaat
+10 608 P 10 743  0 1.97e-01 ttatactcaa
+10 683 F 10 798  0 1.97e-01 tttccactgg
+10 683 F 10 838  0 1.97e-01 tttccactgg
+12  94 P 12 508 -1 4.44e-01 atttcca[cg]tgga
+12  95 P 12 799 -1 4.44e-01 tttcca[cg]tggaa
+12 129 F 12 250 -1 4.44e-01 aaaatttt[ta]gac
+12 129 P 12 246 -1 4.44e-01 aaaattttt[gt]ac
+12 146 C 12 254 -1 4.44e-01 aaaat[ac]tgtaaa
+12 281 P 12 717 -1 4.44e-01 ata[at]atatttaa
+12 342 R 12 436 -1 4.44e-01 aa[ac]aattttcta
+12 371 F 12 799 -1 4.44e-01 ttcca[gc]tggaaa
+12 372 F 12 508 -1 4.44e-01 tcca[gc]tggaaat
+12 387 R 12 391 -1 4.44e-01 act[ct]tggggggt
+12 422 C 12 529 -1 4.44e-01 ga[ta]atgtaaacc
+12 508 P 12 797 -1 4.44e-01 tcca[cg]tggaaat
+9   0 R  9   0  0 7.90e-01 ttctttctt
+9  22 P  9 613  0 7.90e-01 ataattgag
+9  39 R  9  39  0 7.90e-01 tattattat
+9 129 P  9 342  0 7.90e-01 aaaattttt
+9 149 F  9 423  0 7.90e-01 atatgtaaa
+9 159 P  9 758  0 7.90e-01 aatatgaca
+9 210 R  9 414  0 7.90e-01 gtacatttt

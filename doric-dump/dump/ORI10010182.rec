@@ -1,0 +1,75 @@
+AccId: ORI10010182
+Organism: Haloarcula hispanica ATCC 33960 chromosome I
+RefSeq: NC_015948
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Haloarcula.
+ChromSize: 2995271 nt
+ChromGC: 0.6369
+OriCLen: 94 nt
+OriCAT: 0.4681
+OriCIdx: 1601994..1602087 nt
+Cdc6Idx: 1..1575, 126862..127989, 1199761..1200936, 1600776..1601993, 1801058..1802386, 2714606..2715658 nt
+Extremes: 2093261 nt (minimum), 14 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:TTTCACTCGTTACGTGGTGTGTGGGT
+Sequence: cgatgtttcactcgttacgtggtgtgtgggtcggcttcgatattaaaccgcagaggggagccaaagcgcagttccgtttccgctagagttcatg
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+9 20 R 9 20  0 9.48e-03 ggtgtgtgg
+8 52 R 8 52  0 3.79e-02 gaggggag
+9 30 C 9 58 -1 2.56e-01 tcgg[ct]ttcg
+9 44 F 9 62 -1 2.56e-01 aaa[cg]cgcag
+6 18 R 6 18  0 6.07e-01 gtggtg
+6 30 R 6 30  0 6.07e-01 tcggct
+6 33 R 6 33  0 6.07e-01 gcttcg
+6 44 R 6 59  0 6.07e-01 aaaccg
+8 58 C 8 72 -1 9.10e-01 ag[cg]caaag
+7  0 F 7 37 -1 3.19e+00 cgat[ga]tt
+7  4 C 7 61 -1 3.19e+00 gtttc[ag]c
+7 12 P 7 12 -1 3.19e+00 cgt[ta]acg
+7 13 F 7 70 -1 3.19e+00 gtt[ac]cgt
+7 21 F 7 23 -1 3.19e+00 gtgtg[tg]g
+7 21 R 7 23 -1 3.19e+00 g[tg]gtgtg
+7 30 R 7 77 -1 3.19e+00 tcg[gc]ctt
+7 49 C 7 74 -1 3.19e+00 gca[ga]agg
+7 71 F 7 77 -1 3.19e+00 ttccg[tc]t
+6  0 C 6 81 -1 1.09e+01 cgat[gc]t
+6  3 F 6 74 -1 1.09e+01 [tc]gtttc
+6  4 P 6 42 -1 1.09e+01 gttt[ca]a
+6  6 R 6  7 -1 1.09e+01 [tc]tcact
+6  8 C 6 55 -1 1.09e+01 c[ac]ctcg
+6 11 F 6 36 -1 1.09e+01 tcg[ta]ta
+6 12 F 6 74 -1 1.09e+01 cgtt[at]c
+6 13 C 6 61 -1 1.09e+01 gtt[at]cg
+6 15 R 6 87 -1 1.09e+01 tac[gt]tg
+6 19 C 6 46 -1 1.09e+01 tgg[tc]gt
+6 20 R 6 21 -1 1.09e+01 [gt]gtgtg
+6 21 F 6 25 -1 1.09e+01 gtg[tg]gt
+6 22 R 6 25 -1 1.09e+01 tg[tg]gtg
+6 25 R 6 26 -1 1.09e+01 [gc]tgggt
+6 26 P 6 57 -1 1.09e+01 tgg[gc]tc
+6 30 F 6 78 -1 1.09e+01 tc[gc]gct
+6 30 P 6 58 -1 1.09e+01 t[ct]ggct
+6 31 P 6 44 -1 1.09e+01 cgg[ct]tt
+6 32 C 6 47 -1 1.09e+01 ggc[tg]tc
+6 33 P 6 61 -1 1.09e+01 gctt[ct]g
+6 37 C 6 81 -1 1.09e+01 cgat[ac]t
+6 39 R 6 41 -1 1.09e+01 a[ta]atta
+6 44 P 6 73 -1 1.09e+01 aaac[cg]g
+6 45 P 6 67 -1 1.09e+01 aac[ct]gc
+6 48 F 6 66 -1 1.09e+01 cgcag[at]
+6 53 C 6 78 -1 1.09e+01 agg[gc]ga
+6 53 P 6 78 -1 1.09e+01 ag[gc]gga
+6 59 R 6 62 -1 1.09e+01 gc[cg]aaa
+6 61 C 6 70 -1 1.09e+01 caa[ag]gc
+6 62 C 6 77 -1 1.09e+01 aa[ag]gcg
+6 64 P 6 78 -1 1.09e+01 agcg[cg]a
+6 68 F 6 85 -1 1.09e+01 [cg]agttc

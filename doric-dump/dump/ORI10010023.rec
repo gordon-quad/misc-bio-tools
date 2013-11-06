@@ -1,0 +1,75 @@
+AccId: ORI10010023
+Organism: Sulfolobus acidocaldarius DSM 639
+RefSeq: NC_007181
+Topology: Circular
+Lineage: Archaea, Crenarchaeota, Thermoprotei, Sulfolobales, Sulfolobaceae, Sulfolobus.
+ChromSize: 2225959 nt
+ChromGC: 0.3671
+OriCLen: 193 nt
+OriCAT: 0.7254
+OriCIdx: 1197335..1197527 nt
+Cdc6Idx: 101..1261, 578164..579357, 724282..725529 nt
+Extremes: 1251540 nt (minimum), 271120 nt (maximum)
+Note: Note that the homologous sequence has been confirmed as oriC region using in silico and in vitro studies for the closely-related Sulfolobus solfataricus P2.
+Sequence: actttccaccacaataggattaattttatgcaaacagtaaaatagattactactacaactactaaaagtattttggtggatggtataaaaactatttccagagtttgtataaagtttgaagcttattagcataaaataacgttgtttaaacttgagttgtagtagaagatattatgataggaaaatgagtgtt
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+11  49 P 11 154  0 2.50e-03 ctactacaact
+12   4 P 12  68 -1 2.25e-02 tccacca[ca]aata
+12  22 P 12 125 -1 2.25e-02 attttatgc[at]aa
+9 111 R  9 111  0 4.00e-02 aagtttgaa
+11  23 R 11  63 -1 8.24e-02 ttttatg[ca]aaa
+11  24 P 11 102 -1 8.24e-02 tttat[ga]caaac
+8 130 R  8 130  0 1.60e-01 ataaaata
+8 143 P  8 143  0 1.60e-01 gtttaaac
+8 162 R  8 162  0 1.60e-01 tagaagat
+10  12 R 10 124 -1 3.00e-01 aata[gc]gatta
+10  34 R 10 130 -1 3.00e-01 ca[ga]taaaata
+10  48 F 10  57 -1 3.00e-01 actacta[ca]aa
+10  63 F 10  87 -1 3.00e-01 aaaa[gc]tattt
+10  83 P 10 101 -1 3.00e-01 tata[ac]aaact
+10 133 P 10 137 -1 3.00e-01 aaa[tc]aacgtt
+7  22 C  7  37  0 6.39e-01 attttat
+7  22 C  7 131  0 6.39e-01 attttat
+7  35 R  7 181  0 6.39e-01 agtaaaa
+7  37 F  7 131  0 6.39e-01 taaaata
+7  67 C  7 129  0 6.39e-01 gtatttt
+7  82 F  7 106  0 6.39e-01 gtataaa
+7 151 R  7 151  0 6.39e-01 ttgagtt
+9  13 R  9 170 -1 1.08e+00 atag[gt]atta
+9  39 P  9  88 -1 1.08e+00 aaatag[at]tt
+9  47 F  9  50 -1 1.08e+00 tactac[ta]ac
+9  47 F  9  53 -1 1.08e+00 tac[ta]actac
+9  47 P  9 155 -1 1.08e+00 tactac[ta]ac
+9  58 P  9 156 -1 1.08e+00 ctacta[ac]aa
+9  62 R  9 177 -1 1.08e+00 taaaag[tg]at
+9  77 R  9 172 -1 1.08e+00 ggat[ga]gtat
+9 104 F  9 141 -1 1.08e+00 ttgt[at]taaa
+9 111 C  9 144 -1 1.08e+00 aa[ga]tttgaa
+9 111 P  9 144 -1 1.08e+00 aagttt[ga]aa
+6   2 F  6  94  0 2.56e+00 tttcca
+6   6 R  6   6  0 2.56e+00 caccac
+6  13 F  6 176  0 2.56e+00 atagga
+6  14 R  6  14  0 2.56e+00 taggat
+6  18 P  6  18  0 2.56e+00 attaat
+6  19 R  6  19  0 2.56e+00 ttaatt
+6  22 R  6  22  0 2.56e+00 atttta
+6  22 P  6  37  0 2.56e+00 atttta
+6  23 P  6  84  0 2.56e+00 ttttat
+6  30 C  6 102  0 2.56e+00 caaaca
+6  37 R  6  37  0 2.56e+00 taaaat
+6  38 R  6  84  0 2.56e+00 aaaata
+6  38 P  6  68  0 2.56e+00 aaaata
+6  66 R  6 171  0 2.56e+00 agtatt
+6  68 C  6  84  0 2.56e+00 tatttt
+6  68 P  6 132  0 2.56e+00 tatttt
+6  79 R  6  79  0 2.56e+00 atggta

@@ -1,0 +1,77 @@
+AccId: ORI10010017
+Organism: Methanosarcina acetivorans C2A
+RefSeq: NC_003552
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Methanomicrobia, Methanosarcinales, Methanosarcinaceae, Methanosarcina.
+ChromSize: 5751492 nt
+ChromGC: 0.4268
+OriCLen: 1829 nt
+OriCAT: 0.696
+OriCIdx: 1529..3357 nt
+Cdc6Idx: 266..1528, 105273..106394 nt
+Extremes: 5648941 nt (minimum), 901515 nt (maximum)
+Note: 
+Sequence: aaaagttataaaataacggattgagcggatttatatggacaattaatatgtacgcctaatacacagacagcatgtgcaaagttaatagcaaatcaaataaatttaacaagcttgaacgcgtttttctttttttaatcttaatttttcaaccttaatttttagttttgtttttcaaccttaatttccagtttcgcttttcaaccttgttttgcaattccttttttggcccttaatttttttagttttaaaccctgatttacagtccaaattattacattaagtttaactgcttgaaagccctgcctaaaaaaatcatattattaattttccatttgtacgataatcgagaaagttgtaaatgcgaaatccagattttgaaagagttttttgaagatattttaaaccattttcattatttcgaagttagtatttcgtaaattcagaacattgcagactgaatattttagactgaatattttagactgaatattttagactgaatattttagattgaatatttgagactgaacatattcaggtataatattacccagacatggaaaagatatatgggaaggtgtaattgttaattttcaaagtgtctttcactcttgattctcgataattctggaaacctagtttgttatttcgtattattttgataagtcaaaccttattatgagagctccacgaaggaagatacatagataaatgcatgtttcttaaagataatgcctgaaatttttgttccaaacagattgggggcaagttgaagagctggttgcgcactttatggtatctcttaagctctgataaaatctgtattcggaatgttctttagctaaaattttcaataataattgtatataagcacatgatttcagggcatatttgcagtagatgcaatggaagtacacggtattaatagttatggtgaggacccctttgtttccactggaatagtattttaccttaaatatcccttgaagaaatcgagatcatcaaaatcagttttaaaaaaataaaacattagaatttccagcaccttttgagatcagtcttaaatcccctttttctaatggaagaaaataggagcattttagaccccttcacttccattaaactgcaaaaaatatttataatcagataatatagataaacaaagaaatgactttactgaaacgaaagtggatgtgttaaaaataataacagttttgatgtgagagagatcattgataacaatacaattactaaaaaaatacagctagtttgactggaaataaagaatagacatcaaaagtaactatattcgtggagtgtaaatacataaaaaattggctctgtgtatacattaacttataaattttatgttaactgcatatttttcaaagtcctattgtttttctaaagattttttttagacctgttagtttggttccggaactgttaatctatatttgtctacctttgtctaccatattatctacagtactatcgtactatccttcgtactatctgctgcaattttacttatctaccattaccgtctacagtactaccatccatcatcccgtaatatctactacaatttcattggtcatcggttaaggaattttcttgcctgaaggatatcgattttgcaccaaaagtcgccttaaattttgtcctttttacatgaaatcgatacccagttccaactctcaatgggatacagtttttgagaactgttacgaaaatggaggcaatttatcatgattcctcacttaaccgaagacgcatgactacaattttaatactcaccattttaatcattttatactctatactca
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+55  451 F 55  465 -1 1.20e-25
+agactgaatattttagactgaatattttagactgaatattttaga[ct]tgaatattt
+41  451 F 41  479 -1 2.39e-17
+agactgaatattttagactgaatattttaga[ct]tgaatattt
+27  451 F 27  493 -1 4.23e-09 agactgaatattttaga[ct]tgaatattt
+17  141 F 17  167  0 5.48e-05 tttttcaaccttaattt
+18  455 F 18  511 -1 7.39e-04 tgaatattt[tg]agactgaa
+18  469 F 18  511 -1 7.39e-04 tgaatattt[tg]agactgaa
+18  483 F 18  511 -1 7.39e-04 tgaatattt[tg]agactgaa
+14 1408 R 14 1408  0 3.50e-03 agattttttttaga
+15  829 C 15 1670 -1 3.94e-02 aatgt[ta]ctttagcta
+12  304 R 12 1248  0 5.61e-02 taaaaaaatcat
+12 1482 F 12 1546  0 5.61e-02 tctacagtacta
+14   34 P 14  318 -1 1.47e-01 atgga[ca]aattaata
+14  121 P 14 1013 -1 1.47e-01 tttt[ca]tttttttaa
+14  127 C 14 1023 -1 1.47e-01 tttt[tg]taatcttaa
+14  231 C 14 1013 -1 1.47e-01 aattttttta[gt]ttt
+14 1148 P 14 1444 -1 1.47e-01 aatatagat[at]aaca
+14 1164 C 14 1171 -1 1.47e-01 gaaatgacttt[ag]ct
+11  120 R 11  120  0 2.24e-01 tttttcttttt
+11  142 F 11  194  0 2.24e-01 ttttcaacctt
+11  149 F 11  227  0 2.24e-01 ccttaattttt
+11  155 F 11  235  0 2.24e-01 tttttagtttt
+11  168 F 11  194  0 2.24e-01 ttttcaacctt
+11  199 R 11  742  0 2.24e-01 aaccttgtttt
+11  232 C 11  304  0 2.24e-01 atttttttagt
+11  232 P 11 1249  0 2.24e-01 atttttttagt
+11  303 R 11  303  0 2.24e-01 ctaaaaaaatc
+11  509 C 11 1352  0 2.24e-01 attgaatattt
+11  580 R 11  580  0 2.24e-01 taattgttaat
+11  697 R 11  697  0 2.24e-01 agatacataga
+11  942 R 11  942  0 2.24e-01 cctttgtttcc
+11 1106 R 11 1106  0 2.24e-01 ccttcacttcc
+11 1131 R 11 1131  0 2.24e-01 aatatttataa
+11 1320 R 11 1320  0 2.24e-01 aaatacataaa
+13  133 F 13  147 -1 5.47e-01 aa[tc]cttaattttt
+13  176 P 13 1272 -1 5.47e-01 ctt[at]atttccagt
+13  316 F 13  582 -1 5.47e-01 att[ag]ttaattttc
+13  451 F 13  507 -1 5.47e-01 aga[ct]tgaatattt
+13  456 C 13  809 -1 5.47e-01 ga[ac]tattttagac
+13  470 C 13  809 -1 5.47e-01 ga[ac]tattttagac
+13  484 C 13  809 -1 5.47e-01 ga[ac]tattttagac
+13  497 F 13  511 -1 5.47e-01 tgaatattt[tg]aga
+13  587 F 13 1379 -1 5.47e-01 ta[at]ttttcaaagt
+13 1246 C 13 1405 -1 5.47e-01 att[at]ctaaaaaaa
+13 1502 R 13 1747 -1 5.47e-01 tcctt[ca]gtactat
+13 1532 R 13 1537 -1 5.47e-01 atct[ag]ccattacc
+13 1596 P 13 1762 -1 5.47e-01 gtc[at]tcggttaag
+10  126 R 10  230  0 8.97e-01 tttttttaat
+10  136 F 10  228  0 8.97e-01 cttaattttt
+10  232 P 10  303  0 8.97e-01 atttttttag
+10  303 F 10 1250  0 8.97e-01 ctaaaaaaat

@@ -1,0 +1,75 @@
+AccId: ORI10010148
+Organism: Halorhabdus utahensis DSM 12940 chromosome
+RefSeq: NC_013158
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Halorhabdus.
+ChromSize: 3116795 nt
+ChromGC: 0.629
+OriCLen: 711 nt
+OriCAT: 0.4965
+OriCIdx: 1054233..1054943 nt
+Cdc6Idx: 1025792..1026919, 1053027..1054232, 1593546..1595321, 1735301..1736320, 1894137..1895147 nt
+Extremes: 1535967 nt (minimum), 2951687 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:ACACACACCAAGTAACGAGTGAAAGCGCTTTCACTCGGTGTGAGGTGTGT
+Sequence: caatattggacaatacaaagtcattatattttaatctatcgacctcgtaccgagtgtatacacagataagacgaatactccataaatcaaagagcatcaaatccatttatattcaatatttgttggtacacacaccaagtaacgagtgaaagcacaggaaaactcactcagagacagagtaaaatatcgctgccgacgccaccgacgctggaccggttcgagacacagtgcttcactcggtgcgaggtgtgggagtaccgctccagccataccgacgctgcaggctttcactcggtgtgaggtgtgtctcaccgcgccggctcttcctcaatcatcacgggagttcgacgactggcttcccgacccttcgcgtaatgtccactggtcacacgaaggtaatctcagggccttcctcagtaactcgaccgaggatgtcgttgcagtatttggcttctcgccgagagagtgatttactcagtctgtaacttggatctgttcgtccgaatttccatgtgttgatatttgtatcatcgtgacttgtgctggatcaccagtcacctcggcatactcttgtggcgagatccggaagacagtatctcgctgacgggcttcacgagcgagggcctggaaccgtgcaccgcctcgccggccgcaactgataagaactgacgaatcaatgaatacgacgtctcgattgggggccattccgat
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+20 231 F 20 286 -1 7.76e-06 ttcactcggtg[ct]gaggtgtg
+13 263 R 13 263  0 2.12e-03 cagccataccgac
+15  41 P 15 233 -1 5.96e-03 acctcg[tc]accgagtg
+11 142 P 11 283  0 3.39e-02 cgagtgaaagc
+10  53 P 10  53  0 1.36e-01 gtgtatacac
+10 200 F 10 270  0 1.36e-01 accgacgctg
+10 379 R 10 379  0 1.36e-01 cactggtcac
+10 643 R 10 643  0 1.36e-01 cgccggccgc
+12  25 P 12 175 -1 3.05e-01 atatttta[ac]tct
+12 171 P 12 469 -1 3.05e-01 agac[at]gagtaaa
+12 216 R 12 221 -1 3.05e-01 ttcg[at]gacacag
+9 161 R  9 161  0 5.42e-01 actcactca
+9 170 R  9 170  0 5.42e-01 gagacagag
+11  36 R 11 259 -1 1.12e+00 ta[tc]cgacctcg
+11 108 P 11 108 -1 1.12e+00 atatt[cg]aatat
+11 206 P 11 256 -1 1.12e+00 gctgga[cg]cggt
+11 288 R 11 301 -1 1.12e+00 cactc[gt]gtgtg
+11 452 P 11 452 -1 1.12e+00 tctcg[cg]cgaga
+8   0 P  8   0  0 2.17e+00 caatattg
+8  23 R  8 105  0 2.17e+00 ttatattt
+8  48 P  8 288  0 2.17e+00 accgagtg
+8  48 P  8 233  0 2.17e+00 accgagtg
+8 115 F  8 518  0 2.17e+00 atatttgt
+8 124 C  8 508  0 2.17e+00 ggtacaca
+8 142 P  8 231  0 2.17e+00 cgagtgaa
+8 219 P  8 302  0 2.17e+00 gagacaca
+8 243 F  8 298  0 2.17e+00 gaggtgtg
+8 279 C  8 497  0 2.17e+00 gcaggctt
+8 322 F  8 408  0 2.17e+00 cttcctca
+10   6 P 10 371 -1 4.07e+00 tggaca[at]tac
+10  46 F 10 138 -1 4.07e+00 gta[ca]cgagtg
+10  61 F 10 654 -1 4.07e+00 ac[at]gataaga
+10 130 P 10 289 -1 4.07e+00 cacacc[ag]agt
+10 135 P 10 530 -1 4.07e+00 caagt[ac]acga
+10 146 R 10 387 -1 4.07e+00 tg[ag]aagcaca
+10 170 F 10 219 -1 4.07e+00 gagaca[gc]agt
+10 255 R 10 556 -1 4.07e+00 tac[cg]gctcca
+10 256 C 10 573 -1 4.07e+00 accgctc[ct]ag
+10 264 R 10 700 -1 4.07e+00 agcc[at]taccg
+10 265 F 10 700 -1 4.07e+00 gccat[at]ccga
+10 311 F 10 640 -1 4.07e+00 cc[gt]cgccggc
+10 349 F 10 602 -1 4.07e+00 gac[tg]ggcttc
+10 350 P 10 584 -1 4.07e+00 actg[gt]cttcc
+10 352 F 10 447 -1 4.07e+00 tggcttc[ct]cg
+10 353 F 10 606 -1 4.07e+00 ggcttc[ca]cga
+10 414 F 10 590 -1 4.07e+00 cagta[at]ctcg
+10 431 R 10 435 -1 4.07e+00 atg[ta]cgttgc
+10 532 P 10 548 -1 4.07e+00 gtgact[tg]gtg
+10 535 C 10 677 -1 4.07e+00 actt[ga]tgctg
+7   0 F  7 113  0 8.68e+00 caatatt

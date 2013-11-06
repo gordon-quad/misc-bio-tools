@@ -1,0 +1,75 @@
+AccId: ORI10010123
+Organism: Haloarcula marismortui ATCC 43049 chromosome I
+RefSeq: NC_006396
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Haloarcula.
+ChromSize: 3131724 nt
+ChromGC: 0.6236
+OriCLen: 828 nt
+OriCAT: 0.4505
+OriCIdx: 1127861..1128688 nt
+Cdc6Idx: 482379..483554, 937406..938680, 1128689..1130017, 1401414..1402625, 1402965..1403417, 2124334..2125386, 2414031..2415605, 2542392..2543519 nt
+Extremes: 1455544 nt (minimum), 2413272 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:ACACCACCCTTCGAGTGTTACACCACCCTACAAGTGTTACACCACCATACAAGTGTTCACACACCACCCTGCAAGTGTTCACACCACCGTGCAAGTGTTACACCACCCTGCAAGTGTTCACACCACCCTGCAAGTGTTACACACCGGTCTGCAAGTGTTACACACACCACCCTGCAACTGTTCACACACACACCACCGTGCAAGTGTT
+Sequence: cggagagagtagcggtcactgtcgattgattgcgtcgcaaacggcgtgtttttcgcgggaacaccacccttcgagtgttctttggaggagcgtggctggccagctatcactccagcggctgttcacgactggacagcctgtacagcccggatataccaaccagacagggattacgctactgtacgaagtccatgcgagtgatactgagtcggtacaccaccctacaagtgttctgacatcaccagacagttgacccgacaccaccatacaagtgttctatcaccaccctgcgagtgtttccagttcgactacagccagaccagaatggtgaacacgtgttcacacaccaccctgcaagtgttcgcacggaaggtgtgcaagcgtctgaatctacgaaaacaccacgctgcaagtgtttttgtggcgttgttccgagttccgattcgcccttgcacaccaccgtgcaagtgtttcacgtactgcttgaggtgtgtgagagtatgctgagacaccaccctgcaagtgttccaaaaggccgttttgggcggttttcccgtcggatcgggttcacaccaccctgcaagtgttttcgaaacggaatacgtagggtcgtggtggaaccggacggacacaccggtctgcaagtgttctacacactgcagcggggaacagataccagataaccgcctgtttgcaccccctttcactgtctactgtggggacacacaccaccctgcaactgttctggacgccacaatagttagaccgccgctgaacacacacacaccaccgtgcaagtgttctgccgtgtgagccgacggggggtgg
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+20 342 F 20 568  0 1.75e-07 cacaccaccctgcaagtgtt
+20 343 F 20 508  0 1.75e-07 acaccaccctgcaagtgttc
+20 452 F 20 782  0 1.75e-07 cacaccaccgtgcaagtgtt
+23 340 F 23 722 -1 1.89e-07 cacacaccaccctgcaa[gc]tgttc
+23 340 F 23 780 -1 1.89e-07 cacacaccacc[cg]tgcaagtgttc
+19 508 F 19 569  0 7.01e-07 acaccaccctgcaagtgtt
+21 213 F 21 257 -1 2.76e-06 acaccacc[ca]tacaagtgttct
+21 398 F 21 569 -1 2.76e-06 acaccac[gc]ctgcaagtgtttt
+21 452 F 21 568 -1 2.76e-06 cacaccacc[gc]tgcaagtgttt
+20 213 F 20 343 -1 1.05e-05 acaccaccct[ag]caagtgttc
+20 213 F 20 508 -1 1.05e-05 acaccaccct[ag]caagtgttc
+20 342 F 20 452 -1 1.05e-05 cacaccacc[cg]tgcaagtgtt
+20 508 F 20 725 -1 1.05e-05 acaccaccctgcaa[gc]tgttc
+20 508 F 20 783 -1 1.05e-05 acaccacc[cg]tgcaagtgttc
+20 568 F 20 724 -1 1.05e-05 cacaccaccctgcaa[gc]tgtt
+20 568 F 20 782 -1 1.05e-05 cacaccacc[cg]tgcaagtgtt
+19 213 F 19 569 -1 4.00e-05 acaccaccct[ag]caagtgtt
+19 280 F 19 570 -1 4.00e-05 caccaccctgc[ga]agtgttt
+19 343 F 19 398 -1 4.00e-05 acaccac[cg]ctgcaagtgtt
+19 398 F 19 508 -1 4.00e-05 acaccac[gc]ctgcaagtgtt
+19 453 F 19 508 -1 4.00e-05 acaccacc[gc]tgcaagtgtt
+16 327 P 16 327  0 4.49e-05 gtgaacacgtgttcac
+18  61 F 18 280 -1 1.52e-04 caccaccct[tg]cgagtgtt
+18 280 F 18 509 -1 1.52e-04 caccaccctgc[ga]agtgtt
+18 280 F 18 344 -1 1.52e-04 caccaccctgc[ga]agtgtt
+18 721 F 18 779 -1 1.52e-04 acacacaccacc[cg]tgcaa
+13 406 F 13 577  0 2.87e-03 ctgcaagtgtttt
+15 452 F 15 724 -1 8.08e-03 cacaccacc[gc]tgcaa
+12 222 F 12 266  0 1.15e-02 tacaagtgttct
+12 351 F 12 638  0 1.15e-02 ctgcaagtgttc
+12 516 F 12 638  0 1.15e-02 ctgcaagtgttc
+12 639 F 12 792  0 1.15e-02 tgcaagtgttct
+14 213 F 14 725 -1 3.02e-02 acaccaccct[ag]caa
+14 398 F 14 725 -1 3.02e-02 acaccac[gc]ctgcaa
+11 224 F 11 794  0 4.60e-02 caagtgttctg
+11 268 F 11 641  0 4.60e-02 caagtgttcta
+11 280 F 11 726  0 4.60e-02 caccaccctgc
+11 351 F 11 406  0 4.60e-02 ctgcaagtgtt
+11 352 F 11 792  0 4.60e-02 tgcaagtgttc
+11 406 F 11 516  0 4.60e-02 ctgcaagtgtt
+11 406 F 11 638  0 4.60e-02 ctgcaagtgtt
+11 407 F 11 462  0 4.60e-02 tgcaagtgttt
+11 412 R 11 412  0 4.60e-02 gtgtttttgtg
+11 462 F 11 578  0 4.60e-02 tgcaagtgttt
+11 517 F 11 792  0 4.60e-02 tgcaagtgttc
+11 577 F 11 638  0 4.60e-02 ctgcaagtgtt
+11 775 R 11 775  0 4.60e-02 acacacacaca
+11 776 R 11 776  0 4.60e-02 cacacacacac
+13  57 F 13 210 -1 1.12e-01 gg[at]acaccaccct
+13 221 F 13 638 -1 1.12e-01 ct[ag]caagtgttct

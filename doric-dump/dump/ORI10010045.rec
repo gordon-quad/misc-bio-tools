@@ -1,0 +1,75 @@
+AccId: ORI10010045
+Organism: Methanobrevibacter smithii ATCC 35061
+RefSeq: NC_009515
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Methanobacteria, Methanobacteriales, Methanobacteriaceae, Methanobrevibacter.
+ChromSize: 1853160 nt
+ChromGC: 0.3103
+OriCLen: 939 nt
+OriCAT: 0.8413
+OriCIdx: 1269631..1270569 nt
+Cdc6Idx: 647777..648895, 1268479..1269630, 1697221..1698444 nt
+Extremes: 1257456 nt (minimum), 1 nt (maximum)
+Note: Note that the sequence is homologous to the origin of replication experimentally verified for M. thermautotrophicus
+Sequence: atgttcaccattttaaaaagtaataaaaaaataatcttaaaaacatgaaaaaatcataagtattatttccagtgataatatatgaaaacagtgttaaataaaggtttgtattacaaaattgtattgaaataataaattttattataaaataaaaaataaaaacatttaaataaattaaaattaactaaaaaatgtttaaaataatttaatctataaaaaacaaataattaatagattaaataaaaattaaagtgaatatgattagttaaaattaaaacatgaaaaataactatttcaaatataaagacatatatttcaagtgaaaaaagagtaataaaaatagaattaatataatcataaaataaatttacaatttttaaattataaaataaaaacagcaaattaaatatttttaaaaaataagaagtttaaaacaattttttataaaataaattattttaaaaattttttaaaaaaataaaaacaataaaaataaagctaaaacaatttttatttcaaaattaaagaagataaatttcaattgtaataatttcagttaaatataatatttatctgagcatttgaaaaataaaacatatatttcaagtgaaaaaaaatctgaaaaaggatttaataaaaaaatttataatgatttatcataaaaagtgagagataaatttcaagtgtaatgcaatttttagcgggaagcaaaaatcaagacattgatttcaagtgaaaaaaaattttaaaatgaattaaaaaagttatttcagtaaaaaaagaatggaaaatgttttattttaaatttaaaccaagaaaaattaagataaatttcaagtgtttttacagatgaaatacatgtcttcattcctacagaaccttcgcagagctttcacttgaaattcatgtctgtctgtctgtctaaaatttataaaaaaa
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+22 306 F 22 593  0 1.41e-08 acatatatttcaagtgaaaaaa
+23 185 P 23 449 -1 2.43e-07 taaaaaat[gt]tttaaaataattta
+19 599 F 19 725  0 9.02e-07 atttcaagtgaaaaaaaat
+20 528 F 20 670 -1 1.35e-05 agataaatttcaa[tg]tgtaat
+17 670 F 17 824  0 1.44e-05 agataaatttcaagtgt
+19 456 P 19 456 -1 5.14e-05 ttttaaaaa[ta]tttttaaaa
+16 145 R 16 145  0 5.77e-05 aaaataaaaaataaaa
+16 312 F 16 725  0 5.77e-05 atttcaagtgaaaaaa
+16 460 R 16 460  0 5.77e-05 aaaaattttttaaaaa
+18 527 F 18 823 -1 1.95e-04 aagataaatttcaa[tg]tgt
+15  20 R 15  20  0 2.31e-04 taataaaaaaataat
+15 140 F 15 380  0 2.31e-04 attataaaataaaaa
+15 906 R 15 906  0 2.31e-04 tgtctgtctgtctgt
+15 908 R 15 908  0 2.31e-04 tctgtctgtctgtct
+17 128 P 17 128 -1 7.36e-04 ataataaa[ta]tttattat
+17 160 R 17 356 -1 7.36e-04 aacatttaaataaa[ta]ta
+17 167 R 17 172 -1 7.36e-04 aaat[ac]aattaaaattaa
+17 444 P 17 444 -1 7.36e-04 taaaataa[at]ttatttta
+14 150 F 14 472  0 9.24e-04 aaaaaataaaaaca
+14 194 P 14 449  0 9.24e-04 tttaaaataattta
+16 137 F 16 437 -1 2.77e-03 ttt[at]ttataaaataaa
+16 151 R 16 468 -1 2.77e-03 aaaaataaaaa[ca]attt
+16 186 R 16 922 -1 2.77e-03 aaaaaat[ga]tttaaaat
+16 405 C 16 456 -1 2.77e-03 aa[ta]atttttaaaaaat
+16 455 C 16 922 -1 2.77e-03 attttaaa[at]atttttt
+16 455 P 16 736 -1 2.77e-03 attttaaaa[at]tttttt
+13  39 F 13 273  0 3.70e-03 aaaacatgaaaaa
+13 312 P 13 890  0 3.70e-03 atttcaagtgaaa
+13 429 F 13 499  0 3.70e-03 taaaacaattttt
+13 456 R 13 456  0 3.70e-03 ttttaaaaatttt
+13 468 R 13 632  0 3.70e-03 tttaaaaaaataa
+13 599 P 13 890  0 3.70e-03 atttcaagtgaaa
+13 725 P 13 890  0 3.70e-03 atttcaagtgaaa
+13 906 F 13 910  0 3.70e-03 tgtctgtctgtct
+15  14 F 15 325 -1 1.04e-02 aaa[ag]agtaataaaaa
+15 135 P 15 135 -1 1.04e-02 attttat[ta]ataaaat
+15 149 F 15 382 -1 1.04e-02 ta[at]aaaataaaaaca
+15 204 C 15 399 -1 1.04e-02 tttaat[ct]tataaaaa
+15 303 P 15 850 -1 1.04e-02 aagacat[ag]tatttca
+15 399 R 15 438 -1 1.04e-02 aaat[ta]aaatattttt
+15 406 P 15 464 -1 1.04e-02 at[at]tttttaaaaaat
+15 407 P 15 407 -1 1.04e-02 tattttt[at]aaaaata
+15 416 R 15 579 -1 1.04e-02 aaaataa[ga]aagttta
+15 429 R 15 464 -1 1.04e-02 taaaa[ca]aatttttta
+15 440 R 15 556 -1 1.04e-02 tttataa[at]ataaatt
+15 456 C 15 461 -1 1.04e-02 ttttaaaaa[ta]ttttt
+15 456 C 15 462 -1 1.04e-02 ttt[ta]aaaaatttttt
+15 464 P 15 464 -1 1.04e-02 atttttt[at]aaaaaat
+15 557 P 15 557 -1 1.04e-02 taaatat[at]atattta
+12  20 F 12 631  0 1.48e-02 taataaaaaaat

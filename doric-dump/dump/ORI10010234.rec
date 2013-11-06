@@ -1,0 +1,75 @@
+AccId: ORI10010234
+Organism: Natrinema pellirubrum DSM 15624
+RefSeq: NC_019962
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Natrinema.
+ChromSize: 3790479 nt
+ChromGC: 0.6493
+OriCLen: 796 nt
+OriCAT: 0.4435
+OriCIdx: 2230331..2231126 nt
+Cdc6Idx: 1143..2903, 148340..149470, 1016338..1017537, 1228582..1229787, 1690221..1691573, 1831036..1832253, 1916185..1917468, 2229104..2230330, 2809050..2810336 nt
+Extremes: 3344540 nt (minimum), 261803 nt (maximum)
+Note: 
+Sequence: tgcagtggccggccttttcaactcgactgaaataaagctgtggagatcgatcgcggatgtaaacacgtcgggtaagcgactcgagcgcccgttttcgactacctgaccgtccgtccagcgatccgccgccctcgcgcttctaacgctaaaaccgatcgattcacacgacgggcacccccatcgcgggtgtaaaaccggcgcgttcgatcacgaaaaccccagtaccgaccgattcagagaactgtgtcgcggtcactgcgtgtggtccgaatccgagactgcagtcgaaaccgcatcgctacagcggtcgaacgttcgaatcgggattcgctcgagggggcacaccccggtcgcgtttgtaacgggaaacgagtggggtggtccgatcagtattgcccgatttgggccgtatgaggcgaactatcgaactgtctttcatccgcgacagaggtgtgttcatgaacagaacccccactcgcaatcacggttacaaacgcgaggggggtgtgtccctctctcactaattccaatccaacccgtacagggcgatactggacgagaacgatccggttgtaccggcacaatcaacggagagtcgacggggccacgacttcgataggacccacagtcacggaaacacactgtcggaacactacgatggggagaccgttctatcggacgaccatgtctctagtctagtagtctctagtctagtagtatttctagactagtatatctaatagcctcagctttgcacgttgaagtaggagcgtgacgtaggcggtggcaaagacgg
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+17 686 F 17 701  0 1.04e-05 gtctctagtctagtagt
+13 350 P 13 486  0 2.66e-03 tcgcgtttgtaac
+12 307 P 12 307  0 1.06e-02 tcgaacgttcga
+12 453 P 12 453  0 1.06e-02 tgttcatgaaca
+14  49 F 14 179 -1 2.79e-02 atcgcgg[ag]tgtaaa
+13 150 F 13 223 -1 1.04e-01 accga[tc]cgattca
+13 172 P 13 494 -1 1.04e-01 caccccc[ac]tcgcg
+10 276 P 10 276  0 1.70e-01 gactgcagtc
+12  50 P 12 433 -1 3.82e-01 tcgcggatg[ta]aa
+12 336 P 12 501 -1 3.82e-01 ggg[ga]cacacccc
+12 689 F 12 721 -1 3.82e-01 tctag[ta]ctagta
+12 704 F 12 721 -1 3.82e-01 tctag[ta]ctagta
+9  28 R  9  28  0 6.80e-01 gaaataaag
+9 261 F  9 377  0 6.80e-01 gtggtccga
+9 282 C  9 745  0 6.80e-01 agtcgaaac
+9 293 R  9 293  0 6.80e-01 catcgctac
+9 369 P  9 469  0 6.80e-01 cgagtgggg
+9 690 P  9 722  0 6.80e-01 ctagtctag
+9 705 P  9 722  0 6.80e-01 ctagtctag
+9 751 R  9 751  0 6.80e-01 ttgcacgtt
+11  44 P 11 198 -1 1.40e+00 gatcga[ta]cgcg
+11  84 P 11 190 -1 1.40e+00 gcgcc[cg]gtttt
+11  89 P 11 282 -1 1.40e+00 cg[tg]tttcgact
+11 125 P 11 494 -1 1.40e+00 cc[gc]ccctcgcg
+11 241 P 11 439 -1 1.40e+00 ct[gc]tgtcgcgg
+11 369 F 11 496 -1 1.40e+00 cgag[tg]ggggtg
+11 376 P 11 673 -1 1.40e+00 ggt[gc]gtccgat
+11 387 P 11 543 -1 1.40e+00 cagtat[tc]gccc
+11 607 R 11 739 -1 1.40e+00 cgact[tc]cgata
+11 714 F 11 728 -1 1.40e+00 tagtat[ta]tcta
+8   6 P  8   6  0 2.72e+00 ggccggcc
+8  38 R  8 446  0 2.72e+00 tgtggaga
+8  44 P  8  44  0 2.72e+00 gatcgatc
+8  45 P  8 152  0 2.72e+00 atcgatcg
+8  79 P  8 328  0 2.72e+00 ctcgagcg
+8  92 R  8 745  0 2.72e+00 tttcgact
+8 122 R  8 122  0 2.72e+00 ccgccgcc
+8 139 R  8 475  0 2.72e+00 ctaacgct
+8 146 F  8 189  0 2.72e+00 taaaaccg
+8 172 R  8 467  0 2.72e+00 caccccca
+8 175 P  8 655  0 2.72e+00 ccccatcg
+8 332 F  8 496  0 2.72e+00 cgaggggg
+8 340 P  8 501  0 2.72e+00 cacacccc
+8 372 R  8 372  0 2.72e+00 gtggggtg
+8 420 P  8 611  0 2.72e+00 ctatcgaa
+10   1 P 10 249 -1 5.10e+00 gcagtg[ga]ccg
+10  33 P 10 743 -1 5.10e+00 aaagctg[ta]gg
+10  42 F 10 557 -1 5.10e+00 gaga[ta]cgatc
+10  62 F 10 162 -1 5.10e+00 acacg[ta]cggg
+10 120 C 10 777 -1 5.10e+00 atccgcc[ga]cc

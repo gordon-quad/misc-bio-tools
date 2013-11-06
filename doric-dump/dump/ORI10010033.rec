@@ -1,0 +1,77 @@
+AccId: ORI10010033
+Organism: Methanosaeta thermophila PT
+RefSeq: NC_008553
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Methanomicrobia, Methanosarcinales, Methanosaetaceae, Methanosaeta.
+ChromSize: 1879471 nt
+ChromGC: 0.5355
+OriCLen: 412 nt
+OriCAT: 0.5218
+OriCIdx: 1553449..1553860 nt
+Cdc6Idx: 1552204..1553448, 1747337..1748458 nt
+Extremes: 1030160 nt (minimum), 152765 nt (maximum)
+Note: 
+Sequence: tgcatccttggcatggatggtattaagagttatggtgatctcccctttatttccagtggaaggggaccaacccctttatttccagtggagattgccatacacaccggcagagaatcgtgagcccgtatttgctcaggctcatgaggccttagagtgatgaactctgtacaaccaccacgtagctggagatcctgtttgaaatcgttcaggctcatgaggccttagagtgatgaactctgtacaaccaccacgtagctggagatcctgtttgaaatcgttcaggctcatgaggccttagagtgatgagccatgtacaaccagcattaatcgcctctacccatatgtaagattgctgatttgccaaatcacagggggaatgccacgaccagttattcaagccagcaattctgga
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+101 132 F 101 205  0 7.43e-57
+tcaggctcatgaggccttagagtgatgaactctgtacaaccaccacgtagctggagatcc
+tgtttgaaatcgttcaggctcatgaggccttagagtgatga
+28 132 F  28 278  0 6.63e-13 tcaggctcatgaggccttagagtgatga
+19  41 F  19  70  0 1.74e-07 cccctttatttccagtgga
+15 353 P  15 353 -1 2.00e-03 tgatttg[cg]caaatca
+11  43 R  11  72  0 1.14e-02 cctttatttcc
+11  43 R  11  43  0 1.14e-02 cctttatttcc
+11  72 R  11  72  0 1.14e-02 cctttatttcc
+13 164 F  13 310 -1 2.77e-02 tgtacaacca[cg]ca
+13 237 F  13 310 -1 2.77e-02 tgtacaacca[cg]ca
+11  17 R  11  25 -1 3.76e-01 tggtatt[ag]aga
+11  50 P  11  50 -1 3.76e-01 ttcca[gc]tggaa
+11  52 R  11  57 -1 3.76e-01 ccag[tg]ggaagg
+8 137 P   8 283  0 7.28e-01 ctcatgag
+8 137 P   8 210  0 7.28e-01 ctcatgag
+8 137 P   8 137  0 7.28e-01 ctcatgag
+8 210 P   8 283  0 7.28e-01 ctcatgag
+8 210 P   8 210  0 7.28e-01 ctcatgag
+8 283 P   8 283  0 7.28e-01 ctcatgag
+10  51 P  10  79 -1 1.37e+00 tcca[gc]tggaa
+10 160 C  10 303 -1 1.37e+00 actc[tg]gtaca
+10 233 C  10 303 -1 1.37e+00 actc[tg]gtaca
+7  36 P   7 257  0 2.91e+00 gatctcc
+7  36 P   7 184  0 2.91e+00 gatctcc
+7  40 P   7  59  0 2.91e+00 tcccctt
+7  64 R   7 314  0 2.91e+00 gaccaac
+7  85 F   7 183  0 2.91e+00 tggagat
+7  85 F   7 256  0 2.91e+00 tggagat
+7  88 F   7 346  0 2.91e+00 agattgc
+7 135 P   7 302  0 2.91e+00 ggctcat
+7 170 R   7 170  0 2.91e+00 accacca
+7 170 R   7 243  0 2.91e+00 accacca
+7 208 P   7 302  0 2.91e+00 ggctcat
+7 243 R   7 243  0 2.91e+00 accacca
+7 281 P   7 302  0 2.91e+00 ggctcat
+7 308 R   7 308  0 2.91e+00 catgtac
+7 316 R   7 381  0 2.91e+00 accagca
+7 334 R   7 334  0 2.91e+00 tacccat
+7 348 P   7 399  0 2.91e+00 attgctg
+7 369 R   7 369  0 2.91e+00 aggggga
+9  25 F   9 150 -1 4.92e+00 agagt[tg]atg
+9  25 F   9 223 -1 4.92e+00 agagt[tg]atg
+9  25 F   9 296 -1 4.92e+00 agagt[tg]atg
+9  37 R   9 327 -1 4.92e+00 atctcc[cg]ct
+9  37 R   9  40 -1 4.92e+00 at[ct]tcccct
+9  37 P   9  83 -1 4.92e+00 atctcc[ca]ct
+9  40 C   9 369 -1 4.92e+00 tcccc[tc]tta
+9  80 P   9  80 -1 4.92e+00 tcca[gc]tgga
+9  83 C   9 327 -1 4.92e+00 ag[tc]ggagat
+9 114 P   9 281 -1 4.92e+00 tc[ga]tgagcc
+9 114 P   9 208 -1 4.92e+00 tc[ga]tgagcc

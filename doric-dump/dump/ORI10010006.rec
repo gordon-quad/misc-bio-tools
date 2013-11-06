@@ -1,0 +1,75 @@
+AccId: ORI10010006
+Organism: Archaeoglobus fulgidus DSM 4304
+RefSeq: NC_000917
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Archaeoglobi, Archaeoglobales, Archaeoglobaceae, Archaeoglobus.
+ChromSize: 2178400 nt
+ChromGC: 0.4858
+OriCLen: 715 nt
+OriCAT: 0.607
+OriCIdx: 1429586..1430300 nt
+Cdc6Idx: 219696..220925, 627965..629095 nt
+Extremes: 1 nt (minimum), 882004 nt (maximum)
+Note: Note that approximate location is known based on marker frequency analysis. Please refer to Maisnier-Patin, S., et al. 2002 (Molecular microbiology, 45, 1443-1450) for more details. Note that two ORB sequences (cttccacaggaaacaaagggt and tttccacaggaaacaaagggg) were found in the oriC.
+Sequence: agttaatcttgactctcaatagtagaaaagagtgatggtccctctaccctagttttggggggaagcgagcgggaaaacttagggaggataaaattaaagaaactctttgtaagccagatgtaaattcaatagcgcatcaataaaggtctcaccaaattccgcaataatgctgaagggaagcagctgaacccatgcgattttagggagatttttactcgaaaccgtcttttttgtgagttctcgggagcaaagaagtggttgcttgaagcctctacaaattgattggctttatttctcgccaattgagtggagagtgaaatcaaatcgtgaaacttgcagattaaatcaaaaaaacatatctccaacccatttccaaaataaacttttttgcgcaaatttttatttctgaaatcctccctaacctatttttccaaacttccacaggaaacaaaggggtggtggcatgcaattctgcagtttcaaaaatgaatgttggtggcctgagtttgaagcttccaaaacaatctcaacgttcgaaaatcgaaaattggttcttacagctgcaaatttaacttttccatctttctgcactcctcttcacaaacaatccattataaagctcctgtccccgaatttgcccttctgtatccttttccacattttccacaggaaacaaagggggtaggcttaagtaatgcatgtgtaatacgagagt
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+20 436 F 20 661  0 1.31e-07 ttccacaggaaacaaagggg
+11  78 P 11 410  0 3.43e-02 ttagggaggat
+11 443 R 11 443  0 3.43e-02 ggaaacaaagg
+11 443 R 11 668  0 3.43e-02 ggaaacaaagg
+11 668 R 11 668  0 3.43e-02 ggaaacaaagg
+10 386 P 10 386  0 1.37e-01 tttgcgcaaa
+12  88 C 12 395 -1 3.09e-01 taaaa[ta]taaaga
+12 616 R 12 621 -1 3.09e-01 aagc[tc]cctgtcc
+9 171 R  9 171  0 5.48e-01 gaagggaag
+9 286 R  9 286  0 5.48e-01 ctttatttc
+9 287 F  9 398  0 5.48e-01 tttatttct
+9 346 R  9 346  0 5.48e-01 caaaaaaac
+9 650 F  9 659  0 5.48e-01 ttttccaca
+11 203 C 11 268 -1 1.13e+00 ggagat[tg]ttta
+11 250 C 11 594 -1 1.13e+00 agaagtg[gt]ttg
+11 370 F 11 513 -1 1.13e+00 ttccaaaa[tc]aa
+11 401 P 11 401 -1 1.13e+00 atttc[ta]gaaat
+11 505 P 11 508 -1 1.13e+00 tt[tg]gaagcttc
+8  23 R  8  23  0 2.19e+00 agaaaaga
+8  38 C  8 201  0 2.19e+00 tccctcta
+8  78 F  8 199  0 2.19e+00 ttagggag
+8  85 C  8 421  0 2.19e+00 ggataaaa
+8  90 R  8  90  0 2.19e+00 aaattaaa
+8 195 R  8 195  0 2.19e+00 gattttag
+8 199 P  8 413  0 2.19e+00 ttagggag
+8 208 C  8 481  0 2.19e+00 tttttact
+8 225 F  8 382  0 2.19e+00 cttttttg
+8 226 C  8 348  0 2.19e+00 ttttttgt
+8 286 R  8 398  0 2.19e+00 ctttattt
+8 316 F  8 342  0 2.19e+00 aaatcaaa
+8 369 F  8 427  0 2.19e+00 tttccaaa
+8 374 C  8 397  0 2.19e+00 aaaataaa
+8 391 F  8 562  0 2.19e+00 gcaaattt
+8 431 C  8 504  0 2.19e+00 caaacttc
+8 454 R  8 454  0 2.19e+00 ggtggtgg
+8 518 F  8 601  0 2.19e+00 aaacaatc
+8 533 F  8 540  0 2.19e+00 tcgaaaat
+8 572 F  8 649  0 2.19e+00 cttttcca
+8 648 R  8 648  0 2.19e+00 ccttttcc
+10  71 P 10 569 -1 4.11e+00 ggaaaa[cg]tta
+10 226 P 10 597 -1 4.11e+00 tt[tg]tttgtga
+10 246 P 10 381 -1 4.11e+00 gcaaa[ga]aagt
+10 262 F 10 506 -1 4.11e+00 ttgaagc[ct]tc
+10 276 F 10 300 -1 4.11e+00 aattga[tg]tgg
+10 284 C 10 372 -1 4.11e+00 gg[ct]tttattt
+10 329 P 10 560 -1 4.11e+00 aaa[ct]ttgcag
+10 342 F 10 537 -1 4.11e+00 aaatc[ag]aaaa
+10 369 F 10 477 -1 4.11e+00 tttc[ca]aaaat
+10 379 R 10 425 -1 4.11e+00 aaac[tc]ttttt
+10 401 P 10 477 -1 4.11e+00 attt[ct]tgaaa

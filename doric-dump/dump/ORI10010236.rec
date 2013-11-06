@@ -1,0 +1,75 @@
+AccId: ORI10010236
+Organism: Natrinema pellirubrum DSM 15624
+RefSeq: NC_019962
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Natrinema.
+ChromSize: 3790479 nt
+ChromGC: 0.6493
+OriCLen: 940 nt
+OriCAT: 0.4287
+OriCIdx: 2810337..2811276 nt
+Cdc6Idx: 1143..2903, 148340..149470, 1016338..1017537, 1228582..1229787, 1690221..1691573, 1831036..1832253, 1916185..1917468, 2229104..2230330, 2809050..2810336 nt
+Extremes: 3344540 nt (minimum), 261803 nt (maximum)
+Note: 
+Sequence: agttcagatctggagacggacattataaagctgtggaagcccgttcagactgatagtgaacagagatagaactgttactgtctattgagggccgtttcggagtatccgtactcgctgccgggtgcagactgaactgtgaacgcccgtcgggaacaggcccacaccccgttcagactgaaagcggtcaataagccgtagtcaccaatcggagtgtacaccgaaatcgcgtggaacgtcgagagtacgacggatgcagtgttccggaccgtctccctctccctctccctctcctccacctagaagtaatattatattttatggtagcggaagcttttgcggcaccttacagtaccaaatcgtaacaatcgctcgtctccaccgcgggtcgattccgtcggtcacaaccggataccgttcactcggtattcactctgaatggggggtgtgggtccggcgctacgaatcacaaaccatccgatcgcgttcgatcggatcccccgccgttcagagtgaacccggccatcccctcacgaccccgtttcactctgaacgaggggtgtgactaccccctcgatcgtgatccgtcgatcgccgagatgattccgaacggccggcgacaccgcccggcttttcactctgaacgaggggtgtgtcaccgagctgtcgacccgcactcgagatcgggcctcgaaacgggcagtagagaactgaccgatcgccaatccgctcgagtgcggacgcgatcgtgttcgacctcgagggcgcgcggttgcccctaacgggacccgcgtcgacggcgtcgtgacccgtccggagcaaccggcgaaaccgactgaacggtcaatatatagggtacttaggtcagccttggagaacgtacatctctttccatgatagatattcgctacgcttatcccttggtctccgaaaccccccgcgt
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+23 538 F 23 629  0 3.53e-09 tttcactctgaacgaggggtgtg
+21 268 R 21 268  0 5.65e-08 tctccctctccctctccctct
+19 272 R 19 272  0 9.04e-07 cctctccctctccctctcc
+20 265 F 20 271 -1 1.36e-05 cc[gc]tctccctctccctctcc
+18 265 R 18 268 -1 1.95e-04 cc[gc]tctccctctccctct
+17  39 F 17 164 -1 7.38e-04 cccgttcagactga[ta]ag
+13 278 R 13 278  0 3.70e-03 cctctccctctcc
+13 501 P 13 630  0 3.70e-03 cgttcagagtgaa
+13 501 P 13 539  0 3.70e-03 cgttcagagtgaa
+14 165 F 14 500 -1 3.89e-02 ccgttcaga[cg]tgaa
+14 166 P 14 629 -1 3.89e-02 cgttcaga[cg]tgaaa
+14 166 P 14 538 -1 3.89e-02 cgttcaga[cg]tgaaa
+14 265 F 14 277 -1 3.89e-02 cc[gc]tctccctctcc
+14 410 P 14 827 -1 3.89e-02 accgttca[cg]tcggt
+14 425 P 14 500 -1 3.89e-02 ttcactctgaa[tc]gg
+11 425 F 11 539  0 5.92e-02 ttcactctgaa
+11 425 F 11 630  0 5.92e-02 ttcactctgaa
+11 668 P 11 726  0 5.92e-02 ccgcactcgag
+13  40 F 13 500 -1 1.44e-01 ccgttcaga[cg]tga
+13 475 F 13 740 -1 1.44e-01 cgatcg[ct]gttcga
+10 157 P 10 439  0 2.37e-01 cccacacccc
+12  41 P 12 631 -1 5.33e-01 cgttcaga[cg]tga
+12  41 P 12 540 -1 5.33e-01 cgttcaga[cg]tga
+12 121 F 12 167 -1 5.33e-01 gt[gt]cagactgaa
+12 265 R 12 268 -1 5.33e-01 cc[gc]tctccctct
+12 475 P 12 734 -1 5.33e-01 cgatcgcgt[tc]cg
+12 527 P 12 793 -1 5.33e-01 tcacgac[cg]ccgt
+12 574 F 12 799 -1 5.33e-01 tcgtga[tc]ccgtc
+12 610 F 12 819 -1 5.33e-01 ccggcga[ca]accg
+12 655 R 12 658 -1 5.33e-01 cc[gc]agctgtcga
+9  93 P  9 922  0 9.48e-01 gtttcggag
+9 157 R  9 157  0 9.48e-01 cccacaccc
+9 157 C  9 440  0 9.48e-01 cccacaccc
+9 181 F  9 837  0 9.48e-01 cggtcaata
+9 380 P  9 663  0 9.48e-01 gcgggtcga
+9 440 R  9 440  0 9.48e-01 gggtgtggg
+9 472 P  9 485  0 9.48e-01 atccgatcg
+9 760 R  9 760  0 9.48e-01 ggcgcgcgg
+11  42 F 11 121 -1 1.96e+00 gt[tg]cagactga
+11 126 F 11 830 -1 1.96e+00 gactgaac[tg]gt
+11 163 P 11 430 -1 1.96e+00 cccc[ga]ttcaga
+11 168 P 11 425 -1 1.96e+00 ttcaga[cg]tgaa
+11 168 P 11 168 -1 1.96e+00 ttcag[at]ctgaa
+11 177 R 11 817 -1 1.96e+00 aaagcgg[tc]caa
+11 226 C 11 338 -1 1.96e+00 cgtggaa[ct]gtc
+11 304 P 11 304 -1 1.96e+00 aatat[ta]atatt
+11 321 C 11 477 -1 1.96e+00 tagcg[gc]aagct
+11 571 F 11 740 -1 1.96e+00 cgatcgtg[at]tc
+11 750 P 11 753 -1 1.96e+00 cg[ac]cctcgagg
+11 791 P 11 791 -1 1.96e+00 cgacg[gc]cgtcg

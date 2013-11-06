@@ -1,0 +1,75 @@
+AccId: ORI10010009
+Organism: Halobacterium sp. NRC-1
+RefSeq: NC_002607
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Halobacterium.
+ChromSize: 2014239 nt
+ChromGC: 0.6791
+OriCLen: 786 nt
+OriCAT: 0.4033
+OriCIdx: 1806444..1807229 nt
+Cdc6Idx: 920669..921862, 1691265..1692389, 1807230..1808786 nt
+Extremes: 1121922 nt (minimum), 1806323 nt (maximum)
+Note: Note that the oriC was predicted by Zhang, R. and Zhang, C.T. 2003 (Biochemical and biophysical research communications, 302, 728-734). Note that five ORB sequences (gttccacccgaaacaaagggrt, gttccactcgaaacgaaggggt, gttccacctgaaacagaggttg, gatacagatgaaacagtgggtc and attccacccgaaacaagggggt) were found in the oriC. The oriC has been confirmed by experiment.
+Sequence: gccttgtatgtttgacgcaggacgtgtctggatgcgtataaaaccccagtgagagggcgtaaaatccgtcagacgagggtctgaccgtggtcagatcgaaccccggctccgggatcgacgccgagacgagagcgcaccccgtcagccacgatgcagccacacccacgacaggcgatatcaacacacacgaacatccacaaccccccaccccttcgtttcgggtggaactccagaacagggacggccccggcccacccgccagccaagatcagcgcccgaacgcaactagaactagacaactaccgtattctgctcctagtttttgctagtttgcggttgttgttctgattgtagggacttagtagtaccgctactctagaaggggggtggggaccccccaccccacagaagactctcgttccactcgaaacgaaggggtggggggttggcagccacgtttgacctcaacctctgtttcaggtggaacggcgattcatcgtctttctccgcgggtcgccccggctggttccggaccgcatccctcccccctctaaccggcgggacatcggatggcgggcgccctggtatcgggttgctgtgatcgtgcctgcccggaagcgtccccgctatcgtaacttattagtccgactcggacccactgtttcatctgcatcaactggaacgctgtcggagcggggacgctataccgcccgctgatggccttgctggccgttctctcttcccgactgcgtattccacccgaaacaagggggtgtgcgtgaatac
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+31 197 P 31 417 -1 3.50e-12 caaccccccaccccttcgtttcg[ga]gtggaac
+13 214 P 13 753  0 2.59e-03 gtttcgggtggaa
+12 199 F 12 392  0 1.04e-02 accccccacccc
+12 200 C 12 381  0 1.04e-02 ccccccacccct
+12 381 R 12 433  0 1.04e-02 ggggggtgggga
+12 392 P 12 434  0 1.04e-02 accccccacccc
+12 616 P 12 691  0 1.04e-02 agcgtccccgct
+14 214 F 14 473 -1 2.72e-02 gtttc[ga]ggtggaac
+14 472 P 14 753 -1 2.72e-02 tgtttc[ag]ggtggaa
+11 381 C 11 393  0 4.14e-02 ggggggtgggg
+13 391 R 13 395 -1 1.01e-01 gac[ca]ccccacccc
+13 418 F 13 753 -1 1.01e-01 ttccac[tc]cgaaac
+13 642 P 13 642 -1 1.01e-01 gtccga[cg]tcggac
+13 728 R 13 732 -1 1.01e-01 gcc[gc]ttctctctt
+10 241 R 10 241  0 1.66e-01 cggccccggc
+10 541 R 10 541  0 1.66e-01 ctcccccctc
+10 569 C 10 704  0 1.66e-01 atggcgggcg
+12 199 R 12 395 -1 3.73e-01 ac[ca]ccccacccc
+12 250 R 12 391 -1 3.73e-01 cccaccc[gc]ccag
+12 263 R 12 280 -1 3.73e-01 caagatca[ga]cgc
+12 395 C 12 434 -1 3.73e-01 ccccacccc[ac]ca
+9   3 R  9   3  0 6.63e-01 ttgtatgtt
+9 202 R  9 202  0 6.63e-01 ccccacccc
+9 202 C  9 434  0 6.63e-01 ccccacccc
+9 202 P  9 383  0 6.63e-01 ccccacccc
+9 249 R  9 249  0 6.63e-01 gcccacccg
+9 383 R  9 383  0 6.63e-01 ggggtgggg
+9 383 F  9 434  0 6.63e-01 ggggtgggg
+9 383 P  9 395  0 6.63e-01 ggggtgggg
+9 434 R  9 434  0 6.63e-01 ggggtgggg
+11  70 C 11 308 -1 1.37e+00 agacgagg[ga]tc
+11 101 R 11 242 -1 1.37e+00 cccggc[tc]ccgg
+11 137 F 11 254 -1 1.37e+00 cccg[tc]cagcca
+11 152 R 11 156 -1 1.37e+00 gca[gc]ccacacc
+11 199 R 11 250 -1 1.37e+00 acc[cg]cccaccc
+11 199 C 11 438 -1 1.37e+00 acccccca[ca]cc
+11 238 R 11 515 -1 1.37e+00 gg[at]cggccccg
+11 250 C 11 435 -1 1.37e+00 cccaccc[gc]cca
+11 380 P 11 539 -1 1.37e+00 agggggg[ta]ggg
+11 392 C 11 438 -1 1.37e+00 acccccca[ca]cc
+11 435 R 11 438 -1 1.37e+00 gg[gt]tggggggt
+11 468 F 11 655 -1 1.37e+00 cc[ta]ctgtttca
+8  16 R  8  16  0 2.65e+00 gcaggacg
+8 100 F  8 516  0 2.65e+00 ccccggct
+8 139 R  8 742  0 2.65e+00 cgtcagcc
+8 142 F  8 449  0 2.65e+00 cagccacg
+8 152 F  8 448  0 2.65e+00 gcagccac
+8 199 R  8 199  0 2.65e+00 acccccca
+8 199 R  8 392  0 2.65e+00 acccccca
+8 220 F  8 479  0 2.65e+00 ggtggaac

@@ -1,0 +1,76 @@
+AccId: ORI10010192
+Organism: Methanosarcina mazei Tuc01
+RefSeq: NC_020389
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Methanomicrobia, Methanosarcinales, Methanosarcinaceae, Methanosarcina.
+ChromSize: 3427949 nt
+ChromGC: 0.4248
+OriCLen: 1334 nt
+OriCAT: 0.6927
+OriCIdx: 1340753..1342086 nt
+Cdc6Idx: 1339655..1340752, 1424003..1425124 nt
+Extremes: 583608 nt (minimum), 1937821 nt (maximum)
+Note: 
+Sequence: tgcggtttttcctgtccctgtttttccgtaaatcaggacatttgaaggagtttctcccctgagcgcggataccaggatggttgcaaggctgtttatctggtcgtttctgtgtaataacagatccggagtataagaaggacgaaggacttctaagtaatttttcgaacaagccgtctaatgattgagcctttatcataatgaccctcttaataaaagttataatatcatggatttgttataatatctggatttaacgggttaggatagcctaacatatagctgacataatatgcagagttattaatgcaaagtaaataagccgtttaagaaaatacggtctaaagaatgtttttctcttctcacttcaaatactgcatagttaaactctacatagcaaagatatttgggaaggtttaactgctattttttaaagtgttttttattcttaataagtgaacataaataataatagattcacaggggaagaatggatagacaaatgcatgtttcttaaagttaatgcctgaaatttttattcaagggatactaataacacgctgaaaagtcagttgcgcactttaaagtatctcttaatccctgattgaatgtgtattcggaacattctttcatccaatttcagttcacatttgcagtagatgcaatggaagtacacggtattaatagttatggtaaagacccctttgtttccactggaacagttatttgccttaaatattatacaaaaaaatcaatatcaatagagcatgtgaaaataaaataaaaaatcaaaaattttaaataataattgaagtaaacaggttcctgaatcgaaacgaaagtggttgtattaaaaatgaaaacagtcttgatacgaataacaattaagaaaagaaaaaaattaataataaataaaaaacagttaggaagaaaaaagcaatataacctgaaactaaacatatataaaaagtataaataatcaaaaaagaataataatcttaaaataacttatttaatttccgaagtaaaacgaactgcttttaatccctgatgacaagacagtattataaaactgtagagatactgatctacagctatagtataaatgtgcatgaagatgcaatacatgagaagcgatacacgagaagcgataaatgaaaagcgataaatgagaagcgatacacgagaagcgataaatgagaagcgataaatgagaatgtgactcataaaacgcaatttatgaaacgcaattcataagacataatgtttgattgaaaacgagattacaaacgaaattgattaaaaaataggcttttgctaaaaaatggagttaaatc
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+49 1123 F 49 1165 -1 2.32e-22
+atgagaagcgatacacgagaagcgataaatga[ag]aagcgataaatgagaa
+36 1119 F 36 1161 -1 1.14e-14 ata[ca]atgagaagcgatacacgagaagcgataaatga
+22 1156 F 22 1184  0 2.85e-08 aagcgataaatgagaagcgata
+19 1181 F 19 1195  0 1.82e-06 gagaagcgataaatgagaa
+22 1142 F 22 1156 -1 1.88e-06 aagcgataaatga[ag]aagcgata
+19 1139 F 19 1195 -1 1.04e-04 gagaagcgataaatga[ag]aa
+16 1156 F 16 1198  0 1.17e-04 aagcgataaatgagaa
+17 1119 F 17 1133 -1 1.49e-03 ataca[tc]gagaagcgata
+17 1119 F 17 1175 -1 1.49e-03 ataca[tc]gagaagcgata
+17 1119 F 17 1189 -1 1.49e-03 ata[ca]atgagaagcgata
+14  769 R 14  769  0 1.86e-03 aaaataaaataaaa
+16  879 R 16  886 -1 5.59e-03 aattaa[ga]aaaagaaaa
+16  892 R 16  900 -1 5.59e-03 aaaaaat[ta]aataataa
+13 1123 F 13 1193  0 7.46e-03 atgagaagcgata
+15  455 R 15  899 -1 2.10e-02 aa[ca]ataaataataat
+15  587 F 15 1034 -1 2.10e-02 ct[ct]ttaatccctgat
+15  777 F 15  968 -1 2.10e-02 ataaa[at]aatcaaaaa
+15  795 R 15  895 -1 2.10e-02 taaataataatt[ga]aa
+14  430 P 14  907 -1 7.83e-02 aa[gc]tgttttttatt
+14  459 F 14  795 -1 7.83e-02 taaataataat[at]ga
+11  215 F 11  234  0 1.19e-01 gttataatatc
+11  420 P 11 1296  0 1.19e-01 ctattttttaa
+11  698 R 11  698  0 1.19e-01 cctttgtttcc
+11 1125 F 11 1139  0 1.19e-01 gagaagcgata
+11 1125 F 11 1181  0 1.19e-01 gagaagcgata
+11 1139 F 11 1167  0 1.19e-01 gagaagcgata
+11 1167 F 11 1181  0 1.19e-01 gagaagcgata
+13  300 R 13 1236 -1 2.91e-01 ttaa[tc]gcaaagta
+13  542 F 13  867 -1 2.91e-01 gatac[tg]aataaca
+13  722 C 13 1225 -1 2.91e-01 tttgc[cg]ttaaata
+13  741 F 13  891 -1 2.91e-01 aaaaaaat[ct]aata
+13  742 F 13  927 -1 2.91e-01 aaaaaa[tg]caatat
+13  892 R 13  971 -1 2.91e-01 aaaaaa[tc]taataa
+13  998 P 13  998 -1 2.91e-01 aaataa[cg]ttattt
+13 1123 F 13 1151 -1 2.91e-01 atga[ga]aagcgata
+13 1222 F 13 1236 -1 2.91e-01 at[ag]aaacgcaatt
+10  307 R 10 1147  0 4.77e-01 aaagtaaata
+10  340 P 10  617  0 4.77e-01 aaagaatgtt
+10  424 R 10  524  0 4.77e-01 tttttaaagt
+10  557 R 10  557  0 4.77e-01 ctgaaaagtc
+10  575 P 10  575  0 4.77e-01 actttaaagt
+10  742 F 10  779  0 4.77e-01 aaaaaatcaa
+10  775 F 10  906  0 4.77e-01 aaataaaaaa
+10  789 R 10  789  0 4.77e-01 aaattttaaa
+10  883 R 10  883  0 4.77e-01 aagaaaagaa
+12  150 C 12 1291 -1 1.07e+00 taa[gc]taattttt
+12  213 C 12  728 -1 1.07e+00 aa[gt]ttataatat
+12  279 C 12 1054 -1 1.07e+00 ctg[at]cataatat
+12  307 P 12 1004 -1 1.07e+00 aaa[gt]taaataag
+12  348 P 12  884 -1 1.07e+00 tttttct[ct]ttct

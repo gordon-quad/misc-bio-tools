@@ -1,0 +1,75 @@
+AccId: ORI10010223
+Organism: Natrinema sp. J7-2 chromosome
+RefSeq: NC_018224
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Natrinema.
+ChromSize: 3697626 nt
+ChromGC: 0.6425
+OriCLen: 159 nt
+OriCAT: 0.3711
+OriCIdx: 2213131..2213289 nt
+Cdc6Idx: 121226..122479, 435599..437383, 581272..582411, 667798..668808, 1279364..1280839, 1530626..1531792, 2211904..2213130, 2572300..2573529, 3152575..3153861 nt
+Extremes: 1163710 nt (minimum), 3672842 nt (maximum)
+Note: 
+Sequence: gtcgggttccgtggcggtggttccggagaccgacgcgattggtatcgtccgccccacaccaccgttgcaagtgaacggcaaccgacacgacgccgcccactgggctgtgctgttgtgtcccgtttcacttgtaccggtggtgtgtcacggtgacccatt
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+11  66 R 11  66  0 1.70e-03 gcaagtgaacg
+10  54 P 10 134  0 6.78e-03 cacaccaccg
+10  81 C 10 102  0 6.78e-03 ccgacacgac
+9  10 R  9  10  0 2.71e-02 gtggcggtg
+11  94 P 11  94 -1 5.59e-02 gccca[cg]tgggc
+11 143 P 11 143 -1 5.59e-02 gtcac[gc]gtgac
+8  67 P  8 123  0 1.08e-01 caagtgaa
+8  68 C  8 123  0 1.08e-01 aagtgaac
+8  73 R  8  73  0 1.08e-01 aacggcaa
+8  96 C  8 148  0 1.08e-01 ccactggg
+10  28 F 10  80 -1 2.03e-01 accgac[ga]cga
+7   0 R  7 100  0 4.34e-01 gtcgggt
+7   4 F  7  18  0 4.34e-01 ggttccg
+7  14 F  7 134  0 4.34e-01 cggtggt
+7  14 P  7  57  0 4.34e-01 cggtggt
+7  53 R  7  53  0 4.34e-01 ccacacc
+7 123 R  7 123  0 4.34e-01 ttcactt
+9   9 P  9  80 -1 7.32e-01 cgtg[gt]cggt
+9  29 C  9 102 -1 7.32e-01 ccgac[ga]cga
+9  99 F  9 104 -1 7.32e-01 ctg[gt]gctgt
+9 104 R  9 110 -1 7.32e-01 ctgtg[ct]tgt
+9 110 F  9 137 -1 7.32e-01 tg[tg]tgtgtc
+6  21 P  6  21  0 1.74e+00 tccgga
+6  30 F  6  87  0 1.74e+00 cgacgc
+6  48 F  6  92  0 1.74e+00 ccgccc
+6  53 C  6 138  0 1.74e+00 ccacac
+6  56 R  6  56  0 1.74e+00 caccac
+6  56 C  6 136  0 1.74e+00 caccac
+6  59 P  6 146  0 1.74e+00 caccgt
+6  61 C  6  76  0 1.74e+00 ccgttg
+6  62 R  6  62  0 1.74e+00 cgttgc
+6  64 P  6  64  0 1.74e+00 ttgcaa
+6  90 R  6  90  0 1.74e+00 cgccgc
+6 110 R  6 110  0 1.74e+00 tgttgt
+6 132 P  6 132  0 1.74e+00 accggt
+6 136 R  6 136  0 1.74e+00 gtggtg
+8   9 R  8 102 -1 2.60e+00 cgtg[gt]cgg
+8  11 C  8  80 -1 2.60e+00 tggc[gt]gtg
+8  23 F  8 147 -1 2.60e+00 cgg[at]gacc
+8  48 R  8  89 -1 2.60e+00 ccgcc[cg]ca
+8  51 C  8 101 -1 2.60e+00 ccc[cg]acac
+8  61 F  8 119 -1 2.60e+00 ccgtt[gt]ca
+8  74 C  8 107 -1 2.60e+00 acg[ga]caac
+8  83 C  8  99 -1 2.60e+00 gac[ac]cgac
+8  83 P  8 111 -1 2.60e+00 gacac[ga]ac
+8  86 F  8  89 -1 2.60e+00 acg[ac]cgcc
+8  95 R  8 148 -1 2.60e+00 ccca[cg]tgg
+8  97 C  8 114 -1 2.60e+00 cac[ta]gggc
+7   0 R  7 105 -1 9.11e+00 gtcg[gt]gt
+7   0 C  7  92 -1 9.11e+00 g[tg]cgggt

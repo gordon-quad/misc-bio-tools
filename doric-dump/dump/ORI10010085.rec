@@ -1,0 +1,76 @@
+AccId: ORI10010085
+Organism: Archaeoglobus profundus DSM 5631
+RefSeq: NC_013741
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Archaeoglobi, Archaeoglobales, Archaeoglobaceae, Archaeoglobus.
+ChromSize: 1560622 nt
+ChromGC: 0.4201
+OriCLen: 1460 nt
+OriCAT: 0.6493
+OriCIdx: 1302929..1304388 nt
+Cdc6Idx: 16..1251, 989059..990255, 991037..992332 nt
+Extremes: 44674 nt (minimum), 1124921 nt (maximum)
+Note: 
+Sequence: aagataaaagagggtagcagtagttttttagctttcgatatacaactatgatatatgctaacacacttagcacacccacccctttatttcctgtggaaagtggggtagtggacaataagaatgatgcgtgaaaagtcagttgaaaatgatagttgatgatcgattacaaatataaacaaatttttcagcattttaaatctagcacattataagtatcttctacttctactagagtgtaaaaagaaggttgaaatttgtctcatttttcaactgtaagtttctcaagtaagctagatagattccaaattaaggttcttacgtgcattggtagatttggatctgacgaaaggtcttcaagtgttgaaattgccgtagctgctttgactgctatattttctttctcatttagcagatcgctcttgatttcgtttgcaacctttctaacatttcttggaactgaatcgtcttgaattattctgtcgagtgtatctaacactgctttcaatacatcttctgccatggcacatcacctctcaaaactgaacctttttataactcgcctcaaagctatacaccgtggtggataaaaatatttcggaagctgtcgaacttttgtacaaaggtgcgaaaatgctggctcagcattgtatagactgtaaaatgccccttttcaagtatgagggtaaggtaatctgccctgcttgtaaaagagagttcagaattgatggaaagggatatgccgttccaattgaaaaggatggaagggtagaaacggtaaaagatgaaaacaaagagattactgagactaaaaaagatagaaaggctagtgaagtcaaacatgatgttgtagagacttctgcaaaaagtgttgaatgtttagaatattcaaaagtaaaatccatatctatactcagatctaagcttttcgaagtcatttcaaggattgaaagttgtgaaagcgtagagagcttacacagtttaattaatctcgccctcaagatcattgaacttattgaaaaaattgagagaatctaggagaatctagtatttcttagtcttagaaacagctaaactgaagatattaagaagtttgtaagtttggtaatatcgactttgtcagtctattggtcgattggggttatcagtaatttggtctgagcttactattgcctctaaaaaattcagtgatatatttgtccataattcgtaagactagagtaatccaagaaaactgaggtagtgatgtgacttccaaatatctataatatatctatatcttagtttggtttattatccacttttcattttaaagtttcaatattgattcgttcagggacatacatcactaactcactaccccactttccacaggaaataaaggggtgggtgtgctaagtgtgttagcacgtatcaagtgtgcctataaaaagtgttaagtatttttcaagtggatgtaggtt
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+55   55 P 55 1351  0 4.62e-28
+tgctaacacacttagcacacccacccctttatttcctgtggaaagtggggtagtg
+13  165 R 13  165  0 8.93e-03 acaaatataaaca
+15  862 R 15  943 -1 2.51e-02 aaagtgttgaa[ta]gtt
+12  918 R 12  918  0 3.57e-02 aagcttttcgaa
+14 1232 P 14 1339 -1 9.38e-02 tgag[gt]tagtgatgt
+11   28 R 11   28  0 1.43e-01 tagctttcgat
+11   80 R 11   80  0 1.43e-01 cctttatttcc
+11   80 C 11 1370  0 1.43e-01 cctttatttcc
+11  315 R 11  315  0 1.43e-01 ttacgtgcatt
+11  355 R 11  946  0 1.43e-01 aagtgttgaaa
+11  598 R 11  598  0 1.43e-01 aagctgtcgaa
+11  810 R 11  810  0 1.43e-01 aaagatagaaa
+11  887 C 11 1298  0 1.43e-01 aaaagtaaaat
+11  899 R 11  899  0 1.43e-01 catatctatac
+11 1254 R 11 1254  0 1.43e-01 aatatctataa
+11 1265 R 11 1265  0 1.43e-01 tatatctatat
+11 1370 R 11 1370  0 1.43e-01 ggaaataaagg
+11 1448 R 11 1448  0 1.43e-01 tggatgtaggt
+13  379 C 13 1069 -1 3.48e-01 tttgact[gt]ctata
+13  608 P 13  611 -1 3.48e-01 ac[tc]tttgtacaaa
+10  136 P 10  263  0 5.72e-01 cagttgaaaa
+10  355 F 10  863  0 5.72e-01 aagtgttgaa
+10  514 P 10  514  0 5.72e-01 tgccatggca
+10  840 R 10  840  0 5.72e-01 gatgttgtag
+10  860 F 10 1424  0 5.72e-01 aaaaagtgtt
+10  868 R 10 1089  0 5.72e-01 ttgaatgttt
+10 1025 F 10 1035  0 5.72e-01 gagaatctag
+10 1131 R 10 1131  0 5.72e-01 attggggtta
+10 1314 P 10 1314  0 5.72e-01 tcaatattga
+12   43 P 12 1271 -1 1.29e+00 aacta[ta]gatata
+12  106 P 12 1287 -1 1.29e+00 agtgga[ct]aataa
+12  229 F 12  649 -1 1.29e+00 taga[gc]tgtaaaa
+12  261 F 12 1438 -1 1.29e+00 atttttcaa[cg]tg
+12  538 R 12  922 -1 1.29e+00 actgaa[cg]ctttt
+12  743 P 12 1440 -1 1.29e+00 tcca[ac]ttgaaaa
+12  875 P 12  879 -1 1.29e+00 ttt[at]gaatattc
+12  897 R 12 1266 -1 1.29e+00 tc[ct]atatctata
+12 1167 F 12 1417 -1 1.29e+00 tgcct[ca]taaaaa
+9   32 C  9  563  0 2.29e+00 tttcgatat
+9  127 C  9 1295  0 2.29e+00 gtgaaaagt
+9  165 P  9 1188  0 2.29e+00 acaaatata
+9  169 C  9 1188  0 2.29e+00 atataaaca
+9  172 R  9  172  0 2.29e+00 taaacaaat
+9  185 P  9  627  0 2.29e+00 cagcatttt
+9  188 F  9 1302  0 2.29e+00 cattttaaa
+9  246 F  9  359  0 2.29e+00 gttgaaatt
+9  247 R  9 1305  0 2.29e+00 ttgaaattt
+9  271 F  9 1091  0 2.29e+00 tgtaagttt
+9  291 R  9  291  0 2.29e+00 tagatagat
+9  308 R  9  447  0 2.29e+00 aaggttctt

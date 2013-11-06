@@ -1,0 +1,75 @@
+AccId: ORI10010176
+Organism: Halopiger xanaduensis SH-6 chromosome
+RefSeq: NC_015666
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Halopiger.
+ChromSize: 3668009 nt
+ChromGC: 0.6598
+OriCLen: 430 nt
+OriCAT: 0.407
+OriCIdx: 2890851..2891280 nt
+Cdc6Idx: 730676..732370, 889862..890992, 1345844..1347043, 1622511..1623692, 1986154..1987440, 2694659..2695930, 2889624..2890850, 3541136..3542332, 3614821..3615831 nt
+Extremes: 1500358 nt (minimum), 2701123 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:GCCGCCCCCGCTTCACACACCACCTTTTCGAGTGAATTCACTTGCAACGGTGGTGTTTCACGTGCATCGGTGGTGTGGGTTCACATGAAGGAGTGGTGGGGTTCACGCGCACTTGTGGTGTTTCACTTGAAACGGTGGTGTGT
+Sequence: gccgcccccgcttcacacaccaccttttcgagtgaacggaacgtaccgtcccgctatcttccattttcacttgcaacggtggtgtctccgtggcggcatcgatgggccgaattctccctgtctcgagttcgggtgccccgtctcgaggccgagcgactcgcaaacggaccgcgttaccgctcgcggattcgactcgagtttcacgtgcatcggtggtgtgggtcgttcacatgaaggagtggtggggaccgttcacgcgcacttgtggtgtagctcacaattcacttgaaacggtggtgtgtactcgcgagcggcggtacagggctgttgcacagcgattcgaccccttcgtccgtcgaaccagtctcgtcccgctagttaccacgtattttatacgaactcccgcacacgggacgagtatcagcgacgg
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+20  65 F 20 280 -1 2.84e-06 ttcacttg[ca]aacggtggtgt
+15 250 R 15 250  0 4.84e-05 gttcacgcgcacttg
+15  14 P 15 287 -1 2.18e-03 acacaccacc[tg]tttc
+14  71 F 14 205 -1 8.14e-03 tgca[at]cggtggtgt
+11  74 F 11 289  0 1.24e-02 aacggtggtgt
+10  46 F 10 367  0 4.96e-02 cgtcccgcta
+10 210 F 10 291  0 4.96e-02 cggtggtgtg
+12 115 F 12 135 -1 1.12e-01 ccc[tc]gtctcgag
+9   2 R  9   2  0 1.98e-01 cgcccccgc
+9  15 P  9 211  0 1.98e-01 cacaccacc
+9  76 F  9 210  0 1.98e-01 cggtggtgt
+9 176 P  9 305  0 1.98e-01 ccgctcgcg
+9 365 P  9 409  0 1.98e-01 ctcgtcccg
+11  16 P 11  74 -1 4.09e-01 acaccacc[tg]tt
+11  25 P 11 280 -1 4.09e-01 tttc[ga]agtgaa
+11  28 P 11 248 -1 4.09e-01 cg[ac]gtgaacgg
+11  64 F 11 198 -1 4.09e-01 tttcac[tg]tgca
+8  30 C  8  66  0 7.94e-01 agtgaacg
+8  96 P  8  96  0 7.94e-01 catcgatg
+8 119 F  8 139  0 7.94e-01 gtctcgag
+8 121 F  8 192  0 7.94e-01 ctcgagtt
+8 133 R  8 133  0 7.94e-01 tgccccgt
+8 185 F  8 336  0 7.94e-01 gattcgac
+8 191 P  8 191  0 7.94e-01 actcgagt
+8 263 R  8 263  0 7.94e-01 tgtggtgt
+8 303 P  8 303  0 7.94e-01 ctcgcgag
+8 386 R  8 386  0 7.94e-01 tattttat
+10  95 F 10 206 -1 1.49e+00 gcatcg[ag]tgg
+10 197 P 10 282 -1 1.49e+00 gtttca[ca]gtg
+10 199 R 10 254 -1 1.49e+00 ttcacg[tc]gca
+10 199 F 10 251 -1 1.49e+00 ttcacg[tc]gca
+10 211 R 10 235 -1 1.49e+00 ggtggtg[ta]gg
+10 225 F 10 280 -1 1.49e+00 ttcac[at]tgaa
+10 234 R 10 238 -1 1.49e+00 agg[ag]gtggtg
+7  13 R  7  13  0 3.17e+00 cacacac
+7  16 C  7 263  0 3.17e+00 acaccac
+7  16 P  7 264  0 3.17e+00 acaccac
+7  17 C  7 238  0 3.17e+00 caccacc
+7  27 C  7 271  0 3.17e+00 tcgagtg
+7  30 C  7 281  0 3.17e+00 agtgaac
+7  31 P  7 223  0 3.17e+00 gtgaacg
+7  46 P  7 409  0 3.17e+00 cgtcccg
+7  65 R  7 280  0 3.17e+00 ttcactt
+7  65 R  7  65  0 3.17e+00 ttcactt
+7  67 R  7 249  0 3.17e+00 cacttgc
+7  67 R  7 223  0 3.17e+00 cacttgc
+7  77 R  7 238  0 3.17e+00 ggtggtg
+7  78 F  7 264  0 3.17e+00 gtggtgt
+7  78 R  7 263  0 3.17e+00 gtggtgt
+7  90 R  7 311  0 3.17e+00 tggcggc

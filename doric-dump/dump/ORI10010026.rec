@@ -1,0 +1,75 @@
+AccId: ORI10010026
+Organism: Natronomonas pharaonis DSM 2160
+RefSeq: NC_007426
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Natronomonas.
+ChromSize: 2595221 nt
+ChromGC: 0.6344
+OriCLen: 1222 nt
+OriCAT: 0.4501
+OriCIdx: 302012..303233 nt
+Cdc6Idx: 298796..299920, 303234..304949, 1487508..1488704, 1566657..1567661 nt
+Extremes: 1334734 nt (minimum), 334163 nt (maximum)
+Note: Note that the homologous sequence has been confirmed as oriC region using in silico and in vitro studies for the closely-related Haloferax volcanii. Please refer to Norais, C., et al. 2007 ( PLoS genetics, 3, e77.) for more details. Note that two ORB sequences (tccagtcgaaacgaaggggt and tccagttgaaacgaaggggt) were found in the oriC.This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CACCCCCCCACCCCTTCGTTTCAACTGGAGCGCTCCAGTCGAAACGAAGGGGTGTGGGGGT
+Sequence: atcatcctcccacgcccccgatttcgagtcgaaatcggagtcgctctgcagatactaccatcctgaactcacttaaacatatgtcagacatcagcctaccggttccgtagccggtcggctttgggtcgagctgggccggaccagatggggcggagccaagcatgggaccaaggaggggcgggccactccgttcgtcttcgtctgtcggcaggcccacctgtctttgtctgccgacaggcctctgggacagcaggaccgtatccctgccgcacccccccaccccttcgtttcaactggagcggagaaatggagggggagggggagcgctggagtgggtgaactcatagtagaataaatagcgtttaacgtagctactactgtactctctggaataaccgaggaagagtgtatcggtaagctagtttagattggagacctagccgggatagactagatatgctgctgtatctagtactcactagtaattttctactactactagcaacatagcgaaacacagcgaaacacagcgattactagcctataacaaccatagaaatataaacagaatcgtatttctttgtcgtacggatttggttacttcctacaggtaataaaggtttctcaactagaacgcctctcgtctacccctccccacccctttcaacggctccagtcgaaacgaaggggtgtgggggtaaccacccttgtttcgtctgcatcaactggagatgtgactttcccgactttcctggcccgctggattctctcgaccccactctctcgttccccgtgtttcacgtcgccgccccctcggcactggcccagcgtctcggcgtccggtctctcagcatccgacttgtttctcggcgtccaattccgtcggcgtccaattccagtgccgatatccgagttcagtgtccgtcagagttcagtgtccgtcagatattatggcggagctcccgcccggtggggggcttcggtcggcacgtcggcgtccgggtgctcgaagtcggggctcccaatctctttgccgacctcatcaaaaaacttaataccgaactcgaccatcggttcgactgcatcaagtggacatccgtttgcacgccctccaccgaatcagggcctctaccccctgtattctttccattcgctcgatgcggggtggttttccaattgaaacggtggggtacagcggagacacgccgcaggggaacacaga
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+23  277 P 23  669 -1 4.12e-07 caccccttcgtttc[ag]actggagc
+19  910 F 19  927  0 1.53e-06 gagttcagtgtccgtcaga
+21   17 P 21   17 -1 6.02e-06 ccgatttcga[gc]tcgaaatcgg
+21  270 P 21  678 -1 6.02e-06 accccc[ca]caccccttcgtttc
+20  503 F 20  513 -1 2.29e-05 aaca[tc]agcgaaacacagcga
+15  309 R 15  309  0 3.91e-04 gagggggagggggag
+15  508 F 15  518  0 3.91e-04 agcgaaacacagcga
+15  866 F 15  882  0 3.91e-04 tcggcgtccaattcc
+13  122 R 13  122  0 6.26e-03 gggtcgagctggg
+14  175 C 14  961 -1 6.57e-02 gggcgggccac[tc]cc
+14  266 R 14  269 -1 6.57e-02 cc[gc]cacccccccac
+14  271 F 14  649 -1 6.57e-02 cc[ct]ccccacccctt
+14  711 F 14 1074 -1 6.57e-02 ttcg[ta]ctgcatcaa
+14  716 F 14 1079 -1 6.57e-02 ctgcatcaa[cg]tgga
+11  308 R 11  308  0 1.00e-01 ggagggggagg
+11  646 R 11  646  0 1.00e-01 acccctcccca
+11  651 R 11  651  0 1.00e-01 tccccacccct
+11  686 R 11  686  0 1.00e-01 ggggtgtgggg
+11  830 F 11  864  0 1.00e-01 tctcggcgtcc
+11  832 F 11  991  0 1.00e-01 tcggcgtccgg
+11  880 F 11  989  0 1.00e-01 cgtcggcgtcc
+13   15 P 13 1005 -1 2.44e-01 ccccga[tc]ttcgag
+13  285 P 13 1171 -1 2.44e-01 cgtttcaa[ct]tgga
+10  201 P 10  227  0 4.01e-01 ctgtcggcag
+10  207 C 10  995  0 4.01e-01 gcaggcccac
+10  274 R 10  651  0 4.01e-01 ccccacccct
+10  289 F 10  721  0 4.01e-01 tcaactggag
+10  308 F 10  314  0 4.01e-01 ggagggggag
+10  813 P 10  895  0 4.01e-01 tcggcactgg
+10 1042 R 10 1042  0 4.01e-01 tcaaaaaact
+12  138 C 12  639 -1 9.01e-01 ga[cg]cagatgggg
+12  309 C 12  644 -1 9.01e-01 ga[gt]ggggagggg
+12  312 P 12  644 -1 9.01e-01 ggggagggg[gt]ag
+12  673 P 12 1070 -1 9.01e-01 cagtcgaa[ac]cga
+9   90 R  9  851  0 1.60e+00 tcagcctac
+9  272 P  9  968  0 1.60e+00 ccccccacc
+9  274 R  9  274  0 1.60e+00 ccccacccc
+9  315 R  9  315  0 1.60e+00 gagggggag
+9  330 R  9  330  0 1.60e+00 agtgggtga
+9  381 R  9  841  0 1.60e+00 actctctgg
+9  489 F  9  492  0 1.60e+00 ctactacta
+9  556 R  9  556  0 1.60e+00 aaatataaa
+9  603 R  9 1089  0 1.60e+00 cctacaggt
+9  832 F  9  882  0 1.60e+00 tcggcgtcc
+9  866 F  9  991  0 1.60e+00 tcggcgtcc
+11    5 R 11  266 -1 3.30e+00 cc[tc]cccacgcc
+11    8 R 11  271 -1 3.30e+00 cccac[gc]ccccc
+11    8 C 11  687 -1 3.30e+00 cccac[ga]ccccc
+11   23 F 11  671 -1 3.30e+00 tc[gc]agtcgaaa
+11   80 P 11   80 -1 3.30e+00 atgtc[at]gacat

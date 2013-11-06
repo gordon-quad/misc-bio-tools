@@ -1,0 +1,76 @@
+AccId: ORI10010146
+Organism: Halorubrum lacusprofundi ATCC 49239 chromosome 1
+RefSeq: NC_012029
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Halorubrum.
+ChromSize: 2735295 nt
+ChromGC: 0.6672
+OriCLen: 278 nt
+OriCAT: 0.4317
+OriCIdx: 1078447..1078724 nt
+Cdc6Idx: 780..2453, 1077250..1078446, 1085512..1086711, 1125569..1126741, 1541528..1542730, 2614867..2615994 nt
+Extremes: 345907 nt (minimum), 2734117 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:AGAACAGACGAAATGAGGGGTGTAGAACAGACGAAATGAGGGGTGTAGAACAGACGAAACGAGGGGTG
+Sequence: tcagtttccaaacggaagaacagacgaaatgaggggtgtcgatgcctcagagaggaccctctagctgaataagaacagacgaaatgaggggtgtgattcaagcgagaaggacccaccacggactccagcgacgagaacagacgaaacgaggggtgtccggactccacgagccgaccgtcaaaactccacgagccgaccgtcaaaactccacgagccgaccgtcaaacgctgtcgagctatcgcactctcgagcctgaccgaaaccccgacaaaccgcg
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+44 160 F 44 182  0 7.02e-23
+actccacgagccgaccgtcaaaactccacgagccgaccgtcaaa
+24  15 F 24  70  0 7.72e-11 aagaacagacgaaatgaggggtgt
+22 160 F 22 204  0 1.24e-09 actccacgagccgaccgtcaaa
+24  16 F 24 133 -1 5.56e-09 agaacagacgaaa[tc]gaggggtgtc
+23  71 F 23 133 -1 2.13e-08 agaacagacgaaa[tc]gaggggtgt
+13 225 R 13 231 -1 1.26e-02 acgct[ga]tcgagct
+10  30 F 10 147  0 2.07e-02 gaggggtgtc
+9  85 F  9 147  0 8.29e-02 gaggggtgt
+9 118 F  9 157  0 8.29e-02 cggactcca
+11 151 P 11 154 -1 1.71e-01 gg[ta]gtccggac
+8 177 R  8 199  0 3.32e-01 tcaaaact
+8 177 R  8 177  0 3.32e-01 tcaaaact
+8 199 R  8 199  0 3.32e-01 tcaaaact
+7  52 F  7 107  0 1.33e+00 aggaccc
+7  66 R  7  66  0 1.33e+00 gaataag
+7 125 R  7 125  0 1.33e+00 cagcgac
+7 227 R  7 227  0 1.33e+00 gctgtcg
+7 235 R  7 235  0 1.33e+00 gctatcg
+9  32 P  9 258 -1 2.24e+00 ggggt[gt]tcg
+9 218 F  9 265 -1 2.24e+00 ccg[ta]caaac
+9 228 F  9 244 -1 2.24e+00 ct[gc]tcgagc
+9 232 R  9 244 -1 2.24e+00 cgagct[ac]tc
+6   1 C  6 220  0 5.31e+00 cagttt
+6   1 C  6 198  0 5.31e+00 cagttt
+6   1 C  6 176  0 5.31e+00 cagttt
+6   7 R  6 269  0 5.31e+00 ccaaac
+6   8 F  6 222  0 5.31e+00 caaacg
+6  13 R  6 104  0 5.31e+00 ggaaga
+6  36 F  6 229  0 5.31e+00 tgtcga
+6  37 R  6  61  0 5.31e+00 gtcgat
+6  44 R  6 120  0 5.31e+00 cctcag
+6  44 R  6 159  0 5.31e+00 cctcag
+6 102 F  6 131  0 5.31e+00 cgagaa
+6 113 R  6 113  0 5.31e+00 caccac
+6 118 C  6 251  0 5.31e+00 cggact
+6 121 F  6 182  0 5.31e+00 actcca
+6 121 F  6 204  0 5.31e+00 actcca
+6 141 F  6 258  0 5.31e+00 cgaaac
+6 157 C  6 251  0 5.31e+00 cggact
+6 166 F  6 248  0 5.31e+00 cgagcc
+6 168 R  6 212  0 5.31e+00 agccga
+6 168 R  6 190  0 5.31e+00 agccga
+6 168 R  6 168  0 5.31e+00 agccga
+6 188 F  6 248  0 5.31e+00 cgagcc
+6 190 R  6 212  0 5.31e+00 agccga
+6 190 R  6 190  0 5.31e+00 agccga
+6 210 F  6 248  0 5.31e+00 cgagcc
+6 212 R  6 212  0 5.31e+00 agccga
+6 246 P  6 246  0 5.31e+00 ctcgag
+8  15 R  8 129 -1 7.96e+00 aaga[ag]cag

@@ -1,0 +1,75 @@
+AccId: ORI10010035
+Organism: Hyperthermus butylicus DSM 5456
+RefSeq: NC_008818
+Topology: Circular
+Lineage: Archaea, Crenarchaeota, Thermoprotei, Desulfurococcales, Pyrodictiaceae, Hyperthermus.
+ChromSize: 1667163 nt
+ChromGC: 0.5374
+OriCLen: 529 nt
+OriCAT: 0.5312
+OriCIdx: 5011..5539 nt
+Cdc6Idx: 565873..567096, 915555..916790 nt
+Extremes: 459541 nt (minimum), 1418994 nt (maximum)
+Note: Note that three ORB sequences (tccacaggaaagctaggggt, tgcactagaagttgaggggt, tctacaggcaattggggggt) and one UCM sequence (agt ttatacaaac aggca) were found in the oriC. Please refer to Robinson, N.P. and Bell, S.D. 2007 (Proc Natl Acad Sci U S A, 104, 5806-5811) for more detials.
+Sequence: tgctccccccagactaggctagttcttagctagcccctccttaaaactggcgggagactactagccccactctgggcccactccacaggaaagctaggggtcgtatgacgaactgtttcacaataagaacgaaatattcagcactagcatgcaccaatggttgactctggcacccctcaacttctagtgcagacaatacagcatacaaggatgaactggtaactgcatagcaattgcaacgctactctagtttatacaaacaggcaagtttaaataagggcctataaaggatatgcgatgtaaatccattgtccaataatctgattcacaacttgaatgcaaactgcaatatgtatgtgagttcacaattgtaactcagagcttctgtctacaggcaattggggggtgccagggtgtttccatgtgctacagctggcagtgatcttagagtcattgctgccgtgatgggtttcagtgtcttgtggccctatggtgggctggagtggaagctgaggggttgtttacccta
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+14 166 P 14 398 -1 1.23e-02 ctggcacccc[tc]caa
+13 171 P 13 505 -1 4.57e-02 acccctca[ag]cttc
+11  12 P 11  12 -1 6.19e-01 actag[gc]ctagt
+11 112 F 11 320 -1 6.19e-01 ctg[ta]ttcacaa
+11 251 C 11 347 -1 6.19e-01 ttataca[at]aca
+8  29 F  8  60  0 1.20e+00 ctagcccc
+8  72 P  8  72  0 1.20e+00 tgggccca
+8  77 P  8 498  0 1.20e+00 ccactcca
+8  99 C  8 198  0 1.20e+00 gtcgtatg
+8 116 F  8 361  0 1.20e+00 ttcacaat
+8 181 R  8 438  0 1.20e+00 ttctagtg
+8 229 P  8 229  0 1.20e+00 gcaattgc
+8 259 F  8 390  0 1.20e+00 acaggcaa
+8 364 P  8 364  0 1.20e+00 acaattgt
+8 399 R  8 399  0 1.20e+00 tggggggt
+10   1 P 10 399 -1 2.25e+00 gc[ta]cccccca
+10   2 P 10  46 -1 2.25e+00 ctccc[cg]ccag
+10 137 P 10 183 -1 2.25e+00 tc[at]gcactag
+10 174 C 10 499 -1 2.25e+00 cctca[ac]cttc
+10 230 F 10 365 -1 2.25e+00 caattg[ct]aac
+10 499 R 10 505 -1 2.25e+00 ggagt[gc]gaag
+7   4 C  7 400  0 4.80e+00 cccccca
+7  16 P  7  59  0 4.80e+00 ggctagt
+7  21 P  7 123  0 4.80e+00 gttctta
+7  65 F  7  76  0 4.80e+00 cccactc
+7  68 F  7 163  0 4.80e+00 actctgg
+7 116 F  7 324  0 4.80e+00 ttcacaa
+7 130 R  7 282  0 4.80e+00 gaaatat
+7 154 R  7 216  0 4.80e+00 caatggt
+7 161 P  7 446  0 4.80e+00 tgactct
+7 220 F  7 341  0 4.80e+00 aactgca
+7 229 F  7 394  0 4.80e+00 gcaattg
+7 230 P  7 394  0 4.80e+00 caattgc
+7 238 C  7 293  0 4.80e+00 acgctac
+7 255 R  7 255  0 4.80e+00 acaaaca
+7 324 F  7 361  0 4.80e+00 ttcacaa
+7 349 R  7 349  0 4.80e+00 tatgtat
+7 351 R  7 351  0 4.80e+00 tgtatgt
+7 383 R  7 383  0 4.80e+00 tctgtct
+9  15 F  9 261 -1 8.11e+00 aggc[ta]agtt
+9  17 P  9 139 -1 8.11e+00 gctagt[tg]ct
+9  84 F  9 259 -1 8.11e+00 acagg[ac]aag
+9  95 F  9 512 -1 8.11e+00 aggggt[ct]gt
+9  97 R  9 488 -1 8.11e+00 gggt[cg]gtat
+9 101 C  9 338 -1 8.11e+00 cgt[at]tgacg
+9 106 F  9 209 -1 8.11e+00 ga[ct]gaactg
+9 136 R  9 325 -1 8.11e+00 ttca[ga]cact
+9 141 C  9 438 -1 8.11e+00 cactag[ca]at
+9 150 P  9 451 -1 8.11e+00 gca[cg]caatg
+9 152 P  9 152 -1 8.11e+00 acca[at]tggt

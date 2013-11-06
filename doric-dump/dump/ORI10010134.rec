@@ -1,0 +1,75 @@
+AccId: ORI10010134
+Organism: Halobacterium salinarum R1
+RefSeq: NC_010364
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Halobacterium.
+ChromSize: 2000962 nt
+ChromGC: 0.6801
+OriCLen: 178 nt
+OriCAT: 0.4944
+OriCIdx: 40448..40625 nt
+Cdc6Idx: 39215..40447, 912658..913851, 1438101..1439273, 1679515..1680639, 1795480..1797036 nt
+Extremes: 1115041 nt (minimum), 1794573 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:ACACACCACTACTGCAAGTGAA
+Sequence: cgattgtgcgatggatctctttgtattgccgtggattcatgctgtccgggtattcggccaggagacatctggacacaccactactgcaagtgaagttgatggctagaggtcgcctgtggcgcactacgggagtgttttgattattgttggatgtctaactgccgttcgagactttctg
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+7  25 R 7 159  0 5.44e-01 ttgccgt
+7  62 P 7 149  0 5.44e-01 agacatc
+7  87 R 7  87  0 5.44e-01 aagtgaa
+9  11 F 9 147 -1 9.18e-01 tggat[cg]tct
+6  13 C 6 102  0 2.18e+00 gatctc
+6  26 F 6 159  0 2.18e+00 tgccgt
+6  26 R 6  26  0 2.18e+00 tgccgt
+6  42 R 6 111  0 2.18e+00 tgtccg
+6  70 C 6 112  0 2.18e+00 ggacac
+6  75 R 6  75  0 2.18e+00 caccac
+6  78 F 6 121  0 2.18e+00 cactac
+6  90 R 6  90  0 2.18e+00 tgaagt
+6  93 R 6  93  0 2.18e+00 agttga
+6 133 R 6 133  0 2.18e+00 gttttg
+6 159 R 6 159  0 2.18e+00 tgccgt
+8  58 P 8 108 -1 3.26e+00 cagg[ac]gac
+8  82 C 8 159 -1 3.26e+00 ac[tg]gcaag
+8  95 C 8 156 -1 3.26e+00 ttga[tc]ggc
+8  97 F 8 149 -1 3.26e+00 gatg[gt]cta
+8 125 P 8 157 -1 3.26e+00 acgg[gc]agt
+7   3 R 7 129 -1 1.14e+01 ttgtg[ca]g
+7   3 P 7 119 -1 1.14e+01 t[ta]gtgcg
+7   8 R 7 106 -1 1.14e+01 cg[ac]tgga
+7   9 F 7  97 -1 1.14e+01 gatgg[ac]t
+7  10 P 7  33 -1 1.14e+01 atg[ga]atc
+7  13 P 7 104 -1 1.14e+01 ga[tc]ctct
+7  13 P 7  62 -1 1.14e+01 gat[cg]tct
+7  18 C 7  61 -1 1.14e+01 ct[tc]tgta
+7  21 F 7 132 -1 1.14e+01 tgt[at]ttg
+7  22 P 7 120 -1 1.14e+01 gta[tg]tgc
+7  24 C 7 155 -1 1.14e+01 attg[ca]cg
+7  25 P 7  82 -1 1.14e+01 ttgc[ca]gt
+7  39 R 7 158 -1 1.14e+01 tgc[tc]gtc
+7  41 P 7  54 -1 1.14e+01 ctg[tg]ccg
+7  42 P 7  68 -1 1.14e+01 tgtcc[ga]g
+7  54 C 7 160 -1 1.14e+01 cggc[ca]ag
+7  58 R 7 104 -1 1.14e+01 c[at]ggaga
+7  60 F 7  70 -1 1.14e+01 gga[gc]aca
+7  61 F 7 167 -1 1.14e+01 gagac[at]t
+7  62 P 7  97 -1 1.14e+01 ag[ac]catc
+7  63 P 7 104 -1 1.14e+01 gac[ac]tct
+7  66 R 7 150 -1 1.14e+01 atctg[gt]a
+7  68 R 7 104 -1 1.14e+01 ctgga[cg]a
+7  72 P 7 128 -1 1.14e+01 acac[at]cc
+7  74 C 7 114 -1 1.14e+01 acacc[ag]c
+7  75 F 7  78 -1 1.14e+01 cac[ct]act
+7  76 P 7 103 -1 1.14e+01 acc[at]cta
+7  77 C 7  94 -1 1.14e+01 c[ca]actac
+7  82 C 7  90 -1 1.14e+01 act[gt]caa
+7  83 C 7 169 -1 1.14e+01 ctg[ca]aag

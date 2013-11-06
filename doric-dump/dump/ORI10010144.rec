@@ -1,0 +1,75 @@
+AccId: ORI10010144
+Organism: Halorubrum lacusprofundi ATCC 49239 chromosome 1
+RefSeq: NC_012029
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Halorubrum.
+ChromSize: 2735295 nt
+ChromGC: 0.6672
+OriCLen: 1002 nt
+OriCAT: 0.503
+OriCIdx: 2735073..779 nt
+Cdc6Idx: 780..2453, 1077250..1078446, 1085512..1086711, 1125569..1126741, 1541528..1542730, 2614867..2615994 nt
+Extremes: 345907 nt (minimum), 2734117 nt (maximum)
+Note: This sequence has been predicted as oriC region by Wu et al. (BMC Genomics 2012, 13:478).The ORB sequences:CCCCCACCCCTTTGTTTCGACTGGAGAGTTCCACACGAAACGAAGGGGTGGGGGGT
+Sequence: cctaacctccagtcctgtgttctctcccagatacactgtgcggtgtggtaacgcccgatgctgcgcatccagcgtgtgtacggggaattacgatagaatccacgcccctctcacttaagaactgcgtcagacacgggcgatttggtgatattcgggtcgtgcagttgttaacacgcgggatatcggttgtttacttattcgagcttatttatatattcttaataatctggaattggatatggtagatcgacgagagacgggctaacgggaaacaaatcttattctattgatctatcccggtgatccatctcggtgatccatcctgttgatctagctcgttctgattctctcccctcccccacccctttgtttcgactggagaccgttatcggtggaggggtggatacgagtggtcgtgtctcggatgtaaatacgagtgttcaaacgatttaccgtaactactactaacaacaaaataaatgatcgggctttgtcgagggtactgttttacagacattataataaaactaccgctatactatatcctcttctcacccccctcccccaccaaatccgagttccacacgaaacgaaggggtggggggtcaggagaagacaaacagataatccgagtggataaccggcaccgactagacgatcacgagactgaaacggggtggaatccgaggacagctccgaaaaacgagtggatcgcattacggctgtctggactcgaatcgagacaatacacccacgtttcccgtccatcgagtttcccctcctaacgtctcgatctcgctgtcgattttgtcactgatcttgaccgacacggtccgtttcgggtccagagagcaacacttttgtaccccgtattcatctggttcgactgcatcaactggacatattcgaccatagttctggtcgaatatcgacgtttcaggccgaaatacgacctctgccgccgttgcgcgggcgacttccacctgaaacagaggggttcca
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+19  355 P 19  585 -1 5.86e-05 cccccacccctt[tc]gtttcg
+18  191 R 18  194 -1 2.22e-04 ta[ct]ttattcgagcttatt
+16  293 F 16  306 -1 3.16e-03 atc[ct]cggtgatccatc
+13  350 F 13  556  0 4.21e-03 cccctcccccacc
+12  297 F 12  310  0 1.68e-02 cggtgatccatc
+11  275 R 11  275  0 6.73e-02 atcttattcta
+11  507 R 11  507  0 6.73e-02 ttacagacatt
+11  555 R 11  555  0 6.73e-02 ccccctccccc
+11  613 R 11  613  0 6.73e-02 agacaaacaga
+11  901 P 11  918  0 6.73e-02 atattcgacca
+13  266 C 13  362 -1 1.64e-01 gggaaacaaa[tg]ct
+13  360 P 13  985 -1 1.64e-01 acccct[tc]tgtttc
+10  350 R 10  555  0 2.69e-01 cccctccccc
+12  353 C 12  591 -1 6.06e-01 ct[ct]ccccacccc
+12  403 F 12  430 -1 6.06e-01 atacgagtg[gt]tc
+12  553 P 12  594 -1 6.06e-01 acccccc[ta]cccc
+12  725 P 12  837 -1 6.06e-01 tctggac[tc]cgaa
+9   19 F  9  344  0 1.08e+00 ttctctccc
+9  120 R  9  120  0 1.08e+00 actgcgtca
+9  138 P  9  565  0 1.08e+00 gatttggtg
+9  208 R  9  208  0 1.08e+00 ttatatatt
+9  249 R  9  845  0 1.08e+00 acgagagac
+9  264 P  9  755  0 1.08e+00 acgggaaac
+9  350 R  9  350  0 1.08e+00 cccctcccc
+9  356 R  9  356  0 1.08e+00 ccccacccc
+9  364 R  9  364  0 1.08e+00 ctttgtttc
+9  501 R  9  804  0 1.08e+00 actgtttta
+9  543 C  9  607  0 1.08e+00 tcctcttct
+9  570 F  9  625  0 1.08e+00 aatccgagt
+9  594 R  9  594  0 1.08e+00 ggggtgggg
+9  629 F  9  703  0 1.08e+00 cgagtggat
+9  956 R  9  956  0 1.08e+00 tgccgccgt
+11    0 R 11    4 -1 2.22e+00 cct[ag]acctcca
+11    5 C 11  600 -1 2.22e+00 cc[tc]ccagtcct
+11   66 P 11  170 -1 2.22e+00 atcc[ac]gcgtgt
+11  114 P 11  160 -1 2.22e+00 ttaa[gc]aactgc
+11  119 R 11  884 -1 2.22e+00 aact[ga]cgtcag
+11  283 F 11  322 -1 2.22e+00 ct[ag]ttgatcta
+11  296 P 11  633 -1 2.22e+00 ccggt[gt]atcca
+11  349 R 11  355 -1 2.22e+00 tcccc[ta]ccccc
+11  349 C 11  593 -1 2.22e+00 tcccc[ta]ccccc
+11  358 R 11  771 -1 2.22e+00 cc[at]cccctttg
+11  367 F 11  878 -1 2.22e+00 tg[tg]ttcgactg
+11  428 F 11  698 -1 2.22e+00 aaa[ta]acgagtg
+11  468 R 11  520 -1 2.22e+00 ca[at]caaaataa
+11  695 F 11  941 -1 2.22e+00 ccgaaa[at]acga
+11  721 P 11  842 -1 2.22e+00 gct[gc]tctggac
+11  731 P 11  731 -1 2.22e+00 ctcga[at]tcgag
+11  755 F 11  771 -1 2.22e+00 gtttccc[gc]tcc
+8    6 P  8  373  0 4.31e+00 ctccagtc

@@ -1,0 +1,75 @@
+AccId: ORI10010215
+Organism: Haloferax mediterranei ATCC 33500 chromosome
+RefSeq: NC_017941
+Topology: Circular
+Lineage: Archaea, Euryarchaeota, Halobacteria, Halobacteriales, Halobacteriaceae, Haloferax.
+ChromSize: 2948884 nt
+ChromGC: 0.6112
+OriCLen: 1160 nt
+OriCAT: 0.4716
+OriCIdx: 2066581..2067740 nt
+Cdc6Idx: 1..1617, 183378..184502, 574599..575825, 863681..864670, 1249583..1250587, 1516227..1517486, 1742363..1743565, 2067741..2068943 nt
+Extremes: 715145 nt (minimum), 2927433 nt (maximum)
+Note: 
+Sequence: ctcggcacaggtatcggtctcagggaaccgttcgtttacgcggaaagtacgattcggctatcccaacgccacgagtactcagtcacgcttaattgttgggctgttagcggtcggtactggcgctctcgaaggaggccctccgagtgtagccgatatacaagaggaacaccacgaggttgatcagtaacccgaccgtaaattgcatgacaatcgcctcgtacggcgacaccgcaattggcctcggcttgaggaccatgaagtacagataaccgatttggcggtcgtacacgtacgggatggcaaagccgaacacaccggccgcggcgacgagtaccgacgacagccgatgaactcctgcaggaagccctcgtcgagtcgcgtggatagtgacaagcccgacgaacaacagcactgtgagaagtccagcaatgagatagggcatgtaaatcatcatgcgctattgtcaatccatatgggtttttgaagggtgtttggatttacgacgacggtcgggtattggttcgggtgaaggacagtagatttcgtatgcttttcgcgttgtaagacagcagtcggtgcgtttgagagggggacacgttttgcaagtgttctttgagcaatacagtgcttctcgaacagccaaaatttgttgtggtattgacggtgtcagacacaccgttttgcaagtgtttctgtttgggaagcagacagagatatgagaatagcacttgcaaaacggtgtgagggcggtatatatgcaacctgaacacttggaacacatttgacggtggtccgacaggctacggcgtgcgcgttgcacgacatcgcttgcgcgtctctgcagaacagatgaagtcgtggggggtgagaggatgtgagaaggttttgcataggacgttcggtttcgatttgtgtccccggtcgatatccggctttttgggccgttagacacgcgaaaacagatgaagtcgtgggggtgggtggtttcgtcgaggtcgtcggcgacctcgaagaaccatactttacaccgtcggccggatgtatatgagaagagccgaaaagagggtcaactagcggccaggagaaccaattccgattacggtgtatggggagcgttccaaaccgcctgtattcagcgaaccatccttcgagggtctgga
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+20  844 F 20  957  0 3.44e-07 aacagatgaagtcgtggggg
+18  671 P 18  725  0 5.51e-06 cacaccgttttgcaagtg
+15  595 F 15  676  0 3.52e-04 cgttttgcaagtgtt
+13  540 R 13  540  0 5.64e-03 tttcgtatgcttt
+13  595 P 13  725  0 5.64e-03 cgttttgcaagtg
+13  713 F 13 1042 -1 2.20e-01 atatgagaa[tg]agc
+13  985 P 13 1002 -1 2.20e-01 ttc[gt]tcgaggtcg
+10  100 C 10  205  0 3.61e-01 ctgttagcgg
+10  186 P 10  505  0 3.61e-01 acccgaccgt
+10  253 R 10  253  0 3.61e-01 catgaagtac
+10  352 P 10  352  0 3.61e-01 tcctgcagga
+10  594 R 10  594  0 3.61e-01 acgttttgca
+10  857 R 10  857  0 3.61e-01 gtggggggtg
+12   95 F 12  936 -1 8.12e-01 ttgggc[tc]gttag
+12  121 R 12  358 -1 8.12e-01 gctc[tc]cgaagga
+12  453 C 12  950 -1 8.12e-01 tgcgct[at]ttgtc
+12  590 R 12  882 -1 8.12e-01 gga[ct]acgttttg
+12  594 R 12  878 -1 8.12e-01 acgttttg[cg]aag
+12  599 P 12  764 -1 8.12e-01 tt[gc]caagtgttc
+12  989 P 12  999 -1 8.12e-01 tcgaggtcg[tc]cg
+12 1046 R 12 1052 -1 8.12e-01 gagaa[ga]agccga
+9  109 P  9  329  0 1.44e+00 gtcggtact
+9  124 P  9 1143  0 1.44e+00 ctcgaagga
+9  244 C  9  348  0 1.44e+00 cttgaggac
+9  289 R  9  434  0 1.44e+00 gtacgggat
+9  412 F  9  873  0 1.44e+00 tgtgagaag
+9  550 P  9  950  0 1.44e+00 ttttcgcgt
+9  594 R  9  676  0 1.44e+00 acgttttgc
+9  594 C  9  729  0 1.44e+00 acgttttgc
+9  657 F  9  781  0 1.44e+00 ttgacggtg
+9  749 R  9  749  0 1.44e+00 gtatatatg
+9  833 R  9  833  0 1.44e+00 cgtctctgc
+9  970 R  9  970  0 1.44e+00 gtgggggtg
+9  975 R  9  975  0 1.44e+00 ggtgggtgg
+11   64 F 11  164 -1 2.98e+00 aac[ga]ccacgag
+11   67 F 11  323 -1 2.98e+00 gc[cg]acgagtac
+11  129 F 11  358 -1 2.98e+00 agga[ga]gccctc
+11  130 P 11  130 -1 2.98e+00 ggagg[cg]cctcc
+11  465 P 11  468 -1 2.98e+00 aa[tc]ccatatgg
+11  512 P 11 1083 -1 2.98e+00 gg[ta]attggttc
+11  663 P 11  663 -1 2.98e+00 gtgtc[at]gacac
+11  676 R 11  878 -1 2.98e+00 cgttttg[cg]aag
+11  680 P 11  765 -1 2.98e+00 tt[gc]caagtgtt
+11  727 C 11  878 -1 2.98e+00 ctt[gc]caaaacg
+11 1012 F 11 1137 -1 2.98e+00 gaaccat[ac]ctt
+8   53 C  8  147  0 5.77e+00 tcggctat
+8   64 R  8  226  0 5.77e+00 aacgccac
+8   72 P  8   72  0 5.77e+00 gagtactc
+8   95 C  8  185  0 5.77e+00 ttgggctg
+8  141 R  8  871  0 5.77e+00 gagtgtag

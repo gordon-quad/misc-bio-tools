@@ -1,0 +1,75 @@
+AccId: ORI10010034
+Organism: Thermofilum pendens Hrk 5
+RefSeq: NC_008698
+Topology: Circular
+Lineage: Archaea, Crenarchaeota, Thermoprotei, Thermoproteales, Thermofilaceae, Thermofilum.
+ChromSize: 1781889 nt
+ChromGC: 0.5767
+OriCLen: 834 nt
+OriCAT: 0.4724
+OriCIdx: 538594..539427 nt
+Cdc6Idx: 233137..234450, 537403..538593, 821240..822412 nt
+Extremes: 490353 nt (minimum), 77599 nt (maximum)
+Note: 
+Sequence: gcagcatccataggatccagtagaagtagaggttacattaagcaatactttagaagagactaaaacccgaacgtgctaccacagtcttacagatgtacaaagcacacgtagaatcataccaactgctagccgccacgcagagaacaggggatggtgccccggccgggatttgaacccgggatatccgcgcccgccgtcgcacgggctcctcggctcgaaaggccgatatcctctcaaccccctgcaggttgaccgggctagacgaccggggctacgcacctaaaacgtcgaagaaccagttatatgtttttctcttagcacgcgaaattttaatatcaaggggtttgttatagtctaacgcgcggccggggtggccgagcggaccaaggcgatggcctggagagccattacccgttaagggtgcccgggttcgaatcccggccccggcgccattctccgatcacacttgacgcagatacaactagaagttgttttacgttgaaaacgccttattcttgtgtggaggccgcatcatcaacttagatgcttcgtctaaaagatcatggaaactagaggcgcgcccccctttgaaccaccgtcctcggggtttctcccgcgaacgttatgagccccgcgggatacctggcttccccaccccgcttgtcctctggtagcggggggtggactttccgggggcgcgcctcacgtgaatatttctgcctctctatatgaatttttcgcacgcataagttcttattggaaaaattatccagaaagcagggaaatttatctaacctctggataactttcacgatattttcgctgttactcccg
+Repeats: The following lines contain repeats found, one line each.
+[1] - repeat length of the first part
+[2] - starting position of the first part
+[3] - match direction
+[4] - repeat length of the second part
+[5] - starting position of the second part
+[6] - distance of this repeat
+[7] - calculated evalue of this repeat
+[8] - repeat sequence
+
+For more details, please refer toThe Manual of REPuter.
+20 160 P 20 423 -1 1.07e-05 ggccgggatt[tc]gaacccggg
+13 572 P 13 691  0 2.92e-03 gaggcgcgccccc
+13 761 P 13 796 -1 1.14e-01 aaa[ag]ttatccaga
+10 157 P 10 157  0 1.87e-01 cccggccggg
+10 203 R 10 203  0 1.87e-01 ggctcctcgg
+10 438 R 10 438  0 1.87e-01 cggccccggc
+9 155 R  9 437  0 7.46e-01 gccccggcc
+9 156 P  9 362  0 7.46e-01 ccccggccg
+9 171 P  9 423  0 7.46e-01 gaacccggg
+9 509 R  9 749  0 7.46e-01 ttattcttg
+9 649 R  9 649  0 7.46e-01 ccccacccc
+9 765 P  9 796  0 7.46e-01 ttatccaga
+11  27 P 11 788 -1 1.54e+00 agaggtta[cg]at
+11 179 C 11 569 -1 1.54e+00 gat[ac]tccgcgc
+11 387 R 11 666 -1 1.54e+00 ggcgatgg[ct]ct
+11 439 C 11 689 -1 1.54e+00 ggcccc[gc]gcgc
+11 473 R 11 533 -1 1.54e+00 agat[at]caacta
+8   6 R  8 636  0 2.99e+00 tccatagg
+8  41 C  8 620  0 2.99e+00 gcaatact
+8 155 F  8 440  0 2.99e+00 gccccggc
+8 159 F  8 362  0 2.99e+00 cggccggg
+8 168 F  8 586  0 2.99e+00 tttgaacc
+8 178 P  8 178  0 2.99e+00 ggatatcc
+8 202 R  8 598  0 2.99e+00 gggctcct
+8 208 R  8 208  0 2.99e+00 ctcggctc
+8 216 C  8 685  0 2.99e+00 gaaaggcc
+8 240 P  8 240  0 2.99e+00 cctgcagg
+8 325 R  8 325  0 2.99e+00 aattttaa
+8 327 C  8 761  0 2.99e+00 ttttaata
+8 363 C  8 437  0 2.99e+00 ggccgggg
+8 366 P  8 651  0 2.99e+00 cggggtgg
+8 404 R  8 404  0 2.99e+00 ccattacc
+8 436 R  8 436  0 2.99e+00 cccggccc
+8 544 R  8 544  0 2.99e+00 tgcttcgt
+8 574 F  8 694  0 2.99e+00 ggcgcgcc
+8 574 P  8 574  0 2.99e+00 ggcgcgcc
+8 578 C  8 673  0 2.99e+00 cgcccccc
+8 630 P  8 630  0 2.99e+00 cccgcggg
+8 694 P  8 694  0 2.99e+00 ggcgcgcc
+8 702 P  8 702  0 2.99e+00 tcacgtga
+8 731 P  8 759  0 2.99e+00 aatttttc
+10  56 P 10 346 -1 5.60e+00 agacta[at]aac
+10  68 C 10 805 -1 5.60e+00 gaa[ca]gtgcta
+10  74 P 10 665 -1 5.60e+00 gctacca[cg]ag
+10  98 R 10 317 -1 5.60e+00 aaagc[ag]cacg
+10 106 R 10 537 -1 5.60e+00 cgtaga[at]tca
+10 119 P 10 481 -1 5.60e+00 caact[gt]ctag
+10 141 C 10 659 -1 5.60e+00 gaacagg[ga]ga
+10 152 F 10 419 -1 5.60e+00 ggtgccc[cg]gg
+10 155 P 10 262 -1 5.60e+00 gccccgg[ct]cg
