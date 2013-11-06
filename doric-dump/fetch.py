@@ -16,7 +16,7 @@ def text_with_newlines(elem):
             text += '\n'
     return text
 
-for i in range(237,238):
+for i in range(1,238):
     try:
         resp = urllib2.urlopen(url % i)
         html = resp.read()
