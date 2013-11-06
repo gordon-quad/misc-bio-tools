@@ -43,4 +43,4 @@ for i in range(237,238):
             for k in ['AccId', 'Organism', 'RefSeq', 'Topology', 'Lineage', 'ChromSize', 'ChromGC', 'OriCLen', 'OriCAT', 'OriCIdx', 'Cdc6Idx', 'Extremes', 'Note', 'Sequence', 'Repeats']:
                 f.write(k + ': ' + result[k] + '\n')
     except e:
-        print 'обосрались: ' + str(e)
+        print 'failed (%d): %s' % (i, str(e))
