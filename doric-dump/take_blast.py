@@ -9,7 +9,7 @@ with open('archaea_gis.txt') as f:
     gis = map(lambda x: x.strip(), f.readlines())
     query = " ".join(gis)
 
-for fn in glob('oriC/*.fasta'):
+for fn in glob('fasta/*.fasta'):
     try:
         print "getting BLAST for %s" % (fn)
         rec = SeqIO.read(fn, 'fasta')
