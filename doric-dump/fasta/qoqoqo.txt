@@ -1,0 +1,905 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTN 2.2.28+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: 7T9T8F29015
+
+
+Database: NCBI Chromosome Sequences
+           43,605 sequences; 198,515,039,729 total letters
+Query= 
+Length=697
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+ref|NC_000854.2|  Aeropyrum pernix K1, complete genome              1258   0.0  
+ref|NC_014374.1|  Acidilobus saccharovorans 345-15 chromosome,...    185   3e-45
+ref|NC_015931.1|  Pyrolobus fumarii 1A chromosome, complete ge...    140   1e-31
+ref|NC_008818.1|  Hyperthermus butylicus DSM 5456 chromosome, ...    136   1e-30
+ref|NC_012804.1|  Thermococcus gammatolerans EJ3 chromosome, c...    111   5e-23
+ref|NC_009033.1|  Staphylothermus marinus F1 chromosome, compl...    105   2e-21
+ref|NC_009776.1|  Ignicoccus hospitalis KIN4/I chromosome, com...    100   9e-20
+ref|NC_015474.1|  Pyrococcus sp. NA2 chromosome, complete genome   96.9    1e-18
+ref|NC_000868.1|  Pyrococcus abyssi GE5 chromosome, complete g...  95.1    4e-18
+ref|NC_000961.1|  Pyrococcus horikoshii OT3 chromosome, comple...  91.5    5e-17
+ref|NC_015680.1|  Pyrococcus yayanosii CH1 chromosome, complet...  86.0    2e-15
+ref|NC_006624.1|  Thermococcus kodakarensis KOD1 chromosome, c...  84.2    7e-15
+ref|NC_003413.1|  Pyrococcus furiosus DSM 3638 chromosome, com...  82.4    3e-14
+ref|NC_014160.1|  Thermosphaera aggregans DSM 11486 chromosome...  68.0    6e-10
+ref|NC_011766.1|  Desulfurococcus kamchatkensis 1221n chromoso...  66.2    2e-09
+ref|NC_012883.1|  Thermococcus sibiricus MM 739, complete genome   59.0    3e-07
+ref|NC_015865.1|  Thermococcus sp. 4557 chromosome, complete g...  57.2    1e-06
+ref|NC_014961.1|  Desulfurococcus mucosus DSM 2162 chromosome,...  57.2    1e-06
+ref|NC_015562.1|  Methanotorris igneus Kol 5 chromosome, compl...  53.6    1e-05
+ref|NC_014122.1|  Methanocaldococcus infernus ME chromosome, c...  51.8    4e-05
+ref|NC_013407.1|  Methanocaldococcus vulcanius M7 chromosome, ...  50.0    1e-04
+ref|NC_010482.1|  Candidatus Korarchaeum cryptofilum OPF8 chro...  50.0    1e-04
+ref|NC_013926.1|  Aciduliprofundum boonei T469 chromosome, com...  46.4    0.002
+ref|NC_013887.1|  Methanocaldococcus sp. FS406-22 chromosome, ...  46.4    0.002
+ref|NC_013741.1|  Archaeoglobus profundus DSM 5631 chromosome,...  46.4    0.002
+ref|NC_013156.1|  Methanocaldococcus fervens AG86 chromosome, ...  46.4    0.002
+ref|NC_009635.1|  Methanococcus aeolicus Nankai-3 chromosome, ...  46.4    0.002
+ref|NC_003551.1|  Methanopyrus kandleri AV19, complete genome      46.4    0.002
+ref|NC_000909.1|  Methanocaldococcus jannaschii DSM 2661 chrom...  46.4    0.002
+ref|NC_011529.1|  Thermococcus onnurineus NA1 chromosome, comp...  41.0    0.077
+ref|NC_015954.1|  Halophilic archaeon DL31 chromosome, complet...  39.2    0.27 
+ref|NC_008701.1|  Pyrobaculum islandicum DSM 4184 chromosome, ...  37.4    0.94 
+ref|NC_008698.1|  Thermofilum pendens Hrk 5 chromosome, comple...  37.4    0.94 
+ref|NC_008553.1|  Methanosaeta thermophila PT chromosome, comp...  37.4    0.94 
+ref|NC_015948.1|  Haloarcula hispanica ATCC 33960 chromosome I...  35.6    3.3  
+ref|NC_009634.1|  Methanococcus vannielii SB chromosome, compl...  35.6    3.3  
+ref|NC_005877.1|  Picrophilus torridus DSM 9790 chromosome, co...  35.6    3.3  
+ref|NC_002578.1|  Thermoplasma acidophilum DSM 1728 chromosome...  35.6    3.3  
+
+ALIGNMENTS
+>ref|NC_000854.2| Aeropyrum pernix K1, complete genome
+Length=1669696
+
+ Score =  1258 bits (1394),  Expect = 0.0
+ Identities = 697/697 (100%), Gaps = 0/697 (0%)
+ Strand=Plus/Plus
+
+Query  1       AACCTACACCCGAAACACCAGTAGGATGGAGGCTCAAAATTAAGCTAGAAAGCGGGTCCA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  444838  AACCTACACCCGAAACACCAGTAGGATGGAGGCTCAAAATTAAGCTAGAAAGCGGGTCCA  444897
+
+Query  61      GATAGCTAGACTTAGGATGCTCCACAGGAAACGGAGGGGTCCTTATAAACCCCCGGCAAC  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  444898  GATAGCTAGACTTAGGATGCTCCACAGGAAACGGAGGGGTCCTTATAAACCCCCGGCAAC  444957
+
+Query  121     CACGCCACGCCGCACCCCGCAGGAAAGCCCCACACCCCCCAGGTTCCTCTGGAGCATCAG  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  444958  CACGCCACGCCGCACCCCGCAGGAAAGCCCCACACCCCCCAGGTTCCTCTGGAGCATCAG  445017
+
+Query  181     AAGCGTATACTCCTCCCGAATAGTGCTCTTGAAGAATGCCAATATAATGATACAAAAACC  240
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  445018  AAGCGTATACTCCTCCCGAATAGTGCTCTTGAAGAATGCCAATATAATGATACAAAAACC  445077
+
+Query  241     CAGTTTTAAACAAATCAAGCTAGAAACAAACAAAGACACACTATAATCCAGAACTGCACA  300
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  445078  CAGTTTTAAACAAATCAAGCTAGAAACAAACAAAGACACACTATAATCCAGAACTGCACA  445137
+
+Query  301     GCCTGAGAGGATCCAGCGGAAAACAGGGGGTGTGGGGGCTTAGTGTGTCAGCTCGCCGTC  360
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  445138  GCCTGAGAGGATCCAGCGGAAAACAGGGGGTGTGGGGGCTTAGTGTGTCAGCTCGCCGTC  445197
+
+Query  361     TCCACAGGAAACGGAGGGGTCGTATACCGGGGGGTTAACAACCTGCGGGAAGCGCATCCA  420
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  445198  TCCACAGGAAACGGAGGGGTCGTATACCGGGGGGTTAACAACCTGCGGGAAGCGCATCCA  445257
+
+Query  421     CCCCCACCCCCAACCATGAGGAGCCAGAACTAGCTGTCAACCATCACTATGCATACCCGG  480
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  445258  CCCCCACCCCCAACCATGAGGAGCCAGAACTAGCTGTCAACCATCACTATGCATACCCGG  445317
+
+Query  481     GAGGCGGCGCCGGCCATAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTC  540
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  445318  GAGGCGGCGCCGGCCATAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTC  445377
+
+Query  541     CCCCCGGGCTTCGCGCGGCCCTCACCGCCCGGGGGCCTTGCTCCGCCGGGGGCGGCCGTT  600
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  445378  CCCCCGGGCTTCGCGCGGCCCTCACCGCCCGGGGGCCTTGCTCCGCCGGGGGCGGCCGTT  445437
+
+Query  601     TCACCGCATCCCCGGGGTTCCTCTGCGGTTTGCTGCCGCCCTGTTGCCAGGGCGGCCTAG  660
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  445438  TCACCGCATCCCCGGGGTTCCTCTGCGGTTTGCTGCCGCCCTGTTGCCAGGGCGGCCTAG  445497
+
+Query  661     CCGCGTCCTCGACACGCCCCGGGGCCGTGTCGTTTCT  697
+               |||||||||||||||||||||||||||||||||||||
+Sbjct  445498  CCGCGTCCTCGACACGCCCCGGGGCCGTGTCGTTTCT  445534
+
+
+ Score = 41.0 bits (44),  Expect = 0.077
+ Identities = 22/22 (100%), Gaps = 0/22 (0%)
+ Strand=Plus/Plus
+
+Query  360     CTCCACAGGAAACGGAGGGGTC  381
+               ||||||||||||||||||||||
+Sbjct  444917  CTCCACAGGAAACGGAGGGGTC  444938
+
+
+ Score = 41.0 bits (44),  Expect = 0.077
+ Identities = 22/22 (100%), Gaps = 0/22 (0%)
+ Strand=Plus/Plus
+
+Query  80      CTCCACAGGAAACGGAGGGGTC  101
+               ||||||||||||||||||||||
+Sbjct  445197  CTCCACAGGAAACGGAGGGGTC  445218
+
+
+ Score = 39.2 bits (42),  Expect = 0.27
+ Identities = 21/21 (100%), Gaps = 0/21 (0%)
+ Strand=Plus/Minus
+
+Query  475     ACCCGGGAGGCGGCGCCGGCC  495
+               |||||||||||||||||||||
+Sbjct  445657  ACCCGGGAGGCGGCGCCGGCC  445637
+
+
+ Score = 37.4 bits (40),  Expect = 0.94
+ Identities = 20/20 (100%), Gaps = 0/20 (0%)
+ Strand=Plus/Minus
+
+Query  382      GTATACCGGGGGGTTAACAA  401
+                ||||||||||||||||||||
+Sbjct  1260190  GTATACCGGGGGGTTAACAA  1260171
+
+
+ Score = 35.6 bits (38),  Expect = 3.3
+ Identities = 27/31 (87%), Gaps = 1/31 (3%)
+ Strand=Plus/Plus
+
+Query  308     AGGATCCAGCGGAAAACAGGGGGTGTGGGGG  338
+               ||||||||||||||||||   ||||| ||||
+Sbjct  331396  AGGATCCAGCGGAAAACA-ATGGTGTAGGGG  331425
+
+
+ Score = 35.6 bits (38),  Expect = 3.3
+ Identities = 19/19 (100%), Gaps = 0/19 (0%)
+ Strand=Plus/Plus
+
+Query  382      GTATACCGGGGGGTTAACA  400
+                |||||||||||||||||||
+Sbjct  1261244  GTATACCGGGGGGTTAACA  1261262
+
+
+ Score = 35.6 bits (38),  Expect = 3.3
+ Identities = 19/19 (100%), Gaps = 0/19 (0%)
+ Strand=Plus/Minus
+
+Query  382      GTATACCGGGGGGTTAACA  400
+                |||||||||||||||||||
+Sbjct  1505901  GTATACCGGGGGGTTAACA  1505883
+
+
+>ref|NC_014374.1| Acidilobus saccharovorans 345-15 chromosome, complete genome
+Length=1496453
+
+ Score =   185 bits (204),  Expect = 3e-45
+ Identities = 179/225 (80%), Gaps = 9/225 (4%)
+ Strand=Plus/Plus
+
+Query  475     ACCCGGGAGGCGGCGCCGGCCATAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGC  534
+               ||| ||||||| | |   || |||||||||||||||||||||||||||||| | || |||
+Sbjct  401264  ACCTGGGAGGCCGAG---GCTATAACCCGCCTTCTGTACTTCGGCGGCATTTGACTCAGC  401320
+
+Query  535     GGTCTCCCCCCGGGCTTCGCGCGGCCC-TCACCGCCCGGGGGCCTTGCTCCGCCGGGGGC  593
+               |||||||    |||| || |||||||| |||| | ||  || |||||||||||||||| |
+Sbjct  401321  GGTCTCCA---GGGCCTCCCGCGGCCCCTCACAGGCCCTGG-CCTTGCTCCGCCGGGGAC  401376
+
+Query  594     GGCCGTTTCACCGCATCCCCGGGGTTCCTCTGCGGTTTGCTGCCGCCCTGTTGCCAGGGC  653
+               |||||||||||||||||||| | | |||||  | | || |||| | ||||| |||||| |
+Sbjct  401377  GGCCGTTTCACCGCATCCCCCGCGGTCCTCGACCGGTTACTGCGGGCCTGTCGCCAGGCC  401436
+
+Query  654     GGCCTAGCCGCGTCCTCGACACGCC-CCGGGGCCGTGTCGTTTCT  697
+                |||| || | ||| ||| || |||   ||||||||||||| |||
+Sbjct  401437  CGCCTCGCGGAGTCATCGCCATGCCGTGGGGGCCGTGTCGTCTCT  401481
+
+
+ Score = 35.6 bits (38),  Expect = 3.3
+ Identities = 21/22 (95%), Gaps = 0/22 (0%)
+ Strand=Plus/Plus
+
+Query  79       GCTCCACAGGAAACGGAGGGGT  100
+                |||||| |||||||||||||||
+Sbjct  1057414  GCTCCAGAGGAAACGGAGGGGT  1057435
+
+
+ Score = 35.6 bits (38),  Expect = 3.3
+ Identities = 24/26 (92%), Gaps = 1/26 (4%)
+ Strand=Plus/Plus
+
+Query  360      CTCCACAGGAAACGGAGGGGTCGTAT  385
+                ||||| ||||||||||||||| ||||
+Sbjct  1057415  CTCCAGAGGAAACGGAGGGGT-GTAT  1057439
+
+
+>ref|NC_015931.1| Pyrolobus fumarii 1A chromosome, complete genome
+Length=1843267
+
+ Score =   140 bits (154),  Expect = 1e-31
+ Identities = 160/213 (75%), Gaps = 3/213 (1%)
+ Strand=Plus/Minus
+
+Query  487     GCGCCGGCCATAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTCCCCCCG  546
+               || ||||| |||||||||||||||||||||||| ||||| ||||||||||   |  | ||
+Sbjct  138675  GCCCCGGCTATAACCCGCCTTCTGTACTTCGGCCGCATTTGGCTAAGCGGGG-CGGCGCG  138617
+
+Query  547     GGCTTCGCGCGGCCCTCACCGCCCGGGGGCCTTGCTCCGCCGGGGGCGGCCGTTTCACCG  606
+                   |||||||||||||| || |  |   |||||| || | |||||||||||||||| ||
+Sbjct  138616  CCAGTCGCGCGGCCCTCATCGGCGCGCCCCCTTGCACCCCGGGGGGCGGCCGTTTCAACG  138557
+
+Query  607     CATCCCCGGGGTTCCTCTGCGGTTTGCTGCCGCCCTGTTGCCAGGGCGGCCTAGCCGCGT  666
+               || || |  || ||||| | || |||||| | | | |||||| | | | ||| ||| | |
+Sbjct  138556  CACCCGCCTGGGTCCTCGGGGGGTTGCTGACCCTCGGTTGCCCGAGGGTCCTCGCCCCCT  138497
+
+Query  667     CCTCGACACGCCCC--GGGGCCGTGTCGTTTCT  697
+               | ||| ||  || |  | || ||||||||||||
+Sbjct  138496  CATCGTCATCCCGCAGGCGGGCGTGTCGTTTCT  138464
+
+
+>ref|NC_008818.1| Hyperthermus butylicus DSM 5456 chromosome, complete genome
+Length=1667163
+
+ Score =   136 bits (150),  Expect = 1e-30
+ Identities = 162/216 (75%), Gaps = 4/216 (2%)
+ Strand=Plus/Minus
+
+Query  486   GGCGCCGGCCATAACCCGCCTTCTGTACTT-CGGCGGCATTGGGCTAAGCGGTCTCCCCC  544
+             ||| ||||| |||||||||||||||||| | |||| ||||  | |||||||| | ||  |
+Sbjct  3270  GGCCCCGGCTATAACCCGCCTTCTGTACCTACGGCCGCATCCGACTAAGCGGACGCCGGC  3211
+
+Query  545   CGGGCT-TCGCGCGGCCCTCACCGCCCGGGGGCCTTGCTCCGCCGGGGGCGGCCGTTTCA  603
+               | |  |||||||||||||| || |  |  |||||||||| | |||| |||||||||||
+Sbjct  3210  GCGCCAATCGCGCGGCCCTCATCGGCGCGCCGCCTTGCTCCCCGGGGGACGGCCGTTTCA  3151
+
+Query  604   CCGCATCCCCGGGGTTCCTCTGCGGTTTGCTGCCGCCCTGTTGCCAGGGCGGCCTAGCCG  663
+              |||| || |  || ||||| |||| || ||| | ||| || ||| ||| | ||| ||||
+Sbjct  3150  ACGCACCCACCCGGGTCCTCAGCGGGTTACTGGCTCCCCGTCGCCGGGGAGCCCTCGCCG  3091
+
+Query  664   CGTCCTCGACACGCCCCGG--GGCCGTGTCGTTTCT  697
+             | || ||| |   || |||  || |||| |||||||
+Sbjct  3090  CCTCATCGTCCTCCCGCGGGTGGGCGTGCCGTTTCT  3055
+
+
+>ref|NC_012804.1| Thermococcus gammatolerans EJ3 chromosome, complete genome
+Length=2045438
+
+ Features in this part of subject sequence:
+   hypothetical protein
+   Membrane transport protein
+
+ Score =   111 bits (122),  Expect = 5e-23
+ Identities = 157/210 (75%), Gaps = 12/210 (6%)
+ Strand=Plus/Minus
+
+Query  497     TAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTCCCCCCGGGCTT-CGCG  555
+               || |||||||||||||    || |||||| | || ||||| || || | |||||  | | 
+Sbjct  326333  TAGCCCGCCTTCTGTATCAAGGGGGCATTCGACTGAGCGGCCTACCACGGGGCTCACACC  326274
+
+Query  556     CGGCCCTCACCGCCCGGG----GGCCTTGCTCCGCCGGGGGCGGCCGTTTCACCGCATCC  611
+                ||  |||| |||||  |    |||||||| || |  ||| |||||||||||||||||||
+Sbjct  326273  GGGAACTCATCGCCCCAGCTACGGCCTTGCACCCCGCGGGACGGCCGTTTCACCGCATCC  326214
+
+Query  612     CCGGGGTTCCTCTGC-GGTTTGCT-GCCGCCCTGTTGCCAGGGCGGCCTAGC-CGCGTCC  668
+               || ||| || ||||| |||| ||| |  |||| || ||| ||||  | | || |||||| 
+Sbjct  326213  CCCGGGATCGTCTGCGGGTTAGCTCGGTGCCC-GTCGCC-GGGC-CCTTCGCACGCGTCA  326157
+
+Query  669     TCGACA-CGCCCCGGGGCCGTGTCGTTTCT  697
+               || ||| | ||| |||||||||||||||||
+Sbjct  326156  TCCACATCCCCCGGGGGCCGTGTCGTTTCT  326127
+
+
+>ref|NC_009033.1| Staphylothermus marinus F1 chromosome, complete genome
+Length=1570485
+
+ Score =   105 bits (116),  Expect = 2e-21
+ Identities = 167/235 (71%), Gaps = 21/235 (9%)
+ Strand=Plus/Plus
+
+Query  479     GGGAGGCGGCGCCGGCCATAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTC  538
+               |||||| ||||  ||||||||||||| ||||||||    || ||||| | ||| |||| |
+Sbjct  936048  GGGAGG-GGCG--GGCCATAACCCGCATTCTGTACAA--GCTGCATTAGACTATGCGGCC  936102
+
+Query  539     TCCCCCCGGGCTTCGCGCGGCC--CTCACCGCCC-----------GGGGGCCTTGCTCCG  585
+                ||  | |||  | ||||||||  |||| | |||           ||||||||||| || 
+Sbjct  936103  CCCAACAGGGGGTTGCGCGGCCACCTCATCCCCCCTAATAATTAGGGGGGCCTTGCACCC  936162
+
+Query  586     C-CGGGGGCGGCCGTTTCACCGCATCCCCGGGGTTCCTCTGCGGTTTGCTGCCGCCCTGT  644
+               | ||||  ||||||||||| ||||||| | |   |||||  ||| ||||||   ||| ||
+Sbjct  936163  CACGGGACCGGCCGTTTCAACGCATCCACCGCCGTCCTCAACGGGTTGCTGAGCCCCCGT  936222
+
+Query  645     TGCCAGGGCGGCCTAGCCGCGTCCTCGACA--CGCCCCGGGGCCGTGTCGTTTCT  697
+               |||| |||   |||  |||| || ||| ||  ||  | | |||||||||||||||
+Sbjct  936223  TGCCGGGGGCTCCTCACCGCTTCATCGCCATCCGAGCGGTGGCCGTGTCGTTTCT  936277
+
+
+>ref|NC_009776.1| Ignicoccus hospitalis KIN4/I chromosome, complete genome
+Length=1297538
+
+ Score =   100 bits (110),  Expect = 9e-20
+ Identities = 93/116 (80%), Gaps = 8/116 (7%)
+ Strand=Plus/Plus
+
+Query  493     GCCATAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTCCCCCCGGG--CT  550
+               || ||| ||| ||||||||||| |||||||||| |||| |||||   ||| |||||  | 
+Sbjct  509141  GCTATAGCCCACCTTCTGTACTGCGGCGGCATTTGGCTGAGCGG---CCCTCCGGGACCC  509197
+
+Query  551     TCGCGCGGCCCTCACCG---CCCGGGGGCCTTGCTCCGCCGGGGGCGGCCGTTTCA  603
+               |||||||||||||  ||   |||   ||||||||||| | ||||||||||||||||
+Sbjct  509198  TCGCGCGGCCCTCCTCGGGTCCCAACGGCCTTGCTCCCCGGGGGGCGGCCGTTTCA  509253
+
+
+>ref|NC_015474.1| Pyrococcus sp. NA2 chromosome, complete genome
+Length=1861320
+
+ Score = 96.9 bits (106),  Expect = 1e-18
+ Identities = 152/210 (72%), Gaps = 11/210 (5%)
+ Strand=Plus/Minus
+
+Query  497     TAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTCCCCCCGGGCTTCGCGC  556
+               || ||||||||||||||| ||| |||||| | |||||||| ||  || ||||| || | |
+Sbjct  633384  TAGCCCGCCTTCTGTACTACGGGGGCATTCGACTAAGCGGCCT-ACCACGGGCCTCACAC  633326
+
+Query  557     --GGCCCTCACCGCCC----GGGGGCCTTGCTCCGCCGGGGGCGGCCGTTTCACCGCATC  610
+                 ||  |||| || ||       |||||||| || |  ||| |||||||||||||||  |
+Sbjct  633325  CGGGAACTCATCGGCCCAAACTCGGCCTTGCACCCCGCGGGACGGCCGTTTCACCGCTCC  633266
+
+Query  611     CCCGGGGTTCCTCTGCGGTTTGCTGCCGC-CCTGTTGCCAGGGCGGCCTAGCCGC-GTCC  668
+               ||  ||| || ||||||| ||    | || || || ||| ||| | | | |||||  || 
+Sbjct  633265  CCTCGGGATCGTCTGCGGGTTAACTCGGCTCCCGTCGCC-GGGAGCCTTCGCCGCTTTCA  633207
+
+Query  669     TCGACACGCCCCG-GGGCCGTGTCGTTTCT  697
+               || |||  ||||| ||| ||||||||||||
+Sbjct  633206  TCCACATCCCCCGAGGGACGTGTCGTTTCT  633177
+
+
+>ref|NC_000868.1| Pyrococcus abyssi GE5 chromosome, complete genome
+Length=1765118
+
+ Score = 95.1 bits (104),  Expect = 4e-18
+ Identities = 159/217 (73%), Gaps = 15/217 (7%)
+ Strand=Plus/Minus
+
+Query  492     GGCCATAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTCCCCCCGGGCTT  551
+               ||| ||| ||||||||||||||| ||| |||||| | |||||||| ||  || ||||| |
+Sbjct  174796  GGCTATAGCCCGCCTTCTGTACTACGGGGGCATTCGACTAAGCGGCCT-ACCACGGGCCT  174738
+
+Query  552     CGCGC--GGCCCTCACCGCCC----GGGGGCCTTGCTCCGCCGGGGGCGGCCGTTTCACC  605
+               | | |  ||  |||| || ||       |||||||| || |  ||| |||||||||||||
+Sbjct  174737  CACACCGGGAACTCATCGGCCCTAACTCGGCCTTGCACCCCGCGGGACGGCCGTTTCACC  174678
+
+Query  606     GCATCCCC-GGGGTTCCTCTGC-GGTTTGCTGCCGC-CCTGTTGCCAGGGCGGCCTAGCC  662
+               | ||||||  ||| |  ||||| |||| ||| | || || || ||| ||| | | |  ||
+Sbjct  174677  G-ATCCCCTCGGGATTGTCTGCGGGTTAGCT-CGGCTCCCGTCGCC-GGGAGCCTTCACC  174621
+
+Query  663     GC-GTCCTCGACACGCCCCG-GGGCCGTGTCGTTTCT  697
+               ||  || || |||  ||||| ||| ||||||||||||
+Sbjct  174620  GCTTTCATCCACATCCCCCGAGGGACGTGTCGTTTCT  174584
+
+
+>ref|NC_000961.1| Pyrococcus horikoshii OT3 chromosome, complete genome
+Length=1738505
+
+ Score = 91.5 bits (100),  Expect = 5e-17
+ Identities = 156/216 (72%), Gaps = 13/216 (6%)
+ Strand=Plus/Minus
+
+Query  492     GGCCATAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTCCCCCCGGGCTT  551
+               ||| ||| ||||||||||||||| ||| |||||| | |||||||| ||  || ||||| |
+Sbjct  168490  GGCTATAGCCCGCCTTCTGTACTACGGGGGCATTCGACTAAGCGGCCT-ACCACGGGCCT  168432
+
+Query  552     CGCGC--GGCCCTCACCGCCC----GGGGGCCTTGCTCCGCCGGGGGCGGCCGTTTCACC  605
+               | | |  ||  |||| || ||       |||||||| || |  ||| |||||||||||||
+Sbjct  168431  CACACCGGGAACTCATCGGCCCTAACTCGGCCTTGCACCCCGCGGGACGGCCGTTTCACC  168372
+
+Query  606     GCATCCCC-GGGGTTCCTCTGC-GGTTTGCTGCCGCCCTGTTGCCAGGGCGGCCTAGCCG  663
+               | ||||||  ||| || ||||| ||||  ||    ||| ||  ||| || | | |  |||
+Sbjct  168371  G-ATCCCCTCGGGATCGTCTGCGGGTTAACTCGGCCCCCGTCACCA-GGAGCCTTCACCG  168314
+
+Query  664     C-GTCCTCGACACGCCCCG-GGGCCGTGTCGTTTCT  697
+               |  || || |||  ||||| ||| ||||||||||||
+Sbjct  168313  CTTTCATCCACATCCCCCGAGGGGCGTGTCGTTTCT  168278
+
+
+>ref|NC_015680.1| Pyrococcus yayanosii CH1 chromosome, complete genome
+Length=1716818
+
+ Score = 86.0 bits (94),  Expect = 2e-15
+ Identities = 151/211 (72%), Gaps = 13/211 (6%)
+ Strand=Plus/Minus
+
+Query  497      TAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTCCCCCCGGGCTTCGCGC  556
+                || ||||||||||||||| ||| |||||| | |||||||| ||  || ||||| || | |
+Sbjct  1455740  TAGCCCGCCTTCTGTACTGCGGGGGCATTCGACTAAGCGGCCT-ACCACGGGCCTCACAC  1455682
+
+Query  557      --GGCCCTCACCGCCC----GGGGGCCTTGCTCCGCCGGGGGCGGCCGTTTCACCGCATC  610
+                  ||  ||||  | ||       |||||||| || |  ||| |||||||||||||||  |
+Sbjct  1455681  CGGGAACTCATTGGCCCTTTCTCGGCCTTGCACCCCGCGGGACGGCCGTTTCACCGCTCC  1455622
+
+Query  611      CCCGGGGTTCCTCTGC-GGTTTGCTGCCGC-CCTGTTGCCAGGGCGGCCTAGCCGCGTCC  668
+                ||| ||| || || || |||| ||| | || || || ||| ||| | | | ||||| | |
+Sbjct  1455621  CCCCGGGGTCGTCAGCGGGTTAGCT-CGGCTCCCGTCGCC-GGGAGCCTTCGCCGCTTTC  1455564
+
+Query  669      TCGAC--ACGCCCCGGGGCCGTGTCGTTTCT  697
+                  | |   | ||| |||| ||||||||||||
+Sbjct  1455563  ATGCCCATCTCCCGGGGGACGTGTCGTTTCT  1455533
+
+
+>ref|NC_006624.1| Thermococcus kodakarensis KOD1 chromosome, complete genome
+Length=2088737
+
+ Features in this part of subject sequence:
+   nucleic acid-binding protein
+   rRNA-RNase P RNA
+
+ Score = 84.2 bits (92),  Expect = 7e-15
+ Identities = 152/214 (71%), Gaps = 10/214 (5%)
+ Strand=Plus/Plus
+
+Query  492      GGCCATAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTCCCCCCGGGCTT  551
+                |||| || |||||||||||||    || |||||| | || ||||| || || | ||||| 
+Sbjct  1601261  GGCCGTAGCCCGCCTTCTGTATCAAGGGGGCATTCGACTGAGCGGCCTACCACGGGGCTC  1601320
+
+Query  552      -CGCGCGGCCCTCACCGCCCGGG----GGCCTTGCTCCGCCGGGGGCGGCCGTTTCACCG  606
+                 | |  ||  |||| |||||       |||||||| || |  ||| ||||||||||||||
+Sbjct  1601321  ACACCGGGAACTCATCGCCCCTCCCTCGGCCTTGCACCCCGCGGGACGGCCGTTTCACCG  1601380
+
+Query  607      CATCCCCGGGGTTCCTCTGC-GGTTTGCTGCCGCCCTGTTGCCAGGGCGGCCTAGCCGC-  664
+                |||||||  || || ||||| |||| |||   || | || ||| ||||  | |  |||| 
+Sbjct  1601381  CATCCCCCCGGGTCGTCTGCGGGTTAGCTCGGGCACCGTCGCC-GGGC-CCTTCACCGCT  1601438
+
+Query  665      GTCCTCGACA-CGCCCCGGGGCCGTGTCGTTTCT  697
+                 || ||  ||   ||  |||||||||||||||||
+Sbjct  1601439  TTCATCCCCATATCCGGGGGGCCGTGTCGTTTCT  1601472
+
+
+>ref|NC_003413.1| Pyrococcus furiosus DSM 3638 chromosome, complete genome
+Length=1908256
+
+ Score = 82.4 bits (90),  Expect = 3e-14
+ Identities = 152/215 (71%), Gaps = 11/215 (5%)
+ Strand=Plus/Minus
+
+Query  492     GGCCATAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTCCCCCCGGGCTT  551
+               ||| ||| ||||||||||||||| |||  ||||| | |||||||| ||  || ||||| |
+Sbjct  114035  GGCTATAGCCCGCCTTCTGTACTACGGGAGCATTCGACTAAGCGGCCT-ACCACGGGCCT  113977
+
+Query  552     CGCGC--GGCCCTCACCGCCC----GGGGGCCTTGCTCCGCCGGGGGCGGCCGTTTCACC  605
+               | | |  ||  |||| || ||       |||||||| || |  ||| |||||||||||||
+Sbjct  113976  CACACCGGGAACTCATCGGCCCTAACTCGGCCTTGCACCCCGCGGGACGGCCGTTTCACC  113917
+
+Query  606     GCATCCCCGGGGTTCCTCTGCGGTTTGCTGCCGC-CCTGTTGCCAGGGCGGCCTAGCCGC  664
+               ||  |||  ||| |  ||||||| ||    | || || ||  || ||| | | |  ||||
+Sbjct  113916  GCTCCCCTCGGGATTGTCTGCGGGTTAACTCGGCTCCCGTCACC-GGGAGCCTTCACCGC  113858
+
+Query  665     -GTCCTCGACACGCCCCG-GGGCCGTGTCGTTTCT  697
+                 || || |||  ||||| ||| ||||||||||||
+Sbjct  113857  TTTCATCCACATCCCCCGAGGGACGTGTCGTTTCT  113823
+
+
+>ref|NC_014160.1| Thermosphaera aggregans DSM 11486 chromosome, complete genome
+Length=1316595
+
+ Score = 68.0 bits (74),  Expect = 6e-10
+ Identities = 91/124 (73%), Gaps = 12/124 (10%)
+ Strand=Plus/Minus
+
+Query  492      GGCCATAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTCCCCCCGGGCTT  551
+                |||| |||||||| ||||||  |  | | ||||| | |||||||| || | || |    |
+Sbjct  1148295  GGCCGTAACCCGCGTTCTGT--TAAGCCCGCATTCGTCTAAGCGGCCTACACCGG----T  1148242
+
+Query  552      CGCGCGGCCCTCACCGCCCGGG----GGCCTTGCTCCGCCGGGGGCGGCCGTTTCACCGC  607
+                |||| |||||||||   ||||     |||||||| |||   ||||||||||||||| |||
+Sbjct  1148241  CGCGTGGCCCTCACA--CCGGAACCAGGCCTTGCACCGTGCGGGGCGGCCGTTTCAACGC  1148184
+
+Query  608      ATCC  611
+                 |||
+Sbjct  1148183  GTCC  1148180
+
+
+>ref|NC_011766.1| Desulfurococcus kamchatkensis 1221n chromosome, complete genome
+Length=1365223
+
+ Score = 66.2 bits (72),  Expect = 2e-09
+ Identities = 100/135 (74%), Gaps = 13/135 (10%)
+ Strand=Plus/Minus
+
+Query  483      GGCGGCGCCGGCCA-TAACCCGCCTTCTGTACTTCGGCGGCA--TTGGGCTAAGCGGTCT  539
+                ||||  |||||  | |||||||| ||||||  |||| |  ||  || | ||| |||| | 
+Sbjct  1156835  GGCGCGGCCGGGTAGTAACCCGCATTCTGT--TTCGACCCCACATTCGTCTATGCGGCC-  1156779
+
+Query  540      CCCCCCGGGCTTCGCGCGGCCCTCACCGCCCGG---GGGCCTTGCTCCGCCGGGGGCGGC  596
+                | | ||||   ||||| |||||||||| || ||   |||||||||||||   ||| ||||
+Sbjct  1156778  CACACCGG---TCGCGTGGCCCTCACC-CCGGGACCGGGCCTTGCTCCGTACGGGACGGC  1156723
+
+Query  597      CGTTTCACCGCATCC  611
+                ||||||| ||| |||
+Sbjct  1156722  CGTTTCAACGCCTCC  1156708
+
+
+>ref|NC_012883.1| Thermococcus sibiricus MM 739, complete genome
+Length=1845800
+
+ Score = 59.0 bits (64),  Expect = 3e-07
+ Identities = 86/119 (72%), Gaps = 6/119 (5%)
+ Strand=Plus/Minus
+
+Query  493      GCCATAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTCCCCCCGGGCTTC  552
+                || ||| |||||||||||||||  || |||||| | || ||| | || || | || || |
+Sbjct  1586761  GCTATAGCCCGCCTTCTGTACTCTGG-GGCATTCGACTGAGCAGCCTACCACGGGACTCC  1586703
+
+Query  553      GCGCGGCC-CTCACCGCCCGGG----GGCCTTGCTCCGCCGGGGGCGGCCGTTTCACCG  606
+                   |||   |||| |||||       |||||||| || |  ||||||||||||||||||
+Sbjct  1586702  CACCGGGAACTCATCGCCCCTTTCTCGGCCTTGCACCACGTGGGGCGGCCGTTTCACCG  1586644
+
+
+>ref|NC_015865.1| Thermococcus sp. 4557 chromosome, complete genome
+Length=2011320
+
+ Features in this part of subject sequence:
+   putative flagellin
+   permease
+
+ Score = 57.2 bits (62),  Expect = 1e-06
+ Identities = 101/142 (71%), Gaps = 9/142 (6%)
+ Strand=Plus/Plus
+
+Query  497      TAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTCCCCCCGGGCTTCGCGC  556
+                || ||||||||||||     || | |||| | || ||||| || || | ||||| ||| |
+Sbjct  1216358  TAGCCCGCCTTCTGTCTCAAGGGGACATTCGACTGAGCGGCCTACCACGGGGCT-CGCAC  1216416
+
+Query  557      --GGCCCTCACCGCCCGGG----GGCCTTGCTCCGCCGGGGGCGGCCGTTTCACCGCATC  610
+                  || | ||| |||||       |||||||| || |  ||| ||||||||||||||  ||
+Sbjct  1216417  CGGGACTTCATCGCCCCTCCCTCGGCCTTGCACCCCGCGGGACGGCCGTTTCACCG-GTC  1216475
+
+Query  611      CCCG-GGGTTCCTCTGCGGTTT  631
+                ||||  || || ||||||| ||
+Sbjct  1216476  CCCGACGGGTCGTCTGCGGGTT  1216497
+
+
+>ref|NC_014961.1| Desulfurococcus mucosus DSM 2162 chromosome, complete genome
+Length=1314639
+
+ Score = 57.2 bits (62),  Expect = 1e-06
+ Identities = 95/131 (73%), Gaps = 11/131 (8%)
+ Strand=Plus/Minus
+
+Query  484      GCGGCGCCGGCCATAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTCCCC  543
+                ||||| | |||| |||||||| |||||| |  |  |  |||| | ||| |||| | | | 
+Sbjct  1178874  GCGGC-CGGGCCGTAACCCGCATTCTGTTCACC--CCACATTTGTCTATGCGGCC-CACA  1178819
+
+Query  544      CCGGGCTTCGCGCGGCCCTCACCGCCCGG---GGGCCTTGCTCCGCCGGGGGCGGCCGTT  600
+                ||||   ||||| |||||||||  || ||   ||||||||| ||    ||| ||||||||
+Sbjct  1178818  CCGG---TCGCGTGGCCCTCACA-CCGGGACCGGGCCTTGCACCATGCGGGACGGCCGTT  1178763
+
+Query  601      TCACCGCATCC  611
+                ||| ||| |||
+Sbjct  1178762  TCAACGCCTCC  1178752
+
+
+>ref|NC_015562.1| Methanotorris igneus Kol 5 chromosome, complete genome
+Length=1854197
+
+ Score = 53.6 bits (58),  Expect = 1e-05
+ Identities = 40/46 (87%), Gaps = 1/46 (2%)
+ Strand=Plus/Minus
+
+Query  492      GGCCATAACCCGCCTTCTGT-ACTTCGGCGGCATTGGGCTAAGCGG  536
+                ||| ||| |||||||||||| | ||||||| |||| ||||||||||
+Sbjct  1095476  GGCTATAGCCCGCCTTCTGTAATTTCGGCGACATTCGGCTAAGCGG  1095431
+
+
+>ref|NC_014122.1| Methanocaldococcus infernus ME chromosome, complete genome
+Length=1328194
+
+ Score = 51.8 bits (56),  Expect = 4e-05
+ Identities = 39/45 (87%), Gaps = 1/45 (2%)
+ Strand=Plus/Plus
+
+Query  492      GGCCATAACCCGCCTTCTGT-ACTTCGGCGGCATTGGGCTAAGCG  535
+                ||| ||| |||||||||||| | ||||| |||||| |||||||||
+Sbjct  1150196  GGCTATAGCCCGCCTTCTGTAATTTCGGTGGCATTCGGCTAAGCG  1150240
+
+
+>ref|NC_013407.1| Methanocaldococcus vulcanius M7 chromosome, complete genome
+Length=1746329
+
+ Score = 50.0 bits (54),  Expect = 1e-04
+ Identities = 38/44 (86%), Gaps = 1/44 (2%)
+ Strand=Plus/Plus
+
+Query  492      GGCCATAACCCGCCTTCTGT-ACTTCGGCGGCATTGGGCTAAGC  534
+                ||| ||| |||||||||||| | ||||| |||||| ||||||||
+Sbjct  1569645  GGCTATAGCCCGCCTTCTGTAATTTCGGTGGCATTCGGCTAAGC  1569688
+
+
+>ref|NC_010482.1| Candidatus Korarchaeum cryptofilum OPF8 chromosome, complete 
+genome
+Length=1590757
+
+ Score = 50.0 bits (54),  Expect = 1e-04
+ Identities = 100/142 (70%), Gaps = 16/142 (11%)
+ Strand=Plus/Plus
+
+Query  492     GGCCATAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCTCCCCCCGGGCTT  551
+               |||||||  ||||||||||||||  || || ||| |||||||||    || ||||    |
+Sbjct  603228  GGCCATAGTCCGCCTTCTGTACT--GGGGGGATTTGGCTAAGCGCCTACCTCCCG---CT  603282
+
+Query  552     CGCGC--GGCCCTCACCGCCCGGG---GGCCTTG--CTCCGCCGGGGGCGGCCGTTTCAC  604
+               ||| |  | ||||||  |  ||||    | ||||  | ||||||||| |  |||||||||
+Sbjct  603283  CGCCCCAGCCCCTCATAG--CGGGAATCGGCTTGCACGCCGCCGGGGCC--CCGTTTCAC  603338
+
+Query  605     CGCATCCCCGGGGTTCCTCTGC  626
+               ||   || ||||| | ||| ||
+Sbjct  603339  CGGTCCCTCGGGGATTCTCAGC  603360
+
+
+>ref|NC_013926.1| Aciduliprofundum boonei T469 chromosome, complete genome
+Length=1486778
+
+ Score = 46.4 bits (50),  Expect = 0.002
+ Identities = 28/30 (93%), Gaps = 0/30 (0%)
+ Strand=Plus/Plus
+
+Query  574     GGCCTTGCTCCGCCGGGGGCGGCCGTTTCA  603
+               || ||||||||||||||| |||||||||||
+Sbjct  401820  GGGCTTGCTCCGCCGGGGTCGGCCGTTTCA  401849
+
+
+>ref|NC_013887.1| Methanocaldococcus sp. FS406-22 chromosome, complete genome
+Length=1760939
+
+ Score = 46.4 bits (50),  Expect = 0.002
+ Identities = 38/45 (84%), Gaps = 1/45 (2%)
+ Strand=Plus/Plus
+
+Query  492      GGCCATAACCCGCCTTCTGT-ACTTCGGCGGCATTGGGCTAAGCG  535
+                ||| ||| |||||||||||| | ||||| | |||| |||||||||
+Sbjct  1431240  GGCTATAGCCCGCCTTCTGTAATTTCGGTGACATTCGGCTAAGCG  1431284
+
+
+>ref|NC_013741.1| Archaeoglobus profundus DSM 5631 chromosome, complete genome
+Length=1560622
+
+ Score = 46.4 bits (50),  Expect = 0.002
+ Identities = 36/43 (84%), Gaps = 0/43 (0%)
+ Strand=Plus/Plus
+
+Query  497     TAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCGGTCT  539
+               ||| || ||||||||   ||||||||||||| |||||||| ||
+Sbjct  673831  TAAGCCCCCTTCTGTTTCTCGGCGGCATTGGTCTAAGCGGGCT  673873
+
+
+ Score = 37.4 bits (40),  Expect = 0.94
+ Identities = 25/28 (89%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  576     CCTTGCTCCGCCGGGGGCGGCCGTTTCA  603
+               |||||| ||| ||||| |||||||||||
+Sbjct  673878  CCTTGCACCGGCGGGGACGGCCGTTTCA  673905
+
+
+>ref|NC_013156.1| Methanocaldococcus fervens AG86 chromosome, complete genome
+Length=1485061
+
+ Score = 46.4 bits (50),  Expect = 0.002
+ Identities = 38/45 (84%), Gaps = 1/45 (2%)
+ Strand=Plus/Plus
+
+Query  492      GGCCATAACCCGCCTTCTGT-ACTTCGGCGGCATTGGGCTAAGCG  535
+                ||| ||| |||||||||||| | ||||| | |||| |||||||||
+Sbjct  1009734  GGCTATAGCCCGCCTTCTGTAATTTCGGTGACATTCGGCTAAGCG  1009778
+
+
+>ref|NC_009635.1| Methanococcus aeolicus Nankai-3 chromosome, complete genome
+Length=1569500
+
+ Score = 46.4 bits (50),  Expect = 0.002
+ Identities = 35/40 (88%), Gaps = 1/40 (3%)
+ Strand=Plus/Plus
+
+Query  496      ATAACCCGCCTTCTGT-ACTTCGGCGGCATTGGGCTAAGC  534
+                ||| |||||||||||| | ||||||| |||| ||||||||
+Sbjct  1190870  ATAGCCCGCCTTCTGTAATTTCGGCGACATTCGGCTAAGC  1190909
+
+
+>ref|NC_003551.1| Methanopyrus kandleri AV19, complete genome
+Length=1694969
+
+ Score = 46.4 bits (50),  Expect = 0.002
+ Identities = 57/73 (78%), Gaps = 4/73 (5%)
+ Strand=Plus/Minus
+
+Query  583    CCGCCGGGGGCGGCCGTTTCACCGCATCCC-CGGGGTTCCTCTGC-GGTTTGCTGCCGCC  640
+              |||||||| | | ||||||||||| ||||| | ||  |||||||| |||| |||   |||
+Sbjct  40448  CCGCCGGGCG-GCCCGTTTCACCG-ATCCCGCCGGCGTCCTCTGCGGGTTAGCTCGGGCC  40391
+
+Query  641    CTGTTGCCAGGGC  653
+              | || ||| ||||
+Sbjct  40390  CCGTCGCCGGGGC  40378
+
+
+ Score = 39.2 bits (42),  Expect = 0.27
+ Identities = 43/56 (77%), Gaps = 5/56 (9%)
+ Strand=Plus/Minus
+
+Query  492    GGCCATAACCCGCCTTCTGTA--CTT---CGGCGGCATTGGGCTAAGCGGTCTCCC  542
+              ||| ||| |||||||||||||  |||   ||||||||||   || ||||| || ||
+Sbjct  40574  GGCTATAGCCCGCCTTCTGTAGCCTTAGACGGCGGCATTCACCTCAGCGGCCTACC  40519
+
+
+>ref|NC_000909.1| Methanocaldococcus jannaschii DSM 2661 chromosome, complete genome
+Length=1664970
+
+ Score = 46.4 bits (50),  Expect = 0.002
+ Identities = 38/45 (84%), Gaps = 1/45 (2%)
+ Strand=Plus/Minus
+
+Query  492     GGCCATAACCCGCCTTCTGT-ACTTCGGCGGCATTGGGCTAAGCG  535
+               ||| ||| |||||||||||| | ||||| | |||| |||||||||
+Sbjct  643754  GGCTATAGCCCGCCTTCTGTAATTTCGGTGACATTCGGCTAAGCG  643710
+
+
+>ref|NC_011529.1| Thermococcus onnurineus NA1 chromosome, complete genome
+Length=1847607
+
+ Score = 41.0 bits (44),  Expect = 0.077
+ Identities = 46/59 (78%), Gaps = 2/59 (3%)
+ Strand=Plus/Minus
+
+Query  574      GGCCTTGCTCCGCCGGGGGCGGCCGTTTCACCGCATCCCCG-GGGTTCCTCTGCGGTTT  631
+                |||||||| || |  ||| ||||||||||||||| |||| |   | || ||||||| ||
+Sbjct  1641663  GGCCTTGCACCCCGCGGGACGGCCGTTTCACCGC-TCCCTGACAGGTCGTCTGCGGGTT  1641606
+
+
+>ref|NC_015954.1| Halophilic archaeon DL31 chromosome, complete genome
+Length=2913689
+
+ Features in this part of subject sequence:
+   phospholipase D/transphosphatidylase
+
+ Score = 39.2 bits (42),  Expect = 0.27
+ Identities = 38/49 (78%), Gaps = 0/49 (0%)
+ Strand=Plus/Plus
+
+Query  566     CGCCCGGGGGCCTTGCTCCGCCGGGGGCGGCCGTTTCACCGCATCCCCG  614
+               || ||| || ||  | | |||||||||||| ||||  | ||||||||||
+Sbjct  449901  CGACCGTGGTCCACGTTTCGCCGGGGGCGGACGTTCGAACGCATCCCCG  449949
+
+
+>ref|NC_008701.1| Pyrobaculum islandicum DSM 4184 chromosome, complete genome
+Length=1826402
+
+ Score = 37.4 bits (40),  Expect = 0.94
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Plus
+
+Query  269     AACAAAGACACACTATAATCCAG  291
+               |||||||||||| ||||||||||
+Sbjct  157394  AACAAAGACACAATATAATCCAG  157416
+
+
+>ref|NC_008698.1| Thermofilum pendens Hrk 5 chromosome, complete genome
+Length=1781889
+
+ Score = 37.4 bits (40),  Expect = 0.94
+ Identities = 27/30 (90%), Gaps = 1/30 (3%)
+ Strand=Plus/Plus
+
+Query  294      CTGCACAGCCTGAGAGGATCCAGCGGAAAA  323
+                |||||| ||| |||||||||||| ||||||
+Sbjct  1389266  CTGCACCGCC-GAGAGGATCCAGAGGAAAA  1389294
+
+
+>ref|NC_008553.1| Methanosaeta thermophila PT chromosome, complete genome
+Length=1879471
+
+ Score = 37.4 bits (40),  Expect = 0.94
+ Identities = 32/39 (82%), Gaps = 2/39 (5%)
+ Strand=Plus/Plus
+
+Query  497     TAACCCGCCTTCTGTACTTCGGCGGCATTGGGCTAAGCG  535
+               ||| || ||||||||  ||||||||||||  ||| ||||
+Sbjct  334184  TAAGCCCCCTTCTGT--TTCGGCGGCATTCAGCTTAGCG  334220
+
+
+>ref|NC_015948.1| Haloarcula hispanica ATCC 33960 chromosome I, complete sequence
+Length=2995271
+
+ Features in this part of subject sequence:
+   IclR family transcriptional regulator
+
+ Score = 35.6 bits (38),  Expect = 3.3
+ Identities = 21/22 (95%), Gaps = 0/22 (0%)
+ Strand=Plus/Minus
+
+Query  406      CGGGAAGCGCATCCACCCCCAC  427
+                ||||||||||||||||| ||||
+Sbjct  2396409  CGGGAAGCGCATCCACCTCCAC  2396388
+
+
+>ref|NC_009634.1| Methanococcus vannielii SB chromosome, complete genome
+Length=1720048
+
+ Score = 35.6 bits (38),  Expect = 3.3
+ Identities = 22/24 (92%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  215      AATGCCAATATAATGATACAAAAA  238
+                |||||| ||||||||||| |||||
+Sbjct  1320608  AATGCCGATATAATGATAGAAAAA  1320585
+
+
+>ref|NC_005877.1| Picrophilus torridus DSM 9790 chromosome, complete genome
+Length=1545895
+
+ Score = 35.6 bits (38),  Expect = 3.3
+ Identities = 27/32 (84%), Gaps = 0/32 (0%)
+ Strand=Plus/Plus
+
+Query  224      ATAATGATACAAAAACCCAGTTTTAAACAAAT  255
+                |||||||| | | ||||||||||| | |||||
+Sbjct  1193337  ATAATGATTCTATAACCCAGTTTTCATCAAAT  1193368
+
+
+>ref|NC_002578.1| Thermoplasma acidophilum DSM 1728 chromosome, complete genome
+Length=1564906
+
+ Score = 35.6 bits (38),  Expect = 3.3
+ Identities = 25/28 (89%), Gaps = 2/28 (7%)
+ Strand=Plus/Minus
+
+Query  212      AAGAATGCCAAT--ATAATGATACAAAA  237
+                |||||| |||||  ||||||||||||||
+Sbjct  1084692  AAGAATTCCAATTTATAATGATACAAAA  1084665
+
+
+  Database: NCBI Chromosome Sequences
+    Posted date:  Nov 6, 2013  6:48 PM
+  Number of letters in database: 247,854,145
+  Number of sequences in database:  114
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 114
+Number of Hits to DB: 0
+Number of extensions: 0
+Number of successful extensions: 0
+Number of sequences better than 10: 0
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 0
+Number of HSP's successfully gapped: 0
+Length of query: 697
+Length of database: 247854145
+Length adjustment: 29
+Effective length of query: 668
+Effective length of database: 247850839
+Effective search space: 165564360452
+Effective search space used: 165564360452
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+S2: 37 (34.6 bits)
+
+
+
+
